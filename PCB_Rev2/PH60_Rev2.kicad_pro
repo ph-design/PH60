@@ -482,7 +482,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../PCB_Model_Rev2/PH60_Rev2.step",
       "svg": "",
       "vrml": ""
     },
