@@ -65994,7 +65994,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C9"
-			(at 0 1.16 360)
+			(at 0 1.16 0)
 			(layer "B.SilkS")
 			(uuid "1d3ea5f6-62df-4473-9009-987e91bf545e")
 			(effects
@@ -66006,7 +66006,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 0 -1.16 360)
+			(at 0 -1.16 0)
 			(layer "B.Fab")
 			(uuid "65b4957c-8c92-47b4-907b-1fd7f057ef40")
 			(effects
@@ -66165,7 +66165,7 @@
 			(uuid "ed482f05-53d3-415a-917a-305783f95983")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(uuid "63f2476a-085c-40fe-96f6-90d97b4323a0")
 			(effects
@@ -67120,6 +67120,30 @@
 		(net 2)
 		(uuid "cfd4e167-3c78-47f6-a932-f5a208c23191")
 	)
+	(via
+		(at 144.225 116.125)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(net 2)
+		(uuid "e4990f09-75a4-44e8-912c-bfdbfc2fcc79")
+	)
+	(via
+		(at 141.775 104.075)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(net 2)
+		(uuid "f9821401-80e8-401f-8a13-9dffe24f0c68")
+	)
+	(segment
+		(start 141.775 105.075)
+		(end 142.695 105.075)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 2)
+		(uuid "0ad9b262-3190-4ed8-ba26-a997b42c81c2")
+	)
 	(segment
 		(start 179.575 107.675)
 		(end 181.225 107.675)
@@ -67287,6 +67311,22 @@
 		(layer "B.Cu")
 		(net 2)
 		(uuid "98ea60ca-942c-439a-ab17-47194a566f10")
+	)
+	(segment
+		(start 144.225 116.1125)
+		(end 144.225 116.125)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 2)
+		(uuid "aba79050-c963-45e7-a363-8ab397c4fbfb")
+	)
+	(segment
+		(start 141.775 105.075)
+		(end 141.775 104.075)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 2)
+		(uuid "aecab418-fe55-4994-b967-4a2afd06f0ae")
 	)
 	(segment
 		(start 130.855 118.965)
@@ -67721,6 +67761,14 @@
 		(uuid "044a5de5-95f3-4f87-a1b4-e79607789e07")
 	)
 	(segment
+		(start 126.175 106.175)
+		(end 124.52 106.175)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 5)
+		(uuid "05c9e939-6c38-48bc-a1b4-741524f63d7b")
+	)
+	(segment
 		(start 141.775 106.035)
 		(end 141.775 107.275)
 		(width 0.2)
@@ -67919,6 +67967,14 @@
 		(layer "B.Cu")
 		(net 5)
 		(uuid "bbbd4cc2-fba0-4732-aa24-8dcd6b87ab53")
+	)
+	(segment
+		(start 124.52 106.175)
+		(end 123.075 107.62)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 5)
+		(uuid "c0ea02f4-320a-4ada-bf4f-afbfb066d379")
 	)
 	(segment
 		(start 142.695 108.195)
@@ -70873,6 +70929,14 @@
 		(uuid "03365814-d543-461c-9bb1-6af1c1f79def")
 	)
 	(segment
+		(start 128.83 106.175)
+		(end 130.275 107.62)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 77)
+		(uuid "0dfa87ed-8650-43a5-8070-e4ef5babe49f")
+	)
+	(segment
 		(start 132.215 107.993924)
 		(end 132.711076 108.49)
 		(width 0.2)
@@ -70887,6 +70951,14 @@
 		(layer "B.Cu")
 		(net 77)
 		(uuid "70ec041b-db9c-49dc-b408-323fe958860a")
+	)
+	(segment
+		(start 127.195 106.175)
+		(end 128.83 106.175)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 77)
+		(uuid "8015883e-323e-42e5-98d6-85331049f466")
 	)
 	(segment
 		(start 131.765 107.625)
@@ -74463,5 +74535,50 @@
 		(layer "B.Cu")
 		(net 99)
 		(uuid "e6853bcc-7b7c-4c2e-8e0f-ae841ff542e0")
+	)
+	(zone
+		(net 2)
+		(net_name "GND")
+		(layer "F.Cu")
+		(uuid "4ce16790-4c70-4635-93ea-0e3ae683ed44")
+		(hatch edge 0.5)
+		(connect_pads
+			(clearance 0.5)
+		)
+		(min_thickness 0.25)
+		(filled_areas_thickness no)
+		(fill
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+		)
+		(polygon
+			(pts
+				(xy 28.575 28.575) (xy 28.575 123.825) (xy 314.325 123.825) (xy 314.325 28.575)
+			)
+		)
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layers "In1.Cu" "In2.Cu" "B.Cu")
+		(uuid "6919406d-bb72-4c14-a5ea-522491e9a8f7")
+		(hatch edge 0.5)
+		(priority 1)
+		(connect_pads
+			(clearance 0.5)
+		)
+		(min_thickness 0.25)
+		(filled_areas_thickness no)
+		(fill
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 28.575 28.575) (xy 28.575 123.825) (xy 314.325 123.825) (xy 314.325 28.575)
+			)
+		)
 	)
 )
