@@ -543,7 +543,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "resources/uDB-S1-3D-model.STEP",
+      "step": "../PCB_Daughterboard_Model/uDB-S1-3D-model.STEP",
       "svg": "",
       "vrml": ""
     },
