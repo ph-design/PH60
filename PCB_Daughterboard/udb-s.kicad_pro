@@ -10,8 +10,8 @@
         "copper_line_width": 0.2,
         "copper_text_italic": false,
         "copper_text_size_h": 1.5,
-        "copper_text_size_v": 1.5,
-        "copper_text_thickness": 0.3,
+        "copper_text_size_v": 1.0,
+        "copper_text_thickness": 0.2,
         "copper_text_upright": false,
         "courtyard_line_width": 0.05,
         "dimension_precision": 4,
@@ -69,9 +69,7 @@
           "width": 0.25
         }
       ],
-      "drc_exclusions": [
-        "footprint_type_mismatch|125660000|78410000|ac561ca6-1fbe-4b41-bc0d-5428c93b2775|00000000-0000-0000-0000-000000000000"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
