@@ -557,7 +557,7 @@
 				)
 			)
 		)
-		(property "Value" "78171-0004"
+		(property "Value" "200528-0040"
 			(at 0 5.39 0)
 			(layer "F.Fab")
 			(uuid "f4772ee6-e74d-484f-abdf-97ca49ec0e2c")
@@ -1056,15 +1056,15 @@
 			(pintype "passive")
 			(uuid "21a0a407-4270-4207-b37e-5191b4f12157")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Connector_FFC-FPC.3dshapes/Molex_200528-0040_1x04-1MP_P1.00mm_Horizontal.wrl"
+		(model "C:/Users/liuming/Desktop/PH60/PCB_Daughterboard_Model/Molex_4Pin.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz 0 1 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz 180 0 0)
 			)
 		)
 	)
@@ -2364,15 +2364,15 @@
 			(pintype "passive")
 			(uuid "db7e1908-8f5d-4df7-b448-138da1d6742e")
 		)
-		(model "${PROJECT}/USB-C_Connector/USB-C_Connector.wrl"
+		(model "C:/Users/liuming/Desktop/PH60/PCB_Daughterboard_Model/USB-C.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz -4.5 -3.5 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 0 0)
 			)
 		)
 	)

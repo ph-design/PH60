@@ -3052,7 +3052,7 @@
 		)
 		(uuid "88cee817-220e-4a10-a9bd-b8977f3fa951")
 	)
-	(text "Pico-EZMate"
+	(text "Molex-4Pin"
 		(exclude_from_sim no)
 		(at 158.75 33.02 0)
 		(effects
@@ -4475,7 +4475,7 @@
 		(fields_autoplaced yes)
 		(uuid "9bedc7ad-26a6-4dea-8309-3bb1cd87c5e7")
 		(property "Reference" "J2"
-			(at 177.165 46.7105 0)
+			(at 176.53 46.7105 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4483,8 +4483,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "78171-0004"
-			(at 177.165 49.2505 0)
+		(property "Value" "200528-0040"
+			(at 176.53 49.2505 0)
 			(effects
 				(font
 					(size 1.27 1.27)
