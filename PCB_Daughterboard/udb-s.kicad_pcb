@@ -1285,141 +1285,6 @@
 			)
 		)
 	)
-	(footprint "MountingHole:MountingHole_2.2mm_M2_Pad_TopBottom"
-		(layer "F.Cu")
-		(uuid "838a20e3-067a-4b51-8f5a-e6aff6f10b98")
-		(at 141.1 34.8)
-		(descr "Mounting Hole 2.2mm, M2")
-		(tags "mounting hole 2.2mm m2")
-		(property "Reference" "H1"
-			(at 0 -3.2 0)
-			(layer "F.SilkS")
-			(uuid "75d86419-ddce-4452-afe4-bb5f82eb752b")
-			(effects
-				(font
-					(size 0.7 0.7)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "MountingHole"
-			(at 0 3.2 0)
-			(layer "F.Fab")
-			(uuid "33ba93e5-c67c-4846-bc98-9f827ec2e432")
-			(effects
-				(font
-					(size 0.5 0.5)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad_TopBottom"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "bdbb1345-968d-42cc-9316-20f00adc9a4e")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "82f6aca3-1e6b-4016-b25b-e792f4968c15")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "01676472-536b-4307-96a0-afa69947aa9e")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property ki_fp_filters "MountingHole*Pad*")
-		(path "/16636e00-b468-4c23-9ab8-563ae5bf046c")
-		(sheetname "根目录")
-		(sheetfile "udb-s.kicad_sch")
-		(attr exclude_from_pos_files exclude_from_bom)
-		(fp_circle
-			(center 0 0)
-			(end 2.2 0)
-			(stroke
-				(width 0.15)
-				(type solid)
-			)
-			(fill none)
-			(layer "Cmts.User")
-			(uuid "e5ef1805-ca78-4d56-bfe1-5bed6bc62d44")
-		)
-		(fp_circle
-			(center 0 0)
-			(end 2.45 0)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(fill none)
-			(layer "F.CrtYd")
-			(uuid "5d8b627a-ed4f-4bc7-b381-02fb54730ad1")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(uuid "b9d802e9-05ac-4069-96a2-944ec1164ad7")
-			(effects
-				(font
-					(size 0.7 0.7)
-					(thickness 0.15)
-				)
-			)
-		)
-		(pad "1" thru_hole circle
-			(at 0 0)
-			(size 2.6 2.6)
-			(drill 2.2)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(net 4 "GNDPWR")
-			(pinfunction "1")
-			(pintype "input")
-			(uuid "8038c11e-f547-44bb-9ed1-4170f13d3319")
-		)
-		(pad "1" connect circle
-			(at 0 0)
-			(size 4.4 4.4)
-			(layers "F.Cu" "F.Mask")
-			(net 4 "GNDPWR")
-			(pinfunction "1")
-			(pintype "input")
-			(uuid "3e2758e1-a755-4795-aff3-8b5b3b3b6cdb")
-		)
-		(pad "1" connect circle
-			(at 0 0)
-			(size 4.4 4.4)
-			(layers "B.Cu" "B.Mask")
-			(net 4 "GNDPWR")
-			(pinfunction "1")
-			(pintype "input")
-			(uuid "f1afa8af-c1ea-4ed9-9b9f-06c2d8b558c3")
-		)
-	)
 	(footprint "Package_SON:USON-10_2.5x1.0mm_P0.5mm"
 		(layer "F.Cu")
 		(uuid "85e9318f-c6e1-49a9-a211-e8e9bdf04817")
@@ -2936,91 +2801,88 @@
 			)
 		)
 	)
-	(zone
-		(net 1)
-		(net_name "GND")
-		(layer "F.Cu")
-		(uuid "454276de-3787-4dff-964d-da9ce724d974")
-		(hatch edge 0.5)
-		(priority 3)
-		(connect_pads
-			(clearance 0.2)
+	(gr_line
+		(start 143.5 40.5)
+		(end 143.5 32.5)
+		(stroke
+			(width 0.1)
+			(type default)
 		)
-		(min_thickness 0.25)
-		(filled_areas_thickness no)
-		(fill
-			(thermal_gap 0.5)
-			(thermal_bridge_width 0.5)
-		)
-		(polygon
-			(pts
-				(xy 128.5 26.5) (xy 128.5 56.5) (xy 188.5 56.5) (xy 188.5 26.5)
-			)
-		)
+		(layer "Edge.Cuts")
+		(uuid "1f1f403c-bc9f-4df8-ba66-4a3592970efb")
 	)
-	(zone
-		(net 1)
-		(net_name "GND")
-		(layer "In1.Cu")
-		(uuid "edb3ab71-c366-46ee-af10-58bfd96979bb")
-		(hatch edge 0.5)
-		(priority 2)
-		(connect_pads
-			(clearance 0.2)
+	(gr_arc
+		(start 143.5 32.5)
+		(mid 143.792893 31.792893)
+		(end 144.5 31.5)
+		(stroke
+			(width 0.1)
+			(type default)
 		)
-		(min_thickness 0.25)
-		(filled_areas_thickness no)
-		(fill
-			(thermal_gap 0.5)
-			(thermal_bridge_width 0.5)
-		)
-		(polygon
-			(pts
-				(xy 128.5 26.5) (xy 128.5 56.5) (xy 188.5 56.5) (xy 188.5 26.5)
-			)
-		)
+		(layer "Edge.Cuts")
+		(uuid "2e9c21d5-4789-4ae1-b6f3-d809712a2dd1")
 	)
-	(zone
-		(net 1)
-		(net_name "GND")
-		(layer "In2.Cu")
-		(uuid "9057a8c2-abf4-4ff7-897c-f48ade9b46fb")
-		(hatch edge 0.5)
-		(priority 1)
-		(connect_pads
-			(clearance 0.2)
+	(gr_line
+		(start 144.5 31.5)
+		(end 177.5 31.5)
+		(stroke
+			(width 0.1)
+			(type default)
 		)
-		(min_thickness 0.25)
-		(filled_areas_thickness no)
-		(fill
-			(thermal_gap 0.5)
-			(thermal_bridge_width 0.5)
-		)
-		(polygon
-			(pts
-				(xy 128.5 26.5) (xy 128.5 56.5) (xy 188.5 56.5) (xy 188.5 26.5)
-			)
-		)
+		(layer "Edge.Cuts")
+		(uuid "41c8d032-33e5-4493-ab51-008e4229b4a2")
 	)
-	(zone
-		(net 5)
-		(net_name "D+")
-		(layer "B.Cu")
-		(uuid "3a303c0f-6a38-45d2-8635-6dab51a3c06d")
-		(hatch edge 0.5)
-		(connect_pads
-			(clearance 0.2)
+	(gr_arc
+		(start 144.5 41.5)
+		(mid 143.792893 41.207107)
+		(end 143.5 40.5)
+		(stroke
+			(width 0.1)
+			(type default)
 		)
-		(min_thickness 0.25)
-		(filled_areas_thickness no)
-		(fill
-			(thermal_gap 0.5)
-			(thermal_bridge_width 0.5)
+		(layer "Edge.Cuts")
+		(uuid "4f8884a4-2b59-4838-9baf-b76de5f4ed70")
+	)
+	(gr_line
+		(start 178.5 32.5)
+		(end 178.5 40.5)
+		(stroke
+			(width 0.1)
+			(type default)
 		)
-		(polygon
-			(pts
-				(xy 128.5 26.5) (xy 128.5 56.5) (xy 188.5 56.5) (xy 188.5 26.5)
-			)
+		(layer "Edge.Cuts")
+		(uuid "87dfaed3-76c4-4966-bc88-e0563233c770")
+	)
+	(gr_arc
+		(start 177.5 31.5)
+		(mid 178.207107 31.792893)
+		(end 178.5 32.5)
+		(stroke
+			(width 0.1)
+			(type default)
 		)
+		(layer "Edge.Cuts")
+		(uuid "9383447b-1f24-4627-b651-ef2519c812b1")
+	)
+	(gr_arc
+		(start 178.5 40.5)
+		(mid 178.207107 41.207107)
+		(end 177.5 41.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "d77534dc-0567-433d-bf54-bd2c0904644a")
+	)
+	(gr_line
+		(start 177.5 41.5)
+		(end 144.5 41.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "dcb63932-60af-4cb6-a100-dc386424b66c")
 	)
 )
