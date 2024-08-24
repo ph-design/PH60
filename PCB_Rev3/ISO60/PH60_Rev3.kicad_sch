@@ -3519,6 +3519,10 @@
 		(uuid "ce1cc6c0-bdf5-4d99-be59-5417ae635ae3")
 	)
 	(no_connect
+		(at 83.82 73.66)
+		(uuid "d95ff1e2-d6f7-44b5-b6e9-a6f3c68fda0e")
+	)
+	(no_connect
 		(at 63.5 236.22)
 		(uuid "eddbfca9-d7a9-4e80-b197-b7a4a27f0c5e")
 	)
@@ -4832,16 +4836,6 @@
 		)
 		(uuid "fbf645dc-a808-4cfb-8b2b-9afce330e1c3")
 	)
-	(wire
-		(pts
-			(xy 67.31 73.66) (xy 83.82 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ffdf72e7-7a93-4baf-bee2-fed1c7813dc9")
-	)
 	(label "XIN"
 		(at 262.89 167.64 0)
 		(fields_autoplaced yes)
@@ -4951,17 +4945,6 @@
 			(justify left bottom)
 		)
 		(uuid "594beb72-9591-4642-b7bc-d388be252d28")
-	)
-	(label "RUN"
-		(at 67.31 73.66 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "7310a89a-4a06-4446-ab35-acadc9310497")
 	)
 	(label "QSPI_SS"
 		(at 67.31 91.44 0)
