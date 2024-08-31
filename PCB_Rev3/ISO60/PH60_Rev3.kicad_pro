@@ -444,7 +444,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "PH60_Rev2.kicad_pro",
+    "filename": "PH60_Rev3.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -482,7 +482,7 @@
       "plot": "../Production/PCB_Rev2/",
       "pos_files": "../Production/PCB_Rev2/",
       "specctra_dsn": "",
-      "step": "../PCB_Model_Rev2/PH60_Rev2.step",
+      "step": "../../PCB_Model_Rev3/PH60_Rev3.step",
       "svg": "",
       "vrml": ""
     },
