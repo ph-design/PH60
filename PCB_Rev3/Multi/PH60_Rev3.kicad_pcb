@@ -57,7 +57,7 @@
 			(plotframeref no)
 			(viasonmask no)
 			(mode 1)
-			(useauxorigin no)
+			(useauxorigin yes)
 			(hpglpennumber 1)
 			(hpglpenspeed 20)
 			(hpglpendiameter 15.000000)
@@ -76,9 +76,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "../../Production/PCB_Rev3/Multi/")
 		)
 	)
 	(net 0 "")
@@ -211,7 +211,7 @@
 		(descr "Cherry MX PCB Stabilizer 7.00u")
 		(tags "Cherry MX Keyboard Stabilizer 7.00u Cutout")
 		(property "Reference" "REF**"
-			(at 0 -2 360)
+			(at 0 -2 0)
 			(layer "F.SilkS")
 			(uuid "436a5b2d-295b-4215-a371-ba0c895ff7fc")
 			(effects
@@ -222,7 +222,7 @@
 			)
 		)
 		(property "Value" "Stabilizer_Cherry_MX_7.00u"
-			(at 0 2 360)
+			(at 0 2 0)
 			(layer "F.Fab")
 			(uuid "8e3f58f3-ec07-4c8f-bb50-4afa3e020904")
 			(effects
@@ -233,7 +233,7 @@
 			)
 		)
 		(property "Footprint" "PCM_Mounting_Keyboard_Stabilizer:Stabilizer_Cherry_MX_7.00u"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "26cece1e-e60b-44bd-98f7-294f0f977b43")
@@ -245,7 +245,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "cd0fdf06-fb51-4713-a18e-cf6ee06d58db")
@@ -257,7 +257,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "4fcc0d27-d8ad-4988-8e8a-b67d84d15988")
@@ -370,7 +370,7 @@
 			(uuid "ad74a4bb-4cbd-4b26-9efd-c33caaa976d1")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "19979d06-af3c-49f1-8960-68c06c637b98")
 			(effects
@@ -3192,7 +3192,7 @@
 		(descr "Kailh keyswitch Hotswap Socket Keycap 2.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 2.00u")
 		(property "Reference" "S14"
-			(at 0 -8 360)
+			(at 0 -8 0)
 			(layer "F.SilkS")
 			(uuid "39034122-1f73-408a-9376-d82712324bcd")
 			(effects
@@ -3203,7 +3203,7 @@
 			)
 		)
 		(property "Value" "MX1A"
-			(at 0 8 360)
+			(at 0 8 0)
 			(layer "F.Fab")
 			(uuid "eccac596-093e-4627-9fa0-85fa0020e873")
 			(effects
@@ -3214,7 +3214,7 @@
 			)
 		)
 		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_2.00u"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "fd2cada2-08eb-4b8b-b1a4-09a12a3a1b50")
@@ -3226,7 +3226,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "949fde45-1608-4b31-8d1c-819b1e41564a")
@@ -3238,7 +3238,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "304dcc20-de1b-43ab-b1b6-9304f3ef5295")
@@ -3800,7 +3800,7 @@
 			(uuid "e5455342-1842-4939-a71c-9c991d7f2447")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "950fc0e3-288e-4586-bc4e-5872cf24600e")
 			(effects
@@ -17472,7 +17472,7 @@
 		(descr "Cherry MX PCB Stabilizer 2.00u 2.25u 2.50u 2.75u")
 		(tags "Cherry MX Keyboard Stabilizer 2.00u 2.25u 2.50u 2.75u Cutout")
 		(property "Reference" "REF**"
-			(at 0 -2 360)
+			(at 0 -2 0)
 			(layer "F.SilkS")
 			(uuid "0ee5c58d-a83c-4425-b3c7-0153b99f5070")
 			(effects
@@ -17483,7 +17483,7 @@
 			)
 		)
 		(property "Value" "Stabilizer_Cherry_MX_2.00u"
-			(at 0 2 360)
+			(at 0 2 0)
 			(layer "F.Fab")
 			(uuid "3fcfea16-134d-4237-9758-ec6b86d19dc2")
 			(effects
@@ -17494,7 +17494,7 @@
 			)
 		)
 		(property "Footprint" "PCM_Mounting_Keyboard_Stabilizer:Stabilizer_Cherry_MX_2.00u"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b6c092b2-b703-4345-a94f-a566b1faa45d")
@@ -17506,7 +17506,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "29cb25cf-1416-4222-8462-f79ae7b6d3ec")
@@ -17518,7 +17518,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1c9bf6d6-3431-42bc-b044-22a277aaf1e9")
@@ -17631,7 +17631,7 @@
 			(uuid "b020e6c2-785c-406b-99a3-0209ec24d509")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "3650deaa-bdf7-458d-953a-b38a236d7c42")
 			(effects
@@ -23224,7 +23224,7 @@
 		(descr "Cherry MX PCB Stabilizer 2.00u 2.25u 2.50u 2.75u")
 		(tags "Cherry MX Keyboard Stabilizer 2.00u 2.25u 2.50u 2.75u Cutout")
 		(property "Reference" "REF**"
-			(at 0 -2 360)
+			(at 0 -2 0)
 			(layer "F.SilkS")
 			(uuid "414ff140-8f57-48a6-b870-ea516f25cbba")
 			(effects
@@ -23235,7 +23235,7 @@
 			)
 		)
 		(property "Value" "Stabilizer_Cherry_MX_2.00u"
-			(at 0 2 360)
+			(at 0 2 0)
 			(layer "F.Fab")
 			(uuid "d5816292-6159-4978-bee8-e2a0c8d00442")
 			(effects
@@ -23246,7 +23246,7 @@
 			)
 		)
 		(property "Footprint" "PCM_Mounting_Keyboard_Stabilizer:Stabilizer_Cherry_MX_2.00u"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e9b3b29b-566f-4563-b261-10d4ccf969b9")
@@ -23258,7 +23258,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1509cedb-c151-410d-8444-119a4bee3012")
@@ -23270,7 +23270,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2ecc86c2-82a9-458f-a0f2-07c9feb65971")
@@ -23383,7 +23383,7 @@
 			(uuid "570e1bb4-a50b-4b4f-827b-031fc870f52a")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "c4abee86-2d60-4a45-b7ff-8afbc7db1cae")
 			(effects
@@ -32436,7 +32436,7 @@
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "S14"
-			(at 0 -8 360)
+			(at 0 -8 0)
 			(layer "F.SilkS")
 			(uuid "4f172298-88fe-4267-88f0-418d9b4dad79")
 			(effects
@@ -32447,7 +32447,7 @@
 			)
 		)
 		(property "Value" "MX1A"
-			(at 0 8 360)
+			(at 0 8 0)
 			(layer "F.Fab")
 			(uuid "29c57fed-9236-438c-b355-8cab5819321e")
 			(effects
@@ -32458,7 +32458,7 @@
 			)
 		)
 		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "bd1b2a72-f694-4719-ad95-6af7cfc5755f")
@@ -32470,7 +32470,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "742cb343-2891-4961-ab1f-8cb28cccf95b")
@@ -32482,7 +32482,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e94ef687-cc75-4e21-af35-c739d64d9eb8")
@@ -33041,7 +33041,7 @@
 			(uuid "6a109c74-1258-4ef9-9e67-352a52d88b65")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "d0e638f7-d37c-458c-ab8c-18c99044271e")
 			(effects
@@ -40953,7 +40953,7 @@
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "S56"
-			(at 0 -8 360)
+			(at 0 -8 0)
 			(layer "F.SilkS")
 			(uuid "a5f11161-2abb-49e0-9f9a-104c31ca5895")
 			(effects
@@ -40964,7 +40964,7 @@
 			)
 		)
 		(property "Value" "MX1A"
-			(at 0 8 360)
+			(at 0 8 0)
 			(layer "F.Fab")
 			(uuid "578c3a22-e1f3-49a4-a187-ddc94cbdfd98")
 			(effects
@@ -40975,7 +40975,7 @@
 			)
 		)
 		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2d7bfaaf-1954-4d03-a52e-0b8260235ada")
@@ -40987,7 +40987,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "3f868896-d494-460b-9b00-eb2b8c410ac5")
@@ -40999,7 +40999,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "0ba97863-6083-451d-b592-2f205d9974cd")
@@ -41561,7 +41561,7 @@
 			(uuid "7e98be50-15b9-485b-b869-f96beff3c55f")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "3b0c3374-647f-458d-b3e9-038d01040859")
 			(effects
@@ -41645,7 +41645,7 @@
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "S42"
-			(at 0 -8 360)
+			(at 0 -8 0)
 			(layer "F.SilkS")
 			(uuid "546df585-1513-4d7c-b363-64b4c2164b87")
 			(effects
@@ -41656,7 +41656,7 @@
 			)
 		)
 		(property "Value" "MX1A"
-			(at 0 8 360)
+			(at 0 8 0)
 			(layer "F.Fab")
 			(uuid "6c80e771-134e-42e5-9120-63cd86e5c37c")
 			(effects
@@ -41667,7 +41667,7 @@
 			)
 		)
 		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "bd1b2a72-f694-4719-ad95-6af7cfc5755f")
@@ -41679,7 +41679,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "742cb343-2891-4961-ab1f-8cb28cccf95b")
@@ -41691,7 +41691,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e94ef687-cc75-4e21-af35-c739d64d9eb8")
@@ -42253,7 +42253,7 @@
 			(uuid "70f89017-a2e4-4921-929f-d9920fc61993")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "47ad1a90-3353-4f41-bb65-abfc6d49b17d")
 			(effects
@@ -45105,7 +45105,7 @@
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "S44"
-			(at 0 -8 360)
+			(at 0 -8 0)
 			(layer "F.SilkS")
 			(uuid "c139a5c5-1c93-4f9a-afeb-75736711562b")
 			(effects
@@ -45116,7 +45116,7 @@
 			)
 		)
 		(property "Value" "MX1A"
-			(at 0 8 360)
+			(at 0 8 0)
 			(layer "F.Fab")
 			(uuid "b5828b9b-e6fe-4c06-a12a-eb1e87dbbfba")
 			(effects
@@ -45127,7 +45127,7 @@
 			)
 		)
 		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e0fa00b2-ccc0-4508-916d-99dc5ebbdd64")
@@ -45139,7 +45139,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1c667f92-7a13-4499-940f-bee2b1832800")
@@ -45151,7 +45151,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "58ef7c48-17df-49b6-aa3d-35a2f58130fb")
@@ -45713,7 +45713,7 @@
 			(uuid "61104ddc-a6da-44e1-849e-52919731dff3")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "a49ca732-f09d-4d61-abef-c2d694d1cf88")
 			(effects
@@ -52327,7 +52327,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C6"
-			(at -1.98 -0.1125 360)
+			(at -1.98 -0.1125 0)
 			(layer "B.SilkS")
 			(uuid "11617fa5-7bcd-45e0-b066-125c4004dc85")
 			(effects
@@ -52339,7 +52339,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 0 -1.16 360)
+			(at 0 -1.16 0)
 			(layer "B.Fab")
 			(uuid "94871b72-8f40-41cf-be11-bf490731707a")
 			(effects
@@ -52498,7 +52498,7 @@
 			(uuid "7e1757e7-efe2-4b8e-878f-a90d7e837225")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(uuid "ccb6b544-0e35-4e8f-b159-4f9994136f7a")
 			(effects
@@ -56165,7 +56165,7 @@
 			(uuid "b752d852-d888-4810-b64e-8899e8503382")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -1.27 360)
+			(at 0 -1.27 0)
 			(layer "B.Fab")
 			(uuid "1dc5f5c8-c622-49da-8766-e21124d38930")
 			(effects
@@ -61075,7 +61075,7 @@
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D43"
-			(at 0 2 360)
+			(at 0 2 0)
 			(layer "B.SilkS")
 			(uuid "aa6660cb-a326-4452-88de-9c195fd2eced")
 			(effects
@@ -61087,7 +61087,7 @@
 			)
 		)
 		(property "Value" "DIODE"
-			(at 0 -2.1 360)
+			(at 0 -2.1 0)
 			(layer "B.Fab")
 			(uuid "6ef3967a-220f-4d1a-aa98-b5d748a75e6e")
 			(effects
@@ -61354,7 +61354,7 @@
 			(uuid "0b5133c9-1bd0-44f7-875c-765032a7e24e")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 2 360)
+			(at 0 2 0)
 			(layer "B.Fab")
 			(uuid "6c68bfa1-6e23-44d2-950f-758f66bc9a08")
 			(effects
@@ -97163,31 +97163,31 @@
 				(xy 282.896942 82.000185) (xy 282.917584 82.016819) (xy 284.420139 83.519374) (xy 284.420149 83.519385)
 				(xy 284.424479 83.523715) (xy 284.42448 83.523716) (xy 284.536284 83.63552) (xy 284.578187 83.659712)
 				(xy 284.623095 83.685639) (xy 284.623097 83.685641) (xy 284.651454 83.702013) (xy 284.673215 83.714577)
-				(xy 284.825943 83.7555) (xy 284.984057 83.7555) (xy 292.658678 83.7555) (xy 292.725717 83.775185)
-				(xy 292.771472 83.827989) (xy 292.781898 83.865617) (xy 292.78963 83.934249) (xy 292.789631 83.934254)
-				(xy 292.789632 83.934255) (xy 292.792943 83.943716) (xy 292.84921 84.104521) (xy 292.945185 84.257263)
-				(xy 292.947445 84.260097) (xy 292.948334 84.262275) (xy 292.948889 84.263158) (xy 292.948734 84.263255)
-				(xy 292.973855 84.324783) (xy 292.9745 84.337412) (xy 292.9745 87.214903) (xy 292.954815 87.281942)
-				(xy 292.938181 87.302584) (xy 290.707584 89.533181) (xy 290.646261 89.566666) (xy 290.619903 89.5695)
-				(xy 286.347749 89.5695) (xy 286.28071 89.549815) (xy 286.234955 89.497011) (xy 286.223749 89.4455)
-				(xy 286.223749 89.119998) (xy 286.223748 89.119981) (xy 286.213249 89.017203) (xy 286.213248 89.0172)
-				(xy 286.195011 88.962164) (xy 286.158064 88.850666) (xy 286.065962 88.701344) (xy 285.941906 88.577288)
-				(xy 285.792584 88.485186) (xy 285.626047 88.430001) (xy 285.626045 88.43) (xy 285.523266 88.4195)
-				(xy 285.523259 88.4195) (xy 283.598348 88.4195) (xy 283.531309 88.399815) (xy 283.510667 88.383181)
-				(xy 282.09084 86.963355) (xy 282.090838 86.963352) (xy 281.971967 86.844481) (xy 281.971959 86.844475)
-				(xy 281.871355 86.786392) (xy 281.871352 86.786391) (xy 281.835037 86.765424) (xy 281.835036 86.765423)
-				(xy 281.835035 86.765423) (xy 281.784289 86.751825) (xy 281.72463 86.71546) (xy 281.694102 86.652613)
-				(xy 281.702397 86.583237) (xy 281.746883 86.52936) (xy 281.768933 86.51749) (xy 281.950544 86.442265)
-				(xy 281.950547 86.442263) (xy 281.950553 86.442261) (xy 282.205347 86.295155) (xy 282.438761 86.11605)
-				(xy 282.6468 85.908011) (xy 282.825905 85.674597) (xy 282.973011 85.419803) (xy 283.0856 85.147987)
-				(xy 283.161748 84.8638) (xy 283.20015 84.572106) (xy 283.20015 84.277894) (xy 283.161748 83.9862)
-				(xy 283.0856 83.702013) (xy 283.078818 83.685639) (xy 282.973015 83.430205) (xy 282.973007 83.430189)
-				(xy 282.825909 83.17541) (xy 282.825905 83.175403) (xy 282.6468 82.941989) (xy 282.646795 82.941983)
-				(xy 282.438766 82.733954) (xy 282.438759 82.733948) (xy 282.205355 82.554851) (xy 282.205353 82.554849)
-				(xy 282.205347 82.554845) (xy 282.205342 82.554842) (xy 282.205339 82.55484) (xy 281.95056 82.407742)
-				(xy 281.950544 82.407734) (xy 281.678744 82.295152) (xy 281.678737 82.29515) (xy 281.414225 82.224274)
-				(xy 281.354567 82.18791) (xy 281.324038 82.125063) (xy 281.332333 82.055687) (xy 281.376818 82.001809)
-				(xy 281.44337 81.980535) (xy 281.446321 81.9805) (xy 282.829903 81.9805)
+				(xy 284.825943 83.7555) (xy 292.658678 83.7555) (xy 292.725717 83.775185) (xy 292.771472 83.827989)
+				(xy 292.781898 83.865617) (xy 292.78963 83.934249) (xy 292.789631 83.934254) (xy 292.789632 83.934255)
+				(xy 292.792943 83.943716) (xy 292.84921 84.104521) (xy 292.945185 84.257263) (xy 292.947445 84.260097)
+				(xy 292.948334 84.262275) (xy 292.948889 84.263158) (xy 292.948734 84.263255) (xy 292.973855 84.324783)
+				(xy 292.9745 84.337412) (xy 292.9745 87.214903) (xy 292.954815 87.281942) (xy 292.938181 87.302584)
+				(xy 290.707584 89.533181) (xy 290.646261 89.566666) (xy 290.619903 89.5695) (xy 286.347749 89.5695)
+				(xy 286.28071 89.549815) (xy 286.234955 89.497011) (xy 286.223749 89.4455) (xy 286.223749 89.119998)
+				(xy 286.223748 89.119981) (xy 286.213249 89.017203) (xy 286.213248 89.0172) (xy 286.195011 88.962164)
+				(xy 286.158064 88.850666) (xy 286.065962 88.701344) (xy 285.941906 88.577288) (xy 285.792584 88.485186)
+				(xy 285.626047 88.430001) (xy 285.626045 88.43) (xy 285.523266 88.4195) (xy 285.523259 88.4195)
+				(xy 283.598348 88.4195) (xy 283.531309 88.399815) (xy 283.510667 88.383181) (xy 282.09084 86.963355)
+				(xy 282.090838 86.963352) (xy 281.971967 86.844481) (xy 281.971959 86.844475) (xy 281.871355 86.786392)
+				(xy 281.871352 86.786391) (xy 281.835037 86.765424) (xy 281.835036 86.765423) (xy 281.835035 86.765423)
+				(xy 281.784289 86.751825) (xy 281.72463 86.71546) (xy 281.694102 86.652613) (xy 281.702397 86.583237)
+				(xy 281.746883 86.52936) (xy 281.768933 86.51749) (xy 281.950544 86.442265) (xy 281.950547 86.442263)
+				(xy 281.950553 86.442261) (xy 282.205347 86.295155) (xy 282.438761 86.11605) (xy 282.6468 85.908011)
+				(xy 282.825905 85.674597) (xy 282.973011 85.419803) (xy 283.0856 85.147987) (xy 283.161748 84.8638)
+				(xy 283.20015 84.572106) (xy 283.20015 84.277894) (xy 283.161748 83.9862) (xy 283.0856 83.702013)
+				(xy 283.078818 83.685639) (xy 282.973015 83.430205) (xy 282.973007 83.430189) (xy 282.825909 83.17541)
+				(xy 282.825905 83.175403) (xy 282.6468 82.941989) (xy 282.646795 82.941983) (xy 282.438766 82.733954)
+				(xy 282.438759 82.733948) (xy 282.205355 82.554851) (xy 282.205353 82.554849) (xy 282.205347 82.554845)
+				(xy 282.205342 82.554842) (xy 282.205339 82.55484) (xy 281.95056 82.407742) (xy 281.950544 82.407734)
+				(xy 281.678744 82.295152) (xy 281.678737 82.29515) (xy 281.414225 82.224274) (xy 281.354567 82.18791)
+				(xy 281.324038 82.125063) (xy 281.332333 82.055687) (xy 281.376818 82.001809) (xy 281.44337 81.980535)
+				(xy 281.446321 81.9805) (xy 282.829903 81.9805)
 			)
 		)
 		(filled_polygon
