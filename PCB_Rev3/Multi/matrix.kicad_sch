@@ -327,6 +327,12 @@
 		(uuid "080741df-6a3b-4b83-b63d-7364859d094d")
 	)
 	(junction
+		(at 347.98 92.71)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0c7ec69d-0c34-4d34-82cc-c0f7179a358e")
+	)
+	(junction
 		(at 322.58 114.3)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -387,6 +393,18 @@
 		(uuid "2466c9e6-5273-444d-994a-9761432f142f")
 	)
 	(junction
+		(at 297.18 157.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "246de088-fab3-4870-8c64-b1a083dca370")
+	)
+	(junction
+		(at 104.14 125.73)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2d522e6f-4169-4412-9c2a-c26e71d3a04c")
+	)
+	(junction
 		(at 271.78 135.89)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -411,12 +429,6 @@
 		(uuid "385c4bd3-39a6-424b-b9bf-cb96829aa260")
 	)
 	(junction
-		(at 347.98 92.71)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "39c69500-35d4-41d1-9879-2a5202ee588a")
-	)
-	(junction
 		(at 170.18 71.12)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -435,6 +447,12 @@
 		(uuid "47d22ff5-2293-4001-bb49-860c022e82de")
 	)
 	(junction
+		(at 383.54 104.14)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "48fc9744-d8cf-424f-a2c5-a67cb15cd8d7")
+	)
+	(junction
 		(at 154.94 60.96)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -445,12 +463,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5194ce79-9686-40fe-829d-4b26f0302069")
-	)
-	(junction
-		(at 383.54 125.73)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "51d8a9fe-c502-462d-ad5a-71a50427e896")
 	)
 	(junction
 		(at 43.18 114.3)
@@ -483,6 +495,12 @@
 		(uuid "5c4c54b2-7cc5-4bd2-bfdd-778c73bff141")
 	)
 	(junction
+		(at 119.38 135.89)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5f33d8e8-836c-4ff6-beb8-ec7ce134ea20")
+	)
+	(junction
 		(at 307.34 60.96)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -495,10 +513,16 @@
 		(uuid "63d197b2-3916-4a94-bda5-64a8508bdfa6")
 	)
 	(junction
-		(at 129.54 104.14)
+		(at 383.54 82.55)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "673e83af-d8f3-4e3c-97e9-2905620994fd")
+		(uuid "64813af6-b468-450e-a676-da14d2183c5f")
+	)
+	(junction
+		(at 347.98 135.89)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "66e20285-d9aa-4975-835d-ef162469d3ad")
 	)
 	(junction
 		(at 281.94 104.14)
@@ -507,28 +531,22 @@
 		(uuid "6894d396-f5e3-48b0-b5d6-2b49f0e25784")
 	)
 	(junction
+		(at 93.98 135.89)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6e0645b4-5a13-4b62-a06f-032b88471dda")
+	)
+	(junction
 		(at 195.58 92.71)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6ea66332-fb17-46e1-8441-805ea42daf01")
 	)
 	(junction
-		(at 93.98 135.89)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "712be99f-aa07-471f-a25e-5b89b99de527")
-	)
-	(junction
 		(at 332.74 82.55)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "712e36f0-2339-4cc6-b527-6d2261138a67")
-	)
-	(junction
-		(at 104.14 125.73)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "73b19545-59b3-45ad-bf7d-ef4fcbc6001c")
 	)
 	(junction
 		(at 271.78 71.12)
@@ -541,12 +559,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "79806b0c-1e1b-416d-aa07-a1a7b48a43cc")
-	)
-	(junction
-		(at 119.38 135.89)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7f9edd1c-efea-498d-ab47-c7f0adb94c93")
 	)
 	(junction
 		(at 43.18 157.48)
@@ -579,22 +591,16 @@
 		(uuid "839448e6-40bb-4c31-9a6f-27043d6176f6")
 	)
 	(junction
-		(at 383.54 82.55)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "88ea9702-462f-4e4b-99b9-f90596df0339")
-	)
-	(junction
 		(at 195.58 135.89)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8a491040-dc70-41f6-a6a2-197543a4ea1d")
 	)
 	(junction
-		(at 347.98 114.3)
+		(at 358.14 125.73)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "8abf070a-2d30-4c7b-9eaa-9f6225168620")
+		(uuid "8d359029-cbd0-4f8e-a682-10104e2ac497")
 	)
 	(junction
 		(at 93.98 114.3)
@@ -607,12 +613,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8e156165-6dfa-43be-8558-b0efeb91d114")
-	)
-	(junction
-		(at 383.54 104.14)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8fee65ba-677f-4aed-8b62-6809f8fbea3d")
 	)
 	(junction
 		(at 68.58 92.71)
@@ -717,10 +717,10 @@
 		(uuid "ae6b619b-180c-4993-9998-3e513f953563")
 	)
 	(junction
-		(at 347.98 135.89)
+		(at 129.54 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "b8a2e421-068f-4f30-bba5-975b20d546a6")
+		(uuid "bc0978ab-364b-4a36-9837-f6301afba352")
 	)
 	(junction
 		(at 383.54 60.96)
@@ -759,6 +759,12 @@
 		(uuid "c9ba6891-7fc3-4663-9b3f-4decee4c4cc7")
 	)
 	(junction
+		(at 307.34 125.73)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c9da3b04-5dd9-4425-80e6-b95d5dd81001")
+	)
+	(junction
 		(at 231.14 60.96)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -769,6 +775,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "cd9d6008-efba-4859-99e0-c408f586264e")
+	)
+	(junction
+		(at 347.98 114.3)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cf1e4e19-ddd0-4271-b70d-41ec7690f13e")
 	)
 	(junction
 		(at 43.18 71.12)
@@ -787,6 +799,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d403c629-bca2-4e9d-8bf9-f04bfe267f73")
+	)
+	(junction
+		(at 383.54 125.73)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d43d4c6a-c796-4d8c-930f-41a6bd0ef16e")
 	)
 	(junction
 		(at 43.18 92.71)
@@ -825,12 +843,6 @@
 		(uuid "d6d7b922-3db2-4cf0-a0e5-02f58eff2cea")
 	)
 	(junction
-		(at 332.74 125.73)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d6f5e9c2-d27d-48d9-85e7-a33f90444fc0")
-	)
-	(junction
 		(at 144.78 71.12)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -855,22 +867,10 @@
 		(uuid "dc1b2685-5b80-4d5b-84c9-78db2960a318")
 	)
 	(junction
-		(at 358.14 125.73)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "dd7c36d5-153c-4330-ab80-6089fd44345f")
-	)
-	(junction
 		(at 297.18 71.12)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ddb9c4a1-7dae-414e-90cb-d149d80711fb")
-	)
-	(junction
-		(at 322.58 135.89)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "de04fab3-2617-49ef-af5d-cc0aa2624d1b")
 	)
 	(junction
 		(at 104.14 60.96)
@@ -883,12 +883,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "dee9f7fe-668b-40e6-b754-436398359cee")
-	)
-	(junction
-		(at 358.14 104.14)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e8a8190a-a3b2-415b-abdd-f0aa7ce04dfb")
 	)
 	(junction
 		(at 246.38 92.71)
@@ -937,6 +931,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fc35930f-d022-4e23-a387-db46b8eb6562")
+	)
+	(junction
+		(at 358.14 104.14)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fdf597cf-bd48-4022-ba5e-dc5a5d426505")
 	)
 	(junction
 		(at 78.74 60.96)
@@ -1058,13 +1058,23 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 157.48) (xy 322.58 157.48)
+			(xy 297.18 157.48) (xy 322.58 157.48)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "0f7ad452-b309-40dc-b104-9eb384c409c7")
+	)
+	(wire
+		(pts
+			(xy 383.54 104.14) (xy 383.54 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0f95887f-c944-42f9-a461-90e37f29d0e3")
 	)
 	(wire
 		(pts
@@ -1178,6 +1188,16 @@
 	)
 	(wire
 		(pts
+			(xy 297.18 135.89) (xy 347.98 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "14fb9290-564c-438e-a71c-d03b4476399c")
+	)
+	(wire
+		(pts
 			(xy 170.18 114.3) (xy 195.58 114.3)
 		)
 		(stroke
@@ -1208,16 +1228,6 @@
 	)
 	(wire
 		(pts
-			(xy 347.98 135.89) (xy 322.58 135.89)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1670ce20-eb59-45eb-9482-f01087ba4977")
-	)
-	(wire
-		(pts
 			(xy 53.34 125.73) (xy 53.34 147.32)
 		)
 		(stroke
@@ -1235,16 +1245,6 @@
 			(type default)
 		)
 		(uuid "17d1ffcc-02a0-47f9-8282-23535818fa74")
-	)
-	(wire
-		(pts
-			(xy 373.38 135.89) (xy 347.98 135.89)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "17f37831-5914-4186-a6ea-c2b63d8800c8")
 	)
 	(wire
 		(pts
@@ -1285,16 +1285,6 @@
 			(type default)
 		)
 		(uuid "1fa3dada-257d-427c-891c-c7291312c6da")
-	)
-	(wire
-		(pts
-			(xy 383.54 82.55) (xy 383.54 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "20b4d13e-f751-4250-a44d-dc061bdacb45")
 	)
 	(wire
 		(pts
@@ -1345,26 +1335,6 @@
 			(type default)
 		)
 		(uuid "2508f7b9-30a5-46f2-9cc0-69ec14457be1")
-	)
-	(wire
-		(pts
-			(xy 383.54 125.73) (xy 383.54 147.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "264357f4-a89f-44cc-8f50-8eb9dc7965b8")
-	)
-	(wire
-		(pts
-			(xy 93.98 125.73) (xy 93.98 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "265e5bd8-5032-43f8-bb82-b827b99e4b04")
 	)
 	(wire
 		(pts
@@ -1425,16 +1395,6 @@
 			(type default)
 		)
 		(uuid "2b8b658f-46a3-4523-b4c0-220155f48df7")
-	)
-	(wire
-		(pts
-			(xy 373.38 113.03) (xy 373.38 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2badecc2-1b3c-4cce-bdc0-38de34e46dc7")
 	)
 	(wire
 		(pts
@@ -1538,16 +1498,6 @@
 	)
 	(wire
 		(pts
-			(xy 358.14 147.32) (xy 358.14 125.73)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "398c2220-ec00-4b81-acb6-ccf0a49ca534")
-	)
-	(wire
-		(pts
 			(xy 154.94 82.55) (xy 154.94 104.14)
 		)
 		(stroke
@@ -1628,6 +1578,16 @@
 	)
 	(wire
 		(pts
+			(xy 93.98 134.62) (xy 93.98 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4141fd7a-f52a-485b-82fb-27ead7347b8d")
+	)
+	(wire
+		(pts
 			(xy 220.98 104.14) (xy 220.98 105.41)
 		)
 		(stroke
@@ -1648,23 +1608,23 @@
 	)
 	(wire
 		(pts
-			(xy 347.98 92.71) (xy 373.38 92.71)
+			(xy 129.54 104.14) (xy 129.54 125.73)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "42d9918e-7100-4986-942e-b0f82a87903e")
+		(uuid "452eb045-f85d-446c-89ba-d77095deb6da")
 	)
 	(wire
 		(pts
-			(xy 373.38 92.71) (xy 373.38 91.44)
+			(xy 373.38 92.71) (xy 347.98 92.71)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "44b3cc56-63ef-49df-a20d-2beca71b87d4")
+		(uuid "459e690a-2fe4-4793-b409-0f5de4934ba0")
 	)
 	(wire
 		(pts
@@ -1738,6 +1698,16 @@
 	)
 	(wire
 		(pts
+			(xy 347.98 114.3) (xy 373.38 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4acfc985-ecaa-4f3f-a1bb-b16a31a60b40")
+	)
+	(wire
+		(pts
 			(xy 53.34 82.55) (xy 53.34 104.14)
 		)
 		(stroke
@@ -1745,16 +1715,6 @@
 			(type default)
 		)
 		(uuid "4b523c4b-fb8a-4248-aea7-30451e26527f")
-	)
-	(wire
-		(pts
-			(xy 119.38 134.62) (xy 119.38 135.89)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4ee22ad5-29a9-4ef2-8213-cfdd391e6ac1")
 	)
 	(wire
 		(pts
@@ -1775,6 +1735,16 @@
 			(type default)
 		)
 		(uuid "504c7ed8-3ff8-4c44-a8b5-0caa07104323")
+	)
+	(wire
+		(pts
+			(xy 119.38 125.73) (xy 119.38 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5071acfe-4611-4273-989d-d51bf33ad51b")
 	)
 	(wire
 		(pts
@@ -1838,13 +1808,13 @@
 	)
 	(wire
 		(pts
-			(xy 347.98 134.62) (xy 347.98 135.89)
+			(xy 93.98 135.89) (xy 119.38 135.89)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "5df66205-d3d1-4c25-ba25-b8a5a27e7a58")
+		(uuid "5c6da1ed-d8e3-4d8c-b26c-4dcd907afc82")
 	)
 	(wire
 		(pts
@@ -1968,16 +1938,6 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 135.89) (xy 144.78 135.89)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "64e8e8ac-26b3-4240-98d0-b2bb1ddf288a")
-	)
-	(wire
-		(pts
 			(xy 144.78 113.03) (xy 144.78 114.3)
 		)
 		(stroke
@@ -1985,6 +1945,16 @@
 			(type default)
 		)
 		(uuid "64ea4d49-c353-4f62-a137-cb4bdc7a6bd2")
+	)
+	(wire
+		(pts
+			(xy 383.54 125.73) (xy 383.54 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6585b5a2-2cc4-4274-92ab-c6b82d03d5fb")
 	)
 	(wire
 		(pts
@@ -1998,16 +1968,6 @@
 	)
 	(wire
 		(pts
-			(xy 322.58 125.73) (xy 322.58 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "69a329d3-7b59-4906-8a59-f8b52a511750")
-	)
-	(wire
-		(pts
 			(xy 144.78 104.14) (xy 144.78 105.41)
 		)
 		(stroke
@@ -2015,6 +1975,36 @@
 			(type default)
 		)
 		(uuid "6bd510dc-2079-4008-89e2-20ce6c4daf4c")
+	)
+	(wire
+		(pts
+			(xy 347.98 134.62) (xy 347.98 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6c49fdbb-884d-45d7-8b19-e5c7a223fdf8")
+	)
+	(wire
+		(pts
+			(xy 104.14 125.73) (xy 104.14 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6cfa560a-0413-470c-99e2-0610646690ad")
+	)
+	(wire
+		(pts
+			(xy 307.34 125.73) (xy 307.34 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6d522e6f-3adc-4016-9489-5de77e52bc5a")
 	)
 	(wire
 		(pts
@@ -2045,16 +2035,6 @@
 			(type default)
 		)
 		(uuid "6e057c59-1453-4798-83e3-156121f025b5")
-	)
-	(wire
-		(pts
-			(xy 383.54 104.14) (xy 383.54 125.73)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6e63e31a-6be1-4785-a763-e8c087dbc217")
 	)
 	(wire
 		(pts
@@ -2108,6 +2088,16 @@
 	)
 	(wire
 		(pts
+			(xy 297.18 156.21) (xy 297.18 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "73a11418-2c0b-4f5e-b1b9-77c5a59438fe")
+	)
+	(wire
+		(pts
 			(xy 68.58 125.73) (xy 68.58 127)
 		)
 		(stroke
@@ -2115,16 +2105,6 @@
 			(type default)
 		)
 		(uuid "73d4f52c-ea1f-4a5d-a080-2b99e8e0754b")
-	)
-	(wire
-		(pts
-			(xy 358.14 125.73) (xy 358.14 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "73d8ec94-340b-4c9d-98d8-ee73bde7d095")
 	)
 	(wire
 		(pts
@@ -2148,16 +2128,6 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 135.89) (xy 119.38 135.89)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "754a1a93-2c6b-47e9-b2cf-dab37d93df6b")
-	)
-	(wire
-		(pts
 			(xy 78.74 52.07) (xy 78.74 60.96)
 		)
 		(stroke
@@ -2175,6 +2145,16 @@
 			(type default)
 		)
 		(uuid "75a31b78-06d4-46f8-a856-df1ba244911b")
+	)
+	(wire
+		(pts
+			(xy 383.54 82.55) (xy 383.54 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "75b32ddc-5a4d-4abe-86d3-aa3dc5e02aa8")
 	)
 	(wire
 		(pts
@@ -2218,16 +2198,6 @@
 	)
 	(wire
 		(pts
-			(xy 373.38 134.62) (xy 373.38 135.89)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "778025f8-f8e2-4947-8a75-1f651bebf66a")
-	)
-	(wire
-		(pts
 			(xy 180.34 52.07) (xy 180.34 60.96)
 		)
 		(stroke
@@ -2235,6 +2205,16 @@
 			(type default)
 		)
 		(uuid "785503bb-635f-4552-b3c8-e30c4b3faf14")
+	)
+	(wire
+		(pts
+			(xy 373.38 91.44) (xy 373.38 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7a7cb96c-a037-4ff0-8c2d-fb7eda6d0f82")
 	)
 	(wire
 		(pts
@@ -2378,6 +2358,16 @@
 	)
 	(wire
 		(pts
+			(xy 347.98 125.73) (xy 347.98 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "91782bdc-e095-4c64-9e7e-c3d2aa777b25")
+	)
+	(wire
+		(pts
 			(xy 281.94 60.96) (xy 281.94 82.55)
 		)
 		(stroke
@@ -2418,16 +2408,6 @@
 	)
 	(wire
 		(pts
-			(xy 332.74 104.14) (xy 332.74 125.73)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "93d97139-08c0-476b-b691-ccb948e38bee")
-	)
-	(wire
-		(pts
 			(xy 68.58 157.48) (xy 93.98 157.48)
 		)
 		(stroke
@@ -2438,6 +2418,16 @@
 	)
 	(wire
 		(pts
+			(xy 93.98 125.73) (xy 93.98 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "94da4e8e-94fe-46b9-a0ad-a7daf28ba9cf")
+	)
+	(wire
+		(pts
 			(xy 43.18 134.62) (xy 43.18 135.89)
 		)
 		(stroke
@@ -2445,16 +2435,6 @@
 			(type default)
 		)
 		(uuid "96e1fc46-2acc-4890-bf37-2a4196b859f0")
-	)
-	(wire
-		(pts
-			(xy 297.18 135.89) (xy 322.58 135.89)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "98180cfd-d2c5-49c6-bde6-5f66ba23c1c8")
 	)
 	(wire
 		(pts
@@ -2518,6 +2498,26 @@
 	)
 	(wire
 		(pts
+			(xy 373.38 125.73) (xy 373.38 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a13ac214-792a-4873-9623-85e2b67158fd")
+	)
+	(wire
+		(pts
+			(xy 373.38 134.62) (xy 373.38 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a1c9ec46-379a-44c5-ad76-a717fa2b555e")
+	)
+	(wire
+		(pts
 			(xy 322.58 60.96) (xy 322.58 62.23)
 		)
 		(stroke
@@ -2578,16 +2578,6 @@
 	)
 	(wire
 		(pts
-			(xy 373.38 82.55) (xy 373.38 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a64fe8a9-5936-4cef-9209-4129d4613609")
-	)
-	(wire
-		(pts
 			(xy 119.38 92.71) (xy 144.78 92.71)
 		)
 		(stroke
@@ -2608,7 +2598,7 @@
 	)
 	(wire
 		(pts
-			(xy 332.74 125.73) (xy 332.74 147.32)
+			(xy 332.74 104.14) (xy 332.74 147.32)
 		)
 		(stroke
 			(width 0)
@@ -2718,13 +2708,13 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 104.14) (xy 129.54 125.73)
+			(xy 347.98 135.89) (xy 373.38 135.89)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b3678d62-9b5f-42f5-8d3e-6ed9945f853e")
+		(uuid "b34a6093-c714-480c-861f-a9bdde3773d4")
 	)
 	(wire
 		(pts
@@ -2768,6 +2758,16 @@
 	)
 	(wire
 		(pts
+			(xy 373.38 82.55) (xy 373.38 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b8eefff7-af01-4c45-be91-15bf59afce1c")
+	)
+	(wire
+		(pts
 			(xy 93.98 113.03) (xy 93.98 114.3)
 		)
 		(stroke
@@ -2775,16 +2775,6 @@
 			(type default)
 		)
 		(uuid "b9c60446-3947-4ab8-b78f-1550d7b80e65")
-	)
-	(wire
-		(pts
-			(xy 119.38 125.73) (xy 119.38 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bb5f0388-5716-4fd2-890d-d8f445b14a41")
 	)
 	(wire
 		(pts
@@ -2805,6 +2795,26 @@
 			(type default)
 		)
 		(uuid "bc5789dd-1225-403e-b287-ec7ef9f7c60f")
+	)
+	(wire
+		(pts
+			(xy 119.38 135.89) (xy 144.78 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "befc0cd7-a6b6-4098-8157-decac6208bb1")
+	)
+	(wire
+		(pts
+			(xy 373.38 113.03) (xy 373.38 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bf3b620c-bb1d-4eb7-b93c-160f023855f9")
 	)
 	(wire
 		(pts
@@ -2868,13 +2878,13 @@
 	)
 	(wire
 		(pts
-			(xy 373.38 104.14) (xy 373.38 105.41)
+			(xy 195.58 157.48) (xy 297.18 157.48)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "cabdfe8b-192b-42d7-a3bd-b32e7005bb11")
+		(uuid "cb576b28-822d-4c6f-a7d6-98f49a0af03f")
 	)
 	(wire
 		(pts
@@ -2918,6 +2928,16 @@
 	)
 	(wire
 		(pts
+			(xy 358.14 104.14) (xy 358.14 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ccbd86f0-211c-4c4f-8d12-398b04cef3a5")
+	)
+	(wire
+		(pts
 			(xy 43.18 60.96) (xy 43.18 62.23)
 		)
 		(stroke
@@ -2935,6 +2955,16 @@
 			(type default)
 		)
 		(uuid "cdbe60ec-9da3-4718-a595-9e36324cbdb7")
+	)
+	(wire
+		(pts
+			(xy 373.38 104.14) (xy 373.38 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cddf3e4f-bfcf-48c6-924a-e87575a0d5ce")
 	)
 	(wire
 		(pts
@@ -2975,16 +3005,6 @@
 			(type default)
 		)
 		(uuid "d1a29f71-4a2e-40c3-97ca-24ecf0dea906")
-	)
-	(wire
-		(pts
-			(xy 93.98 134.62) (xy 93.98 135.89)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d21511f6-3304-4f6c-9ab7-5c3b3eaa2b88")
 	)
 	(wire
 		(pts
@@ -3048,16 +3068,6 @@
 	)
 	(wire
 		(pts
-			(xy 347.98 125.73) (xy 347.98 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d7c83251-d463-42d9-b1cf-0a15be5c903c")
-	)
-	(wire
-		(pts
 			(xy 256.54 82.55) (xy 256.54 104.14)
 		)
 		(stroke
@@ -3118,16 +3128,6 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 125.73) (xy 104.14 147.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dc734730-7cd5-46e9-b6e3-c8966ed3c13d")
-	)
-	(wire
-		(pts
 			(xy 256.54 104.14) (xy 256.54 125.73)
 		)
 		(stroke
@@ -3155,6 +3155,16 @@
 			(type default)
 		)
 		(uuid "e3163aa8-88b2-43c0-88ef-f64a968b1255")
+	)
+	(wire
+		(pts
+			(xy 297.18 147.32) (xy 297.18 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e3d8f8da-5479-4efc-ba76-74cd3be46e81")
 	)
 	(wire
 		(pts
@@ -3268,6 +3278,16 @@
 	)
 	(wire
 		(pts
+			(xy 119.38 134.62) (xy 119.38 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ecde3586-903a-49dc-bc4b-b6f8f428de20")
+	)
+	(wire
+		(pts
 			(xy 383.54 52.07) (xy 383.54 60.96)
 		)
 		(stroke
@@ -3358,13 +3378,13 @@
 	)
 	(wire
 		(pts
-			(xy 322.58 134.62) (xy 322.58 135.89)
+			(xy 358.14 125.73) (xy 358.14 147.32)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f6eedec5-f1b6-493e-8eab-ad49e197882e")
+		(uuid "f6361e09-7921-47df-85f0-031566bcb769")
 	)
 	(wire
 		(pts
@@ -3375,26 +3395,6 @@
 			(type default)
 		)
 		(uuid "f7c20364-534f-4241-a49c-8c1246791fdd")
-	)
-	(wire
-		(pts
-			(xy 373.38 125.73) (xy 373.38 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f7e18413-7030-4119-8aaf-1762b4527251")
-	)
-	(wire
-		(pts
-			(xy 347.98 104.14) (xy 347.98 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f7e96e69-4b61-4961-9158-b4eb0612b0e0")
 	)
 	(wire
 		(pts
@@ -3468,13 +3468,13 @@
 	)
 	(wire
 		(pts
-			(xy 373.38 114.3) (xy 347.98 114.3)
+			(xy 347.98 104.14) (xy 347.98 105.41)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "ff8530b5-6899-40d2-a281-faa4965b0963")
+		(uuid "fe3b862d-afc8-498f-b3f2-7d1708e71438")
 	)
 	(global_label "row_0"
 		(shape input)
@@ -3990,94 +3990,6 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 347.98 130.81 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "01160a8c-c8b2-476d-97cd-8ab3ac462703")
-		(property "Reference" "D55"
-			(at 350.52 129.5399 90)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "DIODE"
-			(at 350.52 132.0799 90)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 347.98 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 347.98 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 347.98 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 347.98 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 347.98 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "9ff30da8-00e7-4849-90ce-dfc1125cc36d")
-		)
-		(pin "2"
-			(uuid "f5c8b080-9480-45b8-b66b-a62a7b3def58")
-		)
-		(instances
-			(project "PH60_Rev3"
-				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7/dc5cd3b2-ef82-41de-b720-71645d542746"
-					(reference "D55")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
 		(at 246.38 66.04 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4385,7 +4297,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 251.46 66.04 0)
 			(effects
 				(font
@@ -4460,7 +4372,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 149.86 130.81 0)
 			(effects
 				(font
@@ -4596,7 +4508,7 @@
 			)
 			(project "PH60"
 				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7/dc5cd3b2-ef82-41de-b720-71645d542746"
-					(reference "D58")
+					(reference "D57")
 					(unit 1)
 				)
 			)
@@ -4629,7 +4541,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_2.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_2.00u"
 			(at 378.46 66.04 0)
 			(effects
 				(font
@@ -4704,7 +4616,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 73.66 66.04 0)
 			(effects
 				(font
@@ -4873,7 +4785,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 200.66 66.04 0)
 			(effects
 				(font
@@ -5042,7 +4954,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 73.66 87.63 0)
 			(effects
 				(font
@@ -5186,94 +5098,6 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 373.38 130.81 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0e9544a3-9ae6-4ed8-97a4-4f53055346b6")
-		(property "Reference" "D56"
-			(at 375.92 129.5399 90)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "DIODE"
-			(at 375.92 132.0799 90)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 373.38 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 373.38 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 373.38 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 373.38 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 373.38 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "42a052e5-2f93-4d8c-8395-5e8a29f45476")
-		)
-		(pin "2"
-			(uuid "8eec2e41-7ed3-438d-a865-9864eac76c38")
-		)
-		(instances
-			(project "PH60_Rev3"
-				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7/dc5cd3b2-ef82-41de-b720-71645d542746"
-					(reference "D56")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
 		(at 195.58 152.4 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5360,7 +5184,7 @@
 			)
 			(project "PH60"
 				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7/dc5cd3b2-ef82-41de-b720-71645d542746"
-					(reference "D60")
+					(reference "D59")
 					(unit 1)
 				)
 			)
@@ -5393,7 +5217,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 327.66 109.22 0)
 			(effects
 				(font
@@ -5630,35 +5454,34 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:D")
-		(at 373.38 87.63 90)
+		(lib_id "Switch:SW_Push")
+		(at 378.46 82.55 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "12e9119e-5238-42ee-ab6d-7fe980890953")
-		(property "Reference" "D28"
-			(at 375.92 86.3599 90)
+		(uuid "11111085-6c3d-47c5-a315-594503cb93fc")
+		(property "Reference" "S28"
+			(at 378.46 77.47 0)
 			(effects
 				(font
-					(size 1.016 1.016)
+					(size 1.524 1.524)
 				)
-				(justify right)
 			)
 		)
-		(property "Value" "DIODE"
-			(at 375.92 88.8999 90)
+		(property "Value" "MX1A"
+			(at 378.46 80.01 0)
 			(effects
 				(font
-					(size 1.016 1.016)
+					(size 1.524 1.524)
 				)
-				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 373.38 87.63 0)
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.50u"
+			(at 378.46 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5667,7 +5490,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 373.38 87.63 0)
+			(at 378.46 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5675,49 +5498,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Diode"
-			(at 373.38 87.63 0)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 378.46 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
-		)
-		(property "Sim.Device" "D"
-			(at 373.38 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 373.38 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "cbbad3e1-a7d2-4500-ad7d-920a379ccd62")
 		)
 		(pin "2"
-			(uuid "3fc27975-58c2-453f-aa0f-d4812f491038")
+			(uuid "0b693ea2-7826-440c-8468-3ba051be009e")
+		)
+		(pin "1"
+			(uuid "09cda961-e9d5-43cd-8993-3ee354e0aeb7")
 		)
 		(instances
-			(project "PH60"
-				(path "/bfc0aadc-38cf-466e-a642-68fdc3138c78/8735f40d-bc56-4c31-8542-8c341b7f2063"
-					(reference "D28")
-					(unit 1)
-				)
-			)
-			(project "PH60"
+			(project "PH60_Rev3"
 				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7/dc5cd3b2-ef82-41de-b720-71645d542746"
-					(reference "D28")
+					(reference "S28")
 					(unit 1)
 				)
 			)
@@ -5844,7 +5643,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 73.66 130.81 0)
 			(effects
 				(font
@@ -5919,7 +5718,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 353.06 66.04 0)
 			(effects
 				(font
@@ -5994,7 +5793,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 251.46 87.63 0)
 			(effects
 				(font
@@ -6445,7 +6244,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_7.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_6.25u"
 			(at 200.66 152.4 0)
 			(effects
 				(font
@@ -6487,7 +6286,7 @@
 			)
 			(project "PH60"
 				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7/dc5cd3b2-ef82-41de-b720-71645d542746"
-					(reference "S60")
+					(reference "S59")
 					(unit 1)
 				)
 			)
@@ -6682,100 +6481,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:D")
-		(at 347.98 109.22 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2cb1747e-b496-4a3b-b2cd-431e7b31733e")
-		(property "Reference" "D41"
-			(at 350.52 107.9499 90)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "DIODE"
-			(at 350.52 110.4899 90)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 347.98 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 347.98 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 347.98 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 347.98 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 347.98 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d525a765-0229-4d1b-86bc-1403ff6c6beb")
-		)
-		(pin "2"
-			(uuid "c2b5d255-4b46-4442-9381-d78aa50f2dfa")
-		)
-		(instances
-			(project "PH60"
-				(path "/bfc0aadc-38cf-466e-a642-68fdc3138c78/8735f40d-bc56-4c31-8542-8c341b7f2063"
-					(reference "D41")
-					(unit 1)
-				)
-			)
-			(project "PH60"
-				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7/dc5cd3b2-ef82-41de-b720-71645d542746"
-					(reference "D41")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 276.86 82.55 0)
 		(mirror x)
@@ -6802,7 +6507,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 276.86 87.63 0)
 			(effects
 				(font
@@ -6971,7 +6676,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.50u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.25u"
 			(at 99.06 152.4 0)
 			(effects
 				(font
@@ -7013,7 +6718,7 @@
 			)
 			(project "PH60"
 				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7/dc5cd3b2-ef82-41de-b720-71645d542746"
-					(reference "S59")
+					(reference "S58")
 					(unit 1)
 				)
 			)
@@ -7046,7 +6751,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 124.46 109.22 0)
 			(effects
 				(font
@@ -7096,6 +6801,75 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
+		(at 353.06 125.73 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3823d41b-be7e-4119-bd8c-24b51e914f7b")
+		(property "Reference" "S54"
+			(at 353.06 120.65 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "MX1A"
+			(at 353.06 123.19 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.75u_90deg"
+			(at 353.06 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 353.06 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 353.06 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "0371907b-4432-446b-9bce-030ebec0151d")
+		)
+		(pin "1"
+			(uuid "c2e03f05-ab68-40f0-907e-bb4933f7cb53")
+		)
+		(instances
+			(project "PH60_Rev3"
+				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7/dc5cd3b2-ef82-41de-b720-71645d542746"
+					(reference "S54")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
 		(at 149.86 104.14 0)
 		(mirror x)
 		(unit 1)
@@ -7121,7 +6895,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 149.86 109.22 0)
 			(effects
 				(font
@@ -7164,6 +6938,94 @@
 			(project "PH60"
 				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7/dc5cd3b2-ef82-41de-b720-71645d542746"
 					(reference "S33")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 373.38 87.63 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3b39ee46-89f5-4d94-9022-fc1ca147b2ba")
+		(property "Reference" "D28"
+			(at 375.92 86.3599 90)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "DIODE"
+			(at 375.92 88.8999 90)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-123"
+			(at 373.38 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 373.38 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 373.38 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 373.38 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 373.38 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8c1216e4-ac1d-4597-ba7b-337cd39107a9")
+		)
+		(pin "2"
+			(uuid "e1c9807f-89f0-42f2-84ae-195c15c71e28")
+		)
+		(instances
+			(project "PH60_Rev3"
+				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7/dc5cd3b2-ef82-41de-b720-71645d542746"
+					(reference "D28")
 					(unit 1)
 				)
 			)
@@ -7289,7 +7151,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 302.26 87.63 0)
 			(effects
 				(font
@@ -7338,6 +7200,94 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:D")
+		(at 373.38 109.22 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3f1f55a6-b38d-474a-a2ed-0f9458515f63")
+		(property "Reference" "D42"
+			(at 375.92 107.9499 90)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "DIODE"
+			(at 375.92 110.4899 90)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-123"
+			(at 373.38 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 373.38 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 373.38 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 373.38 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 373.38 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a8d4f565-0e38-4a49-b8df-15874d8d7308")
+		)
+		(pin "2"
+			(uuid "94eac8ab-9b51-4f14-bcbe-a8811af08ee0")
+		)
+		(instances
+			(project "PH60_Rev3"
+				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7/dc5cd3b2-ef82-41de-b720-71645d542746"
+					(reference "D42")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 353.06 147.32 0)
 		(mirror x)
@@ -7364,7 +7314,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.25u"
 			(at 353.06 152.4 0)
 			(effects
 				(font
@@ -7533,7 +7483,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 302.26 109.22 0)
 			(effects
 				(font
@@ -7608,7 +7558,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 200.66 109.22 0)
 			(effects
 				(font
@@ -7683,7 +7633,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 226.06 66.04 0)
 			(effects
 				(font
@@ -7726,144 +7676,6 @@
 			(project "PH60"
 				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7/dc5cd3b2-ef82-41de-b720-71645d542746"
 					(reference "S8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 99.06 125.73 0)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "48dfffdc-d2e0-4bd4-935f-5838ff6a298d")
-		(property "Reference" "S45"
-			(at 99.06 120.65 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Value" "MX1A"
-			(at 99.06 123.19 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 99.06 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 99.06 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, generic, two pins"
-			(at 99.06 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "ab0830d6-d3bb-4aa4-8ced-a6622bf4032f")
-		)
-		(pin "1"
-			(uuid "120b4a02-037a-4e15-8938-46daf3b88e1d")
-		)
-		(instances
-			(project "PH60_Rev3"
-				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7/dc5cd3b2-ef82-41de-b720-71645d542746"
-					(reference "S45")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 353.06 125.73 0)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "494f99c7-e365-491e-abe6-e3b8fcf820b4")
-		(property "Reference" "S55"
-			(at 353.06 120.65 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Value" "MX1A"
-			(at 353.06 123.19 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_2.75u"
-			(at 353.06 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 353.06 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, generic, two pins"
-			(at 353.06 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "9f934c30-3461-4326-aa7e-3b5d2f021548")
-		)
-		(pin "1"
-			(uuid "3583eb9c-bd94-462e-92fd-24ecb1e65eb8")
-		)
-		(instances
-			(project "PH60_Rev3"
-				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7/dc5cd3b2-ef82-41de-b720-71645d542746"
-					(reference "S55")
 					(unit 1)
 				)
 			)
@@ -7990,7 +7802,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 276.86 130.81 0)
 			(effects
 				(font
@@ -8159,7 +7971,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 48.26 66.04 0)
 			(effects
 				(font
@@ -8214,6 +8026,75 @@
 			(project ""
 				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7/dc5cd3b2-ef82-41de-b720-71645d542746"
 					(reference "S1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 378.46 104.14 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "511e01a5-1546-4a58-aac5-6885e9c6814b")
+		(property "Reference" "S42"
+			(at 378.46 99.06 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "MX1A"
+			(at 378.46 101.6 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+			(at 378.46 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 378.46 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 378.46 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "7e4ea429-c404-440b-ab24-3b058db02e43")
+		)
+		(pin "1"
+			(uuid "66e8574d-dad3-4182-971c-f283cd013429")
+		)
+		(instances
+			(project "PH60_Rev3"
+				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7/dc5cd3b2-ef82-41de-b720-71645d542746"
+					(reference "S42")
 					(unit 1)
 				)
 			)
@@ -8308,75 +8189,6 @@
 			(project "PH60"
 				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7/dc5cd3b2-ef82-41de-b720-71645d542746"
 					(reference "D32")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 124.46 125.73 0)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "575af1a1-b15c-40ed-902c-20c7a9311ced")
-		(property "Reference" "S46"
-			(at 124.46 120.65 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Value" "MX1A"
-			(at 124.46 123.19 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 124.46 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 124.46 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, generic, two pins"
-			(at 124.46 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "f1be3308-ebd0-4e25-8e14-d7c5d514e4d0")
-		)
-		(pin "1"
-			(uuid "f18a1be1-7cdc-4a38-bc27-bb6401907198")
-		)
-		(instances
-			(project "PH60_Rev3"
-				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7/dc5cd3b2-ef82-41de-b720-71645d542746"
-					(reference "S46")
 					(unit 1)
 				)
 			)
@@ -8691,7 +8503,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 251.46 130.81 0)
 			(effects
 				(font
@@ -8740,6 +8552,100 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:D")
+		(at 297.18 152.4 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "67e105d9-ca54-44cb-9242-d68103505807")
+		(property "Reference" "D59"
+			(at 299.72 151.1299 90)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "DIODE"
+			(at 299.72 153.6699 90)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-123"
+			(at 297.18 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 297.18 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 297.18 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 297.18 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 297.18 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1cfb8b49-de3e-4509-80c0-220d1a330add")
+		)
+		(pin "2"
+			(uuid "5bdf4939-4cf9-4ad8-9944-511b0d4ad4fb")
+		)
+		(instances
+			(project "PH60"
+				(path "/bfc0aadc-38cf-466e-a642-68fdc3138c78/8735f40d-bc56-4c31-8542-8c341b7f2063"
+					(reference "D59")
+					(unit 1)
+				)
+			)
+			(project "PH60"
+				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7/dc5cd3b2-ef82-41de-b720-71645d542746"
+					(reference "D60")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 124.46 60.96 0)
 		(mirror x)
@@ -8766,7 +8672,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 124.46 66.04 0)
 			(effects
 				(font
@@ -8841,7 +8747,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 200.66 87.63 0)
 			(effects
 				(font
@@ -8984,6 +8890,81 @@
 		)
 	)
 	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 302.26 147.32 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6ef772f9-3e56-4c68-9687-9d64045c8a31")
+		(property "Reference" "S59"
+			(at 302.26 142.24 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "MX1A"
+			(at 302.26 144.78 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.25u"
+			(at 302.26 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 302.26 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 302.26 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "b6a5822e-403e-491e-8e36-5dfb8495828c")
+		)
+		(pin "1"
+			(uuid "74166ea3-d0a5-42f9-ace5-d257ee2f9d4c")
+		)
+		(instances
+			(project "PH60"
+				(path "/bfc0aadc-38cf-466e-a642-68fdc3138c78/8735f40d-bc56-4c31-8542-8c341b7f2063"
+					(reference "S59")
+					(unit 1)
+				)
+			)
+			(project "PH60"
+				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7/dc5cd3b2-ef82-41de-b720-71645d542746"
+					(reference "S60")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:D")
 		(at 195.58 87.63 90)
 		(unit 1)
@@ -9104,7 +9085,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 251.46 109.22 0)
 			(effects
 				(font
@@ -9179,7 +9160,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 200.66 130.81 0)
 			(effects
 				(font
@@ -9323,81 +9304,6 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 327.66 125.73 0)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7954c3e3-1d43-4036-af9c-d154bb9a92d4")
-		(property "Reference" "S53"
-			(at 327.66 120.65 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Value" "MX1A"
-			(at 327.66 123.19 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 327.66 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 327.66 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, generic, two pins"
-			(at 327.66 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "e2077998-4670-4cbb-b112-ee35d60e2a88")
-		)
-		(pin "1"
-			(uuid "9e44e8b2-363b-4fbf-a193-b29a7ae9b8c1")
-		)
-		(instances
-			(project "PH60"
-				(path "/bfc0aadc-38cf-466e-a642-68fdc3138c78/8735f40d-bc56-4c31-8542-8c341b7f2063"
-					(reference "S53")
-					(unit 1)
-				)
-			)
-			(project "PH60"
-				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7/dc5cd3b2-ef82-41de-b720-71645d542746"
-					(reference "S54")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
 		(at 353.06 82.55 0)
 		(mirror x)
 		(unit 1)
@@ -9423,7 +9329,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 353.06 87.63 0)
 			(effects
 				(font
@@ -9498,7 +9404,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.25u"
 			(at 73.66 152.4 0)
 			(effects
 				(font
@@ -9540,7 +9446,95 @@
 			)
 			(project "PH60"
 				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7/dc5cd3b2-ef82-41de-b720-71645d542746"
-					(reference "S58")
+					(reference "S57")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 347.98 130.81 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "808ec240-2567-480f-a754-127813021c4f")
+		(property "Reference" "D54"
+			(at 350.52 129.5399 90)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "DIODE"
+			(at 350.52 132.0799 90)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-123"
+			(at 347.98 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 347.98 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 347.98 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 347.98 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 347.98 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "25b58423-ed7d-4034-88f3-2af6299a6d3e")
+		)
+		(pin "2"
+			(uuid "f934e61e-3182-4499-8057-34d8a2faee0d")
+		)
+		(instances
+			(project "PH60_Rev3"
+				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7/dc5cd3b2-ef82-41de-b720-71645d542746"
+					(reference "D54")
 					(unit 1)
 				)
 			)
@@ -9573,7 +9567,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.50u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.25u"
 			(at 48.26 152.4 0)
 			(effects
 				(font
@@ -9615,7 +9609,7 @@
 			)
 			(project "PH60"
 				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7/dc5cd3b2-ef82-41de-b720-71645d542746"
-					(reference "S57")
+					(reference "S56")
 					(unit 1)
 				)
 			)
@@ -9648,7 +9642,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 302.26 130.81 0)
 			(effects
 				(font
@@ -9698,6 +9692,75 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
+		(at 124.46 125.73 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "82c749f2-1776-4896-9822-9d13639fd1dc")
+		(property "Reference" "S46"
+			(at 124.46 120.65 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "MX1A"
+			(at 124.46 123.19 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+			(at 124.46 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 124.46 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 124.46 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "b18bb7ac-e961-485b-8781-969e4a5d4c28")
+		)
+		(pin "1"
+			(uuid "3d535b40-a2a8-464c-a9e2-b086fb3f24f4")
+		)
+		(instances
+			(project "PH60_Rev3"
+				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7/dc5cd3b2-ef82-41de-b720-71645d542746"
+					(reference "S46")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
 		(at 149.86 82.55 0)
 		(mirror x)
 		(unit 1)
@@ -9723,7 +9786,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 149.86 87.63 0)
 			(effects
 				(font
@@ -9892,7 +9955,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 276.86 66.04 0)
 			(effects
 				(font
@@ -9942,6 +10005,75 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
+		(at 353.06 104.14 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8abfd7a0-5fe7-4be8-947b-b3b6088df848")
+		(property "Reference" "S41"
+			(at 353.06 99.06 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "MX1A"
+			(at 353.06 101.6 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_2.25u"
+			(at 353.06 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 353.06 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 353.06 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "f3217084-f5e8-4033-8724-0a237a183960")
+		)
+		(pin "1"
+			(uuid "e15eff55-ad1a-4b7e-b026-9d2bb8f24d43")
+		)
+		(instances
+			(project "PH60_Rev3"
+				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7/dc5cd3b2-ef82-41de-b720-71645d542746"
+					(reference "S41")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
 		(at 73.66 104.14 0)
 		(mirror x)
 		(unit 1)
@@ -9967,7 +10099,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 73.66 109.22 0)
 			(effects
 				(font
@@ -10042,7 +10174,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.25u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_2.25u"
 			(at 48.26 130.81 0)
 			(effects
 				(font
@@ -10117,7 +10249,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 99.06 66.04 0)
 			(effects
 				(font
@@ -10192,7 +10324,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 99.06 109.22 0)
 			(effects
 				(font
@@ -10267,7 +10399,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.50u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.25u"
 			(at 378.46 152.4 0)
 			(effects
 				(font
@@ -10316,276 +10448,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:D")
-		(at 322.58 130.81 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9325886e-29b5-4797-b7b6-0d176493143f")
-		(property "Reference" "D53"
-			(at 325.12 129.5399 90)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "DIODE"
-			(at 325.12 132.0799 90)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 322.58 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 322.58 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 322.58 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 322.58 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 322.58 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "cea58172-b2a4-4325-a4b2-0aada71748bc")
-		)
-		(pin "2"
-			(uuid "506a9ee8-1999-4168-8385-948af1697fac")
-		)
-		(instances
-			(project "PH60"
-				(path "/bfc0aadc-38cf-466e-a642-68fdc3138c78/8735f40d-bc56-4c31-8542-8c341b7f2063"
-					(reference "D53")
-					(unit 1)
-				)
-			)
-			(project "PH60"
-				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7/dc5cd3b2-ef82-41de-b720-71645d542746"
-					(reference "D54")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 119.38 130.81 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "93d3b144-b0ee-4dc6-a445-473be10fb856")
-		(property "Reference" "D46"
-			(at 121.92 129.5399 90)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "DIODE"
-			(at 121.92 132.0799 90)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 119.38 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 119.38 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 119.38 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 119.38 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 119.38 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "eb6320ee-17e4-4b68-8f70-eae732ef2ee0")
-		)
-		(pin "2"
-			(uuid "7159b041-13ce-4824-b525-cd249c688f11")
-		)
-		(instances
-			(project "PH60_Rev3"
-				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7/dc5cd3b2-ef82-41de-b720-71645d542746"
-					(reference "D46")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 373.38 109.22 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "98eeac1a-1d11-4a14-b700-5fef570948e5")
-		(property "Reference" "D42"
-			(at 375.92 107.9499 90)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "DIODE"
-			(at 375.92 110.4899 90)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 373.38 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 373.38 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 373.38 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 373.38 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 373.38 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c6a077dc-a832-4ceb-94a0-3edd35ea542f")
-		)
-		(pin "2"
-			(uuid "ed53b9d8-0ee2-478e-aa8a-139db550b4eb")
-		)
-		(instances
-			(project "PH60_Rev3"
-				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7/dc5cd3b2-ef82-41de-b720-71645d542746"
-					(reference "D42")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 378.46 125.73 0)
 		(mirror x)
@@ -10595,8 +10457,8 @@
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "9dda0058-c631-47e0-a825-ea16386ea68a")
-		(property "Reference" "S56"
+		(uuid "9b44417e-727a-4025-b49f-ca5b3ba2e9d5")
+		(property "Reference" "S55"
 			(at 378.46 120.65 0)
 			(effects
 				(font
@@ -10612,7 +10474,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_2.75u_90deg"
 			(at 378.46 130.81 0)
 			(effects
 				(font
@@ -10640,15 +10502,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "3bc14279-1ae2-4baa-9d1b-5f6e9b1296d5")
+			(uuid "c8622baa-84ee-419f-b874-a3ffe701e696")
 		)
 		(pin "1"
-			(uuid "b4a4b730-009b-4fdc-8b3d-a675988f1526")
+			(uuid "850dc167-f6bc-459f-afe3-ab6af31fd980")
 		)
 		(instances
 			(project "PH60_Rev3"
 				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7/dc5cd3b2-ef82-41de-b720-71645d542746"
-					(reference "S56")
+					(reference "S55")
 					(unit 1)
 				)
 			)
@@ -10930,7 +10792,7 @@
 			)
 			(project "PH60"
 				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7/dc5cd3b2-ef82-41de-b720-71645d542746"
-					(reference "D57")
+					(reference "D56")
 					(unit 1)
 				)
 			)
@@ -11125,81 +10987,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 378.46 82.55 0)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a2fdce93-5ad7-443c-acfb-3ee4c0b5927a")
-		(property "Reference" "S28"
-			(at 378.46 77.47 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Value" "MX1A"
-			(at 378.46 80.01 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_ISOEnter_90deg"
-			(at 378.46 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 378.46 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, generic, two pins"
-			(at 378.46 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "790d13bb-7b6d-479a-8fd9-51d6f6f4c1c1")
-		)
-		(pin "1"
-			(uuid "1090cdc6-3f3d-450c-bf28-4f9310517ac7")
-		)
-		(instances
-			(project "PH60"
-				(path "/bfc0aadc-38cf-466e-a642-68fdc3138c78/8735f40d-bc56-4c31-8542-8c341b7f2063"
-					(reference "S28")
-					(unit 1)
-				)
-			)
-			(project "PH60"
-				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7/dc5cd3b2-ef82-41de-b720-71645d542746"
-					(reference "S28")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:D")
 		(at 43.18 109.22 90)
 		(unit 1)
@@ -11320,7 +11107,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.75u_90deg"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.75u"
 			(at 48.26 109.22 0)
 			(effects
 				(font
@@ -11369,6 +11156,94 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:D")
+		(at 119.38 130.81 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a5a43d31-15b4-4155-9d73-c8c94ef30c4c")
+		(property "Reference" "D46"
+			(at 121.92 129.5399 90)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "DIODE"
+			(at 121.92 132.0799 90)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-123"
+			(at 119.38 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 119.38 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 119.38 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 119.38 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 119.38 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "81680cf4-40d0-4a94-8c6d-e1c804c766b8")
+		)
+		(pin "2"
+			(uuid "ba9423e5-3341-49ac-8d61-4f592f364c18")
+		)
+		(instances
+			(project "PH60_Rev3"
+				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7/dc5cd3b2-ef82-41de-b720-71645d542746"
+					(reference "D46")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 226.06 82.55 0)
 		(mirror x)
@@ -11395,7 +11270,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 226.06 87.63 0)
 			(effects
 				(font
@@ -11538,150 +11413,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 378.46 104.14 0)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a63af9ea-3917-444a-84eb-ec901d7a588c")
-		(property "Reference" "S42"
-			(at 378.46 99.06 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Value" "MX1A"
-			(at 378.46 101.6 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 378.46 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 378.46 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, generic, two pins"
-			(at 378.46 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "9ee5f7aa-a712-4d6a-8688-1ddfc9eaf171")
-		)
-		(pin "1"
-			(uuid "1fc123d5-cb23-4be1-9b60-0ac1fbc75b3f")
-		)
-		(instances
-			(project "PH60_Rev3"
-				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7/dc5cd3b2-ef82-41de-b720-71645d542746"
-					(reference "S42")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 353.06 104.14 0)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a65db511-f790-4b0e-b4bc-432ef9fb4acc")
-		(property "Reference" "S41"
-			(at 353.06 99.06 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Value" "MX1A"
-			(at 353.06 101.6 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 353.06 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 353.06 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, generic, two pins"
-			(at 353.06 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "4fc87eb9-0309-4287-90d2-226cc3df00a6")
-		)
-		(pin "1"
-			(uuid "7a8bb568-9d64-4410-ba37-01723601c4ee")
-		)
-		(instances
-			(project "PH60"
-				(path "/bfc0aadc-38cf-466e-a642-68fdc3138c78/8735f40d-bc56-4c31-8542-8c341b7f2063"
-					(reference "S41")
-					(unit 1)
-				)
-			)
-			(project "PH60"
-				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7/dc5cd3b2-ef82-41de-b720-71645d542746"
-					(reference "S41")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:D")
 		(at 170.18 66.04 90)
 		(unit 1)
@@ -11802,7 +11533,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 175.26 66.04 0)
 			(effects
 				(font
@@ -12065,7 +11796,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.50u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.50u"
 			(at 48.26 87.63 0)
 			(effects
 				(font
@@ -12140,7 +11871,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 124.46 87.63 0)
 			(effects
 				(font
@@ -12215,7 +11946,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 302.26 66.04 0)
 			(effects
 				(font
@@ -12384,7 +12115,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.50u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.25u"
 			(at 327.66 152.4 0)
 			(effects
 				(font
@@ -12433,6 +12164,94 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:D")
+		(at 373.38 130.81 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "befd8034-02a1-4fa8-bb95-868bf7f1bf16")
+		(property "Reference" "D55"
+			(at 375.92 129.5399 90)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "DIODE"
+			(at 375.92 132.0799 90)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-123"
+			(at 373.38 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 373.38 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 373.38 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 373.38 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 373.38 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a3b075ff-630d-4233-bc5f-93494d827b8d")
+		)
+		(pin "2"
+			(uuid "df305331-01b2-4db1-823a-749b846f20f1")
+		)
+		(instances
+			(project "PH60_Rev3"
+				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7/dc5cd3b2-ef82-41de-b720-71645d542746"
+					(reference "D55")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 327.66 60.96 0)
 		(mirror x)
@@ -12459,7 +12278,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 327.66 66.04 0)
 			(effects
 				(font
@@ -12628,7 +12447,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 149.86 66.04 0)
 			(effects
 				(font
@@ -12797,7 +12616,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 175.26 87.63 0)
 			(effects
 				(font
@@ -12872,7 +12691,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 327.66 87.63 0)
 			(effects
 				(font
@@ -12915,6 +12734,94 @@
 			(project "PH60"
 				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7/dc5cd3b2-ef82-41de-b720-71645d542746"
 					(reference "S26")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 93.98 130.81 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c6f252ce-e56f-4af4-9339-72aa15d13594")
+		(property "Reference" "D45"
+			(at 96.52 129.5399 90)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "DIODE"
+			(at 96.52 132.0799 90)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-123"
+			(at 93.98 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 93.98 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 93.98 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 93.98 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 93.98 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "fa995bbb-959f-46bb-9e9f-88159ee4e058")
+		)
+		(pin "2"
+			(uuid "abf3d186-dcd1-4808-bf14-e0cdcec2927a")
+		)
+		(instances
+			(project "PH60_Rev3"
+				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7/dc5cd3b2-ef82-41de-b720-71645d542746"
+					(reference "D45")
 					(unit 1)
 				)
 			)
@@ -13290,7 +13197,7 @@
 			)
 			(project "PH60"
 				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7/dc5cd3b2-ef82-41de-b720-71645d542746"
-					(reference "D59")
+					(reference "D58")
 					(unit 1)
 				)
 			)
@@ -13323,7 +13230,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 99.06 87.63 0)
 			(effects
 				(font
@@ -13460,6 +13367,94 @@
 			(project "PH60"
 				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7/dc5cd3b2-ef82-41de-b720-71645d542746"
 					(reference "D13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 347.98 109.22 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "de672795-ae19-490e-aac5-76558eeed731")
+		(property "Reference" "D41"
+			(at 350.52 107.9499 90)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "DIODE"
+			(at 350.52 110.4899 90)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-123"
+			(at 347.98 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 347.98 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 347.98 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 347.98 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 347.98 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a02e27df-528e-4de2-86ba-e06206ac4818")
+		)
+		(pin "2"
+			(uuid "18ecee51-84e0-43b6-9050-84dfa686c6b7")
+		)
+		(instances
+			(project "PH60_Rev3"
+				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7/dc5cd3b2-ef82-41de-b720-71645d542746"
+					(reference "D41")
 					(unit 1)
 				)
 			)
@@ -13843,6 +13838,75 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
+		(at 99.06 125.73 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ede0fed8-875e-4372-b19e-8fb152761391")
+		(property "Reference" "S45"
+			(at 99.06 120.65 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "MX1A"
+			(at 99.06 123.19 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+			(at 99.06 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 99.06 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 99.06 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "44d2d578-8761-45f6-93ac-003cbac000a8")
+		)
+		(pin "1"
+			(uuid "08847c75-05f0-4c36-8b33-126e9402da3e")
+		)
+		(instances
+			(project "PH60_Rev3"
+				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7/dc5cd3b2-ef82-41de-b720-71645d542746"
+					(reference "S45")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
 		(at 226.06 125.73 0)
 		(mirror x)
 		(unit 1)
@@ -13868,7 +13932,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 226.06 130.81 0)
 			(effects
 				(font
@@ -14037,7 +14101,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 276.86 109.22 0)
 			(effects
 				(font
@@ -14112,7 +14176,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 175.26 109.22 0)
 			(effects
 				(font
@@ -14187,7 +14251,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 175.26 130.81 0)
 			(effects
 				(font
@@ -14236,94 +14300,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:D")
-		(at 93.98 130.81 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "fdde8937-4037-458f-a506-1aa209286484")
-		(property "Reference" "D45"
-			(at 96.52 129.5399 90)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "DIODE"
-			(at 96.52 132.0799 90)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 93.98 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 93.98 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 93.98 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 93.98 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 93.98 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "9f858229-393c-4e2a-8a2d-42e611f5dddd")
-		)
-		(pin "2"
-			(uuid "1b3a5260-bdf2-4d96-ae91-b280aeaaad4d")
-		)
-		(instances
-			(project "PH60_Rev3"
-				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7/dc5cd3b2-ef82-41de-b720-71645d542746"
-					(reference "D45")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 226.06 104.14 0)
 		(mirror x)
@@ -14350,7 +14326,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 226.06 109.22 0)
 			(effects
 				(font

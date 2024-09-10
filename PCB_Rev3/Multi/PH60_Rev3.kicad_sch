@@ -5091,7 +5091,7 @@
 	)
 	(global_label "col_11"
 		(shape input)
-		(at 134.62 106.68 0)
+		(at 134.62 101.6 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5101,7 +5101,7 @@
 		)
 		(uuid "193d2017-7677-472c-9437-7a5478560266")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 143.8946 106.68 0)
+			(at 143.8946 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5223,7 +5223,7 @@
 	)
 	(global_label "col_13"
 		(shape input)
-		(at 134.62 111.76 0)
+		(at 134.62 106.68 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5233,7 +5233,7 @@
 		)
 		(uuid "598769fb-232a-47dd-a645-21d67a664c0a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 143.8946 111.76 0)
+			(at 143.8946 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5245,7 +5245,7 @@
 	)
 	(global_label "col_12"
 		(shape input)
-		(at 134.62 109.22 0)
+		(at 134.62 104.14 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5255,7 +5255,7 @@
 		)
 		(uuid "6730d660-5660-4c41-85f0-2c5dbc3536e4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 143.8946 109.22 0)
+			(at 143.8946 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5267,7 +5267,7 @@
 	)
 	(global_label "row_1"
 		(shape input)
-		(at 134.62 104.14 0)
+		(at 134.62 111.76 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5277,7 +5277,7 @@
 		)
 		(uuid "6f85654a-50d2-48cc-82b1-0906b5090e9d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 143.048 104.14 0)
+			(at 143.048 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5333,7 +5333,7 @@
 	)
 	(global_label "row_0"
 		(shape input)
-		(at 134.62 101.6 0)
+		(at 134.62 109.22 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5343,7 +5343,7 @@
 		)
 		(uuid "8a07fbd0-c314-4879-9c55-42e8960faace")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 143.048 101.6 0)
+			(at 143.048 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6203,7 +6203,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-223"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-89-3_Handsoldering"
 			(at 134.62 196.85 0)
 			(effects
 				(font
@@ -8251,7 +8251,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DFN_QFN:QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm"
+		(property "Footprint" "Package_DFN_QFN:QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm_ThermalVias"
 			(at 109.22 111.76 0)
 			(effects
 				(font
