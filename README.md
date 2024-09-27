@@ -24,7 +24,6 @@ An ISO/IEC 9995 60% layout Keyboard.
 10. Place the plate and PCB into the bottom case. Hook the front edge of the upper cover into the groove of the bottom case on the user-facing side, then firmly press down on the other side of the upper cover until it is flush with the bottom.
 11. Lock the clips in place.
 12. Install all the keycaps.
-13. D
 
 ## Caution
 
