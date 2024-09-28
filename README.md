@@ -1,4 +1,7 @@
+English Version| [中文](https://github.com/ph-design/PH60/blob/main/README-zh_CN.md)
+
 ---
+
 # PH60
 A 60% ISO/ANSI Keyboard.  
 An ISO/IEC 9995 60% layout Keyboard.
