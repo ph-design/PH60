@@ -479,7 +479,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "../../Production/",
+      "plot": "../../Production/PH60-Rev2-ANSI",
       "pos_files": "../Production/PCB_Rev2/",
       "specctra_dsn": "",
       "step": "../../PCB_Model_Rev3/PH60_Rev3.step",
