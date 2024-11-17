@@ -2676,7 +2676,7 @@
 				)
 			)
 		)
-		(symbol "Regulator_Linear:TLV1117-33"
+		(symbol "Regulator_Linear:XC6206PxxxMR"
 			(pin_names
 				(offset 0.254)
 			)
@@ -2691,7 +2691,7 @@
 					)
 				)
 			)
-			(property "Value" "TLV1117-33"
+			(property "Value" "XC6206PxxxMR"
 				(at 0 3.175 0)
 				(effects
 					(font
@@ -2700,7 +2700,17 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "Package_TO_SOT_SMD:SOT-23-3"
+				(at 0 5.715 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.torexsemi.com/file/xc6206/XC6206.pdf"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2709,7 +2719,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "http://www.ti.com/lit/ds/symlink/tlv1117.pdf"
+			(property "Description" "Positive 60-250mA Low Dropout Regulator, Fixed Output, SOT-23"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2718,7 +2728,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "800mA Low-Dropout Linear Regulator, 3.3V fixed output, TO-220/TO-252/TO-263/SOT-223"
+			(property "ki_keywords" "Torex LDO Voltage Regulator Fixed Positive"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2727,7 +2737,7 @@
 					(hide yes)
 				)
 			)
-			(property "ki_keywords" "linear regulator ldo fixed positive"
+			(property "ki_fp_filters" "SOT?23?3*"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2736,19 +2746,10 @@
 					(hide yes)
 				)
 			)
-			(property "ki_fp_filters" "SOT?223* TO?263* TO?252* TO?220*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "TLV1117-33_0_1"
+			(symbol "XC6206PxxxMR_0_1"
 				(rectangle
-					(start -5.08 -5.08)
-					(end 5.08 1.905)
+					(start -5.08 1.905)
+					(end 5.08 -5.08)
 					(stroke
 						(width 0.254)
 						(type default)
@@ -2758,7 +2759,7 @@
 					)
 				)
 			)
-			(symbol "TLV1117-33_1_1"
+			(symbol "XC6206PxxxMR_1_1"
 				(pin power_in line
 					(at 0 -7.62 90)
 					(length 2.54)
@@ -6178,77 +6179,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Regulator_Linear:TLV1117-33")
-		(at 134.62 196.85 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "3267b0d7-3a71-4142-9ae7-8a304dba132d")
-		(property "Reference" "U1"
-			(at 134.62 190.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "TLV1117-33"
-			(at 134.62 193.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-89-3_Handsoldering"
-			(at 134.62 196.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/tlv1117.pdf"
-			(at 134.62 196.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "800mA Low-Dropout Linear Regulator, 3.3V fixed output, TO-220/TO-252/TO-263/SOT-223"
-			(at 134.62 196.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "2ff5ee0c-a69a-49e1-8f35-fd20be07a0b6")
-		)
-		(pin "1"
-			(uuid "b860355a-29d6-4abf-9268-5c3bad4a543d")
-		)
-		(pin "2"
-			(uuid "168ef764-c7eb-430a-a24d-ebab7e1fac4e")
-		)
-		(instances
-			(project ""
-				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7"
-					(reference "U1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+3V3")
 		(at 274.32 76.2 0)
 		(unit 1)
@@ -9066,6 +8996,78 @@
 		)
 	)
 	(symbol
+		(lib_id "Regulator_Linear:XC6206PxxxMR")
+		(at 134.62 196.85 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f1b5b9e1-abac-45cd-8967-d300c6161541")
+		(property "Reference" "U4"
+			(at 134.62 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "XC6206PxxxMR"
+			(at 134.62 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-3"
+			(at 134.62 191.135 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.torexsemi.com/file/xc6206/XC6206.pdf"
+			(at 134.62 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Positive 60-250mA Low Dropout Regulator, Fixed Output, SOT-23"
+			(at 134.62 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "f65a98c3-0ba7-4c98-92ef-ccace304a363")
+		)
+		(pin "1"
+			(uuid "34c0ef84-d0b3-4c5c-a2e4-c6e189082e83")
+		)
+		(pin "2"
+			(uuid "37d6d8c7-c01d-45a9-a30b-0db6e3ced1f0")
+		)
+		(instances
+			(project ""
+				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7"
+					(reference "U4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 83.82 48.26 0)
 		(unit 1)
@@ -9232,7 +9234,7 @@
 			)
 		)
 		(instances
-			(project "PH60_Rev3"
+			(project "PH60_Rev2"
 				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7"
 					(page "2")
 				)
