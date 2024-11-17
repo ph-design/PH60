@@ -9708,6 +9708,7 @@
 		)
 	)
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.25u_90deg"
+		(locked yes)
 		(layer "F.Cu")
 		(uuid "2adc57da-e42e-4060-8e40-9fecfb7d42e3")
 		(at 40.48125 76.2 90)
@@ -19204,6 +19205,7 @@
 		)
 	)
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.75u_90deg"
+		(locked yes)
 		(layer "F.Cu")
 		(uuid "5fdff412-db11-495e-bfb3-5588ba284385")
 		(at 45.24375 76.2 -90)
@@ -59054,6 +59056,7 @@
 		)
 	)
 	(footprint "Diode_SMD:D_SOD-123"
+		(locked yes)
 		(layer "B.Cu")
 		(uuid "292ba8a4-fe56-40c8-b665-797e6d8bd2e6")
 		(at 54.4 79.23 90)
