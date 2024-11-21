@@ -22320,7 +22320,7 @@
 			(at 0.1753 5.7861 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "20ed322b-778f-4152-805c-eb69772f32ae")
+			(uuid "7f15160b-61f0-4969-82e0-f5ef9627caa0")
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -22332,7 +22332,7 @@
 			(at 0.17526 -4.9022 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "af889e60-945b-4fd2-b72e-abfdb8fe4749")
+			(uuid "556a8986-8bb2-4797-b39e-14dc3637cd6a")
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -22382,7 +22382,7 @@
 			(size 5 2.5)
 			(drill oval 5 2.5)
 			(layers "F&B.Cu" "*.Mask")
-			(uuid "09e5ca8a-e3cb-4288-b82b-4dd7078545e9")
+			(uuid "8ee5ee6c-49d4-4f9f-882c-84ef97e09588")
 		)
 		(model "cherry_mx1.wrl"
 			(offset
@@ -34776,7 +34776,7 @@
 			(at 0 4.675 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "d9362094-fa2d-467f-9f20-02f53c872ad7")
+			(uuid "b8999f97-094e-4423-acd5-2aec5737929f")
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -34788,7 +34788,7 @@
 			(at 0.508 -4.826 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "11dc4acd-f6b2-4573-ae01-3411322394da")
+			(uuid "dcfc928a-910c-4475-bdaa-7e8a24ee432e")
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -34838,7 +34838,7 @@
 			(size 7 2.5)
 			(drill oval 7 2.5)
 			(layers "F&B.Cu" "*.Mask")
-			(uuid "fb8323ae-9125-45e4-a55e-c7487d9d8846")
+			(uuid "6515a152-364e-4c11-9c4b-1303d8814675")
 		)
 		(model "cherry_mx1.wrl"
 			(offset
@@ -40296,7 +40296,7 @@
 			(at 0.1753 5.7861 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "20ed322b-778f-4152-805c-eb69772f32ae")
+			(uuid "56bad57e-ee50-42c0-aea6-9616da114100")
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -40308,7 +40308,7 @@
 			(at 0.17526 -4.9022 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "af889e60-945b-4fd2-b72e-abfdb8fe4749")
+			(uuid "d8b5929f-0956-47e8-8163-a939b3bef6e1")
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -40358,7 +40358,7 @@
 			(size 5 2.5)
 			(drill oval 5 2.5)
 			(layers "F&B.Cu" "*.Mask")
-			(uuid "09e5ca8a-e3cb-4288-b82b-4dd7078545e9")
+			(uuid "c7d8e3cf-8c94-422f-9279-be4951d42261")
 		)
 		(model "cherry_mx1.wrl"
 			(offset
@@ -82337,16 +82337,6 @@
 		(uuid "439a6611-5e91-4d2b-98d2-87eeda31fcbd")
 	)
 	(gr_line
-		(start 28.95 28.575)
-		(end 28.95 28.9)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "6a4a45f8-d269-4cdb-9422-0e9627896657")
-	)
-	(gr_line
 		(start 311.95 28.9)
 		(end 30.95 28.9)
 		(stroke
@@ -82387,16 +82377,6 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "c5d65d77-9c70-40a0-b43c-9cc2f2dd222b")
-	)
-	(gr_line
-		(start 28.575 28.575)
-		(end 28.95 28.575)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "de4d7033-8cf0-4d80-9fff-5c2a7ce8de04")
 	)
 	(gr_line
 		(start 313.95 121.5)
