@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.762,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 7.0,
+          "height": 2.5,
+          "width": 7.0
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -444,7 +444,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "PH60_Rev3.kicad_pro",
+    "filename": "PH60_Rev2.kicad_pro",
     "version": 1
   },
   "net_settings": {
