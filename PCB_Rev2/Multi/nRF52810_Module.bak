@@ -22,7 +22,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "nRF_Module:nRF52810_Module"
 			(at 0 0 0)
 			(effects
 				(font

@@ -51,14 +51,14 @@
 		)
 		(symbol "LC52810_0_1"
 			(rectangle
-				(start -12.7 -22.86)
-				(end 12.7 5.08)
+				(start -12.7 5.08)
+				(end 12.7 -22.86)
 				(stroke
 					(width 0)
 					(type default)
 				)
 				(fill
-					(type none)
+					(type background)
 				)
 			)
 		)
