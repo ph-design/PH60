@@ -1,3 +1,8 @@
+<b>⚠️Warning⚠️</b>
+
+<b>You are currently on the dev branch, which contains the latest project progress. It may include unstable or incomplete projects and code. It is recommended to switch to the production branch. The current latest version is: <a href="https://github.com/ph-design/PH60/tree/Rev.2"><code>Rev.2</code></a>
+</b>
+
 English Version| [中文](https://github.com/ph-design/PH60/blob/main/README-zh_CN.md)
 
 ---

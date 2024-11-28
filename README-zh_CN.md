@@ -1,3 +1,7 @@
+# <b>⚠️警告⚠️</b>
+<b>你现在处于 dev 分支，其中包含最新的项目进度，可能存在不稳定或未完成的项目和代码。建议切换到生产分支，目前最新的版本为：<a href="https://github.com/ph-design/PH60/tree/Rev.2"><code>Rev.2</code></a>
+</b>
+
 [English Version](https://github.com/ph-design/PH60/blob/main/README.md) | 中文
 
 ---
