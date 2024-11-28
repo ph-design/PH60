@@ -1,0 +1,5 @@
+[kbplacer_plugin_action.py:63]: Plugin version: 0.10
+[kbplacer_plugin_action.py:64]: Python version: '3.11.5 (main, Jul 16 2024, 08:01:06) [MSC v.1939 64 bit (AMD64)]'
+[kbplacer_plugin_action.py:65]: KiCad version: 8.0.4 with 4.2.0 msw (phoenix) wxWidgets 3.2.5
+[kbplacer_dialog.py:584]: Language: en
+[kbplacer_plugin_action.py:84]: GUI state: {"layout_path": "D:\\UserData\\Downloads\\ANSI60.json", "key_distance": [19.05, 19.05], "key_info": {"annotation_format": "S{}", "position_option": "Default", "position": {"x": 0.0, "y": 0.0, "orientation": 0.0, "side": "Front"}, "template_path": ""}, "enable_diode_placement": true, "route_switches_with_diodes": false, "diode_info": {"annotation_format": "D{}", "position_option": "Custom", "position": {"x": -5.08, "y": 3.03, "orientation": 90.0, "side": "Back"}, "template_path": ""}, "additional_elements": [{"annotation_format": "ST{}", "position_option": "Custom", "position": {"x": 0.0, "y": 0.0, "orientation": 0.0, "side": "Front"}, "template_path": ""}], "route_rows_and_columns": false, "template_path": "", "generate_outline": false, "outline_delta": 0.0}
