@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "RGB")(type "KiCad")(uri "${KIPRJMOD}/RGB.pretty")(options "")(descr ""))
+)
