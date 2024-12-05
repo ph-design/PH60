@@ -7136,7 +7136,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_USB:USB_C_Receptacle_HCTL_HC-TYPE-C-16P-01A"
+		(property "Footprint" "PH60:USB-C_16P_HandSolder"
 			(at 52.07 220.98 0)
 			(effects
 				(font

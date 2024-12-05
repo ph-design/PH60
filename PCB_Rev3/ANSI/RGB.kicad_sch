@@ -3412,7 +3412,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:ws2812B_6028"
+		(property "Footprint" "PH60:WS2812B_Reverse"
 			(at 185.42 64.77 0)
 			(effects
 				(font
@@ -3488,7 +3488,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:ws2812B_6028"
+		(property "Footprint" "PH60:WS2812B_Reverse"
 			(at 43.18 85.09 0)
 			(effects
 				(font
@@ -3564,7 +3564,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:ws2812B_6028"
+		(property "Footprint" "PH60:WS2812B_Reverse"
 			(at 185.42 105.41 0)
 			(effects
 				(font
@@ -3640,7 +3640,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:ws2812B_6028"
+		(property "Footprint" "PH60:WS2812B_Reverse"
 			(at 398.78 105.41 0)
 			(effects
 				(font
@@ -3716,7 +3716,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:ws2812B_6028"
+		(property "Footprint" "PH60:WS2812B_Reverse"
 			(at 78.74 105.41 0)
 			(effects
 				(font
@@ -3792,7 +3792,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:ws2812B_6028"
+		(property "Footprint" "PH60:WS2812B_Reverse"
 			(at 363.22 105.41 0)
 			(effects
 				(font
@@ -3868,7 +3868,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:ws2812B_6028"
+		(property "Footprint" "PH60:WS2812B_Reverse"
 			(at 469.9 64.77 0)
 			(effects
 				(font
@@ -3944,7 +3944,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:ws2812B_6028"
+		(property "Footprint" "PH60:WS2812B_Reverse"
 			(at 185.42 125.73 0)
 			(effects
 				(font
@@ -4020,7 +4020,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:ws2812B_6028"
+		(property "Footprint" "PH60:WS2812B_Reverse"
 			(at 220.98 85.09 0)
 			(effects
 				(font
@@ -4096,7 +4096,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:ws2812B_6028"
+		(property "Footprint" "PH60:WS2812B_Reverse"
 			(at 43.18 125.73 0)
 			(effects
 				(font
@@ -4172,7 +4172,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:ws2812B_6028"
+		(property "Footprint" "PH60:WS2812B_Reverse"
 			(at 327.66 44.45 0)
 			(effects
 				(font
@@ -4248,7 +4248,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:ws2812B_6028"
+		(property "Footprint" "PH60:WS2812B_Reverse"
 			(at 434.34 44.45 0)
 			(effects
 				(font
@@ -4324,7 +4324,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:ws2812B_6028"
+		(property "Footprint" "PH60:WS2812B_Reverse"
 			(at 256.54 44.45 0)
 			(effects
 				(font
@@ -4400,7 +4400,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:ws2812B_6028"
+		(property "Footprint" "PH60:WS2812B_Reverse"
 			(at 505.46 44.45 0)
 			(effects
 				(font
@@ -4476,7 +4476,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:ws2812B_6028"
+		(property "Footprint" "PH60:WS2812B_Reverse"
 			(at 363.22 64.77 0)
 			(effects
 				(font
@@ -4552,7 +4552,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:ws2812B_6028"
+		(property "Footprint" "PH60:WS2812B_Reverse"
 			(at 185.42 44.45 0)
 			(effects
 				(font
@@ -4628,7 +4628,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:ws2812B_6028"
+		(property "Footprint" "PH60:WS2812B_Reverse"
 			(at 469.9 85.09 0)
 			(effects
 				(font
@@ -4704,7 +4704,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:ws2812B_6028"
+		(property "Footprint" "PH60:WS2812B_Reverse"
 			(at 256.54 64.77 0)
 			(effects
 				(font
@@ -4780,7 +4780,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:ws2812B_6028"
+		(property "Footprint" "PH60:WS2812B_Reverse"
 			(at 149.86 64.77 0)
 			(effects
 				(font
@@ -4856,7 +4856,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:ws2812B_6028"
+		(property "Footprint" "PH60:WS2812B_Reverse"
 			(at 434.34 64.77 0)
 			(effects
 				(font
@@ -4932,7 +4932,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:ws2812B_6028"
+		(property "Footprint" "PH60:WS2812B_Reverse"
 			(at 114.3 64.77 0)
 			(effects
 				(font
@@ -5008,7 +5008,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:ws2812B_6028"
+		(property "Footprint" "PH60:WS2812B_Reverse"
 			(at 292.1 44.45 0)
 			(effects
 				(font
@@ -5084,7 +5084,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:ws2812B_6028"
+		(property "Footprint" "PH60:WS2812B_Reverse"
 			(at 78.74 64.77 0)
 			(effects
 				(font
@@ -5160,7 +5160,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:ws2812B_6028"
+		(property "Footprint" "PH60:WS2812B_Reverse"
 			(at 43.18 105.41 0)
 			(effects
 				(font
@@ -5236,7 +5236,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:ws2812B_6028"
+		(property "Footprint" "PH60:WS2812B_Reverse"
 			(at 78.74 85.09 0)
 			(effects
 				(font
@@ -5312,7 +5312,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:ws2812B_6028"
+		(property "Footprint" "PH60:WS2812B_Reverse"
 			(at 43.18 64.77 0)
 			(effects
 				(font
@@ -5388,7 +5388,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:ws2812B_6028"
+		(property "Footprint" "PH60:WS2812B_Reverse"
 			(at 363.22 44.45 0)
 			(effects
 				(font
@@ -5464,7 +5464,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:ws2812B_6028"
+		(property "Footprint" "PH60:WS2812B_Reverse"
 			(at 220.98 44.45 0)
 			(effects
 				(font
@@ -5540,7 +5540,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:ws2812B_6028"
+		(property "Footprint" "PH60:WS2812B_Reverse"
 			(at 469.9 44.45 0)
 			(effects
 				(font
@@ -5616,7 +5616,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:ws2812B_6028"
+		(property "Footprint" "PH60:WS2812B_Reverse"
 			(at 292.1 85.09 0)
 			(effects
 				(font
@@ -5692,7 +5692,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:ws2812B_6028"
+		(property "Footprint" "PH60:WS2812B_Reverse"
 			(at 114.3 44.45 0)
 			(effects
 				(font
@@ -5768,7 +5768,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:ws2812B_6028"
+		(property "Footprint" "PH60:WS2812B_Reverse"
 			(at 78.74 125.73 0)
 			(effects
 				(font
@@ -5844,7 +5844,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:ws2812B_6028"
+		(property "Footprint" "PH60:WS2812B_Reverse"
 			(at 220.98 64.77 0)
 			(effects
 				(font
@@ -5920,7 +5920,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:ws2812B_6028"
+		(property "Footprint" "PH60:WS2812B_Reverse"
 			(at 398.78 44.45 0)
 			(effects
 				(font
@@ -5996,7 +5996,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:ws2812B_6028"
+		(property "Footprint" "PH60:WS2812B_Reverse"
 			(at 398.78 64.77 0)
 			(effects
 				(font
@@ -6072,7 +6072,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:ws2812B_6028"
+		(property "Footprint" "PH60:WS2812B_Reverse"
 			(at 114.3 105.41 0)
 			(effects
 				(font
@@ -6148,7 +6148,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:ws2812B_6028"
+		(property "Footprint" "PH60:WS2812B_Reverse"
 			(at 43.18 44.45 0)
 			(effects
 				(font
@@ -6224,7 +6224,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:ws2812B_6028"
+		(property "Footprint" "PH60:WS2812B_Reverse"
 			(at 505.46 64.77 0)
 			(effects
 				(font
@@ -6300,7 +6300,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:ws2812B_6028"
+		(property "Footprint" "PH60:WS2812B_Reverse"
 			(at 149.86 105.41 0)
 			(effects
 				(font
@@ -6376,7 +6376,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:ws2812B_6028"
+		(property "Footprint" "PH60:WS2812B_Reverse"
 			(at 292.1 64.77 0)
 			(effects
 				(font
@@ -6452,7 +6452,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:ws2812B_6028"
+		(property "Footprint" "PH60:WS2812B_Reverse"
 			(at 78.74 44.45 0)
 			(effects
 				(font
@@ -6594,7 +6594,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:ws2812B_6028"
+		(property "Footprint" "PH60:WS2812B_Reverse"
 			(at 256.54 85.09 0)
 			(effects
 				(font
@@ -6670,7 +6670,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:ws2812B_6028"
+		(property "Footprint" "PH60:WS2812B_Reverse"
 			(at 114.3 85.09 0)
 			(effects
 				(font
@@ -6746,7 +6746,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:ws2812B_6028"
+		(property "Footprint" "PH60:WS2812B_Reverse"
 			(at 363.22 85.09 0)
 			(effects
 				(font
@@ -6822,7 +6822,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:ws2812B_6028"
+		(property "Footprint" "PH60:WS2812B_Reverse"
 			(at 469.9 105.41 0)
 			(effects
 				(font
@@ -6898,7 +6898,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:ws2812B_6028"
+		(property "Footprint" "PH60:WS2812B_Reverse"
 			(at 114.3 125.73 0)
 			(effects
 				(font
@@ -6974,7 +6974,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:ws2812B_6028"
+		(property "Footprint" "PH60:WS2812B_Reverse"
 			(at 327.66 85.09 0)
 			(effects
 				(font
@@ -7050,7 +7050,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:ws2812B_6028"
+		(property "Footprint" "PH60:WS2812B_Reverse"
 			(at 434.34 105.41 0)
 			(effects
 				(font
@@ -7126,7 +7126,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:ws2812B_6028"
+		(property "Footprint" "PH60:WS2812B_Reverse"
 			(at 327.66 105.41 0)
 			(effects
 				(font
@@ -7202,7 +7202,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:ws2812B_6028"
+		(property "Footprint" "PH60:WS2812B_Reverse"
 			(at 256.54 105.41 0)
 			(effects
 				(font
@@ -7278,7 +7278,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:ws2812B_6028"
+		(property "Footprint" "PH60:WS2812B_Reverse"
 			(at 398.78 85.09 0)
 			(effects
 				(font
@@ -7420,7 +7420,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:ws2812B_6028"
+		(property "Footprint" "PH60:WS2812B_Reverse"
 			(at 292.1 105.41 0)
 			(effects
 				(font
@@ -7496,7 +7496,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:ws2812B_6028"
+		(property "Footprint" "PH60:WS2812B_Reverse"
 			(at 149.86 125.73 0)
 			(effects
 				(font
@@ -7572,7 +7572,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:ws2812B_6028"
+		(property "Footprint" "PH60:WS2812B_Reverse"
 			(at 220.98 105.41 0)
 			(effects
 				(font
@@ -7648,7 +7648,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:ws2812B_6028"
+		(property "Footprint" "PH60:WS2812B_Reverse"
 			(at 149.86 44.45 0)
 			(effects
 				(font
@@ -7724,7 +7724,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:ws2812B_6028"
+		(property "Footprint" "PH60:WS2812B_Reverse"
 			(at 434.34 85.09 0)
 			(effects
 				(font
@@ -7800,7 +7800,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:ws2812B_6028"
+		(property "Footprint" "PH60:WS2812B_Reverse"
 			(at 149.86 85.09 0)
 			(effects
 				(font
@@ -7876,7 +7876,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:ws2812B_6028"
+		(property "Footprint" "PH60:WS2812B_Reverse"
 			(at 327.66 64.77 0)
 			(effects
 				(font
@@ -7952,7 +7952,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:ws2812B_6028"
+		(property "Footprint" "PH60:WS2812B_Reverse"
 			(at 185.42 85.09 0)
 			(effects
 				(font
@@ -8028,7 +8028,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:ws2812B_6028"
+		(property "Footprint" "PH60:WS2812B_Reverse"
 			(at 220.98 125.73 0)
 			(effects
 				(font
@@ -8104,7 +8104,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:ws2812B_6028"
+		(property "Footprint" "PH60:WS2812B_Reverse"
 			(at 505.46 85.09 0)
 			(effects
 				(font
@@ -8180,7 +8180,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:ws2812B_6028"
+		(property "Footprint" "PH60:WS2812B_Reverse"
 			(at 505.46 105.41 0)
 			(effects
 				(font
