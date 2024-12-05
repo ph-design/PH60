@@ -1,4 +1,4 @@
-(footprint "ws2812B_6028"
+(footprint "WS2812B_Reverse"
 	(version 20240108)
 	(generator "pcbnew")
 	(generator_version "8.0")
