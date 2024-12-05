@@ -3959,6 +3959,10 @@
 		(uuid "17f788da-e231-439a-b6a4-a5223d329627")
 	)
 	(no_connect
+		(at 134.62 114.3)
+		(uuid "218032cd-0186-4ab1-9648-12811a1f10be")
+	)
+	(no_connect
 		(at 134.62 129.54)
 		(uuid "23e5e5f1-7d19-408f-999c-2d13d69692a5")
 	)
@@ -3977,10 +3981,6 @@
 	(no_connect
 		(at 134.62 142.24)
 		(uuid "5d677805-21eb-46fb-a9bf-ea59429361dd")
-	)
-	(no_connect
-		(at 134.62 121.92)
-		(uuid "64082ef9-b1fc-46f0-a455-a048629deb63")
 	)
 	(no_connect
 		(at 134.62 144.78)
@@ -4003,12 +4003,12 @@
 		(uuid "c62f831b-5cca-479c-8d7f-78c32b687af7")
 	)
 	(no_connect
-		(at 134.62 124.46)
-		(uuid "ce1cc6c0-bdf5-4d99-be59-5417ae635ae3")
-	)
-	(no_connect
 		(at 83.82 73.66)
 		(uuid "d95ff1e2-d6f7-44b5-b6e9-a6f3c68fda0e")
+	)
+	(no_connect
+		(at 134.62 116.84)
+		(uuid "dec8350d-979a-4535-a20c-cea05f151bfc")
 	)
 	(no_connect
 		(at 63.5 236.22)
@@ -5653,7 +5653,7 @@
 	)
 	(global_label "row_2"
 		(shape input)
-		(at 134.62 114.3 0)
+		(at 134.62 119.38 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5663,7 +5663,7 @@
 		)
 		(uuid "2f36d081-ea24-4271-b129-b11e4d94e04c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 143.048 114.3 0)
+			(at 143.048 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5895,7 +5895,7 @@
 	)
 	(global_label "row_3"
 		(shape input)
-		(at 134.62 116.84 0)
+		(at 134.62 121.92 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5905,7 +5905,7 @@
 		)
 		(uuid "9eea1635-045e-4a04-a99b-98fb187f6cb5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 143.048 116.84 0)
+			(at 143.048 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6005,7 +6005,7 @@
 	)
 	(global_label "row_4"
 		(shape input)
-		(at 134.62 119.38 0)
+		(at 134.62 124.46 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6015,7 +6015,7 @@
 		)
 		(uuid "ff5b8732-052c-4ef4-b1a6-1bdaec7704ab")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 143.048 119.38 0)
+			(at 143.048 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6859,7 +6859,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_5.23x5.23mm_P1.27mm"
+		(property "Footprint" "Package_SON:Winbond_USON-8-1EP_3x2mm_P0.5mm_EP0.2x1.6mm"
 			(at 274.32 116.84 0)
 			(effects
 				(font
@@ -7724,8 +7724,8 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
-		(dnp no)
+		(on_board no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "70153671-b80c-4131-879a-96377df7d265")
 		(property "Reference" "U1"
@@ -9403,7 +9403,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
+		(property "Footprint" "Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical"
 			(at 191.77 109.22 0)
 			(effects
 				(font
