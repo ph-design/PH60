@@ -1,4 +1,4 @@
-24949903534524309
+25521944303555500
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -73751,6 +73751,2316 @@ Kailh KH CPG1425 Keyboard Low Profile Notebook Keyswitch Switch Cutout Keycap IS
 0
 2
 2
+PCM_marbastlib-choc
+LED_choc_1206R
+Add-on for regular choc-footprints with MHT151RGBCT 1206 reverse mount LED
+kailh choc 1206 rearmount rear mount led rgb backlight 
+0
+4
+4
+PCM_marbastlib-choc
+LED_choc_1206R-ROT
+Add-on for regular choc-footprints with MHT151RGBCT 1206 reverse mount LED
+kailh choc 1206 rearmount rear mount led rgb backlight
+0
+4
+4
+PCM_marbastlib-choc
+LED_choc_6028R
+Add-on for regular choc-footprints with 6028 reverse mount LED
+kailh choc 6028 rearmount rear mount led rgb backlight
+0
+4
+4
+PCM_marbastlib-choc
+LED_choc_6028R-ROT
+Add-on for regular choc-footprints with 6028 reverse mount LED
+kailh choc 6028 rearmount rear mount led rgb backlight
+0
+4
+4
+PCM_marbastlib-choc
+SW_choc_v1_1.5u
+Footprint for Kailh Choc style switches
+
+0
+2
+2
+PCM_marbastlib-choc
+SW_choc_v1_1.25u
+Footprint for Kailh Choc style switches
+
+0
+2
+2
+PCM_marbastlib-choc
+SW_choc_v1_1.75u
+Footprint for Kailh Choc style switches
+
+0
+2
+2
+PCM_marbastlib-choc
+SW_choc_v1_1u
+Footprint for Kailh Choc style switches
+
+0
+2
+2
+PCM_marbastlib-choc
+SW_choc_v1_HS_CPG135001S30_1.5u
+Hotswap footprint for Kailh Choc style switches
+
+0
+6
+2
+PCM_marbastlib-choc
+SW_choc_v1_HS_CPG135001S30_1.25u
+Hotswap footprint for Kailh Choc style switches
+
+0
+6
+2
+PCM_marbastlib-choc
+SW_choc_v1_HS_CPG135001S30_1.75u
+Hotswap footprint for Kailh Choc style switches
+
+0
+6
+2
+PCM_marbastlib-choc
+SW_choc_v1_HS_CPG135001S30_1u
+Hotswap footprint for Kailh Choc style switches
+
+0
+6
+2
+PCM_marbastlib-choc
+SW_choc_v1_HS_CPG135001S30_2.25u
+Hotswap footprint for Kailh Choc style switches
+
+0
+6
+2
+PCM_marbastlib-hitek
+SW_HiTek_1.5u
+Footprint for Hi-Tek Series 725 ("Space Invader") Switches
+Hi-Tek hitek space invader switch keyboard 725
+0
+4
+2
+PCM_marbastlib-hitek
+SW_HiTek_1.25u
+Footprint for Hi-Tek Series 725 ("Space Invader") Switches
+Hi-Tek hitek space invader switch keyboard 725
+0
+4
+2
+PCM_marbastlib-hitek
+SW_HiTek_1.75u
+Footprint for Hi-Tek Series 725 ("Space Invader") Switches
+Hi-Tek hitek space invader switch keyboard 725
+0
+4
+2
+PCM_marbastlib-hitek
+SW_HiTek_1.75u_STP_1.5
+Footprint for Hi-Tek Series 725 ("Space Invader") Switches
+Hi-Tek hitek space invader switch keyboard 725
+0
+4
+2
+PCM_marbastlib-hitek
+SW_HiTek_1.75u_STP_1.25
+Footprint for Hi-Tek Series 725 ("Space Invader") Switches
+Hi-Tek hitek space invader switch keyboard 725
+0
+4
+2
+PCM_marbastlib-hitek
+SW_HiTek_1u
+Footprint for Hi-Tek Series 725 ("Space Invader") Switches
+Hi-Tek hitek space invader switch keyboard 725
+0
+4
+2
+PCM_marbastlib-hitek
+SW_HiTek_2.25u
+Footprint for Hi-Tek Series 725 ("Space Invader") Switches
+Hi-Tek hitek space invader switch keyboard 725
+0
+4
+2
+PCM_marbastlib-hitek
+SW_HiTek_2.75u
+Footprint for Hi-Tek Series 725 ("Space Invader") Switches
+Hi-Tek hitek space invader switch keyboard 725
+0
+4
+2
+PCM_marbastlib-hitek
+SW_HiTek_2u
+Footprint for Hi-Tek Series 725 ("Space Invader") Switches
+Hi-Tek hitek space invader switch keyboard 725
+0
+4
+2
+PCM_marbastlib-hitek
+SW_HiTek_7u
+Footprint for Hi-Tek Series 725 ("Space Invader") Switches
+Hi-Tek hitek space invader switch keyboard 725
+0
+4
+2
+PCM_marbastlib-mx
+LED_MX_3mm
+Add-on for regular MX-footprints with 3mm LED
+cherry MX 3mm led backlight
+0
+2
+2
+PCM_marbastlib-mx
+LED_MX_3mm-ROT
+Add-on for regular MX-footprints with 3mm LED
+cherry MX 3mm led backlight
+0
+2
+2
+PCM_marbastlib-mx
+LED_MX_1206R
+Add-on for regular MX-footprints with MHT151RGBCT 1206 reverse mount LED
+cherry MX 1206 rearmount rear mount led rgb backlight
+0
+4
+4
+PCM_marbastlib-mx
+LED_MX_1206R-ROT
+Add-on for regular MX-footprints with MHT151RGBCT 1206 reverse mount LED
+cherry MX 1206 rearmount rear mount led rgb backlight
+0
+4
+4
+PCM_marbastlib-mx
+LED_MX_6028R
+Add-on for regular MX-footprints with 6028 reverse mount LED
+cherry MX 6028 rearmount rear mount led rgb backlight
+0
+4
+4
+PCM_marbastlib-mx
+LED_MX_6028R-ROT
+Add-on for regular MX-footprints with 6028 reverse mount LED
+cherry MX 6028 rearmount rear mount led rgb backlight
+0
+4
+4
+PCM_marbastlib-mx
+STAB_MX_2.25u
+Footprint for Cherry Clip/Screw in type stabilizers, 2.25u
+
+0
+0
+0
+PCM_marbastlib-mx
+STAB_MX_2.75u
+Footprint for Cherry Clip/Screw in type stabilizers, 2.75u
+
+0
+0
+0
+PCM_marbastlib-mx
+STAB_MX_2u
+Footprint for Cherry Clip/Screw in type stabilizers, 2u
+
+0
+0
+0
+PCM_marbastlib-mx
+STAB_MX_3u
+Footprint for Cherry Clip/Screw in type stabilizers, 3u
+
+0
+0
+0
+PCM_marbastlib-mx
+STAB_MX_4.5u
+Footprint for Cherry Clip/Screw in type stabilizers, 4.5u
+
+0
+0
+0
+PCM_marbastlib-mx
+STAB_MX_4u
+Footprint for Cherry Clip/Screw in type stabilizers, 4u
+
+0
+0
+0
+PCM_marbastlib-mx
+STAB_MX_5u
+Footprint for Cherry Clip/Screw in type stabilizers, 5u
+
+0
+0
+0
+PCM_marbastlib-mx
+STAB_MX_6.25u
+Footprint for Cherry Clip/Screw in type stabilizers, 6.25u
+
+0
+0
+0
+PCM_marbastlib-mx
+STAB_MX_6u
+Footprint for Cherry Clip/Screw in type stabilizers, 6u
+
+0
+0
+0
+PCM_marbastlib-mx
+STAB_MX_7u
+Footprint for Cherry Clip/Screw in type stabilizers, 7u
+
+0
+0
+0
+PCM_marbastlib-mx
+STAB_MX_8u
+Footprint for Cherry Clip/Screw in type stabilizers, 10u
+
+0
+0
+0
+PCM_marbastlib-mx
+STAB_MX_9u
+Footprint for Cherry Clip/Screw in type stabilizers, 10u
+
+0
+0
+0
+PCM_marbastlib-mx
+STAB_MX_10u
+Footprint for Cherry Clip/Screw in type stabilizers, 10u
+
+0
+0
+0
+PCM_marbastlib-mx
+STAB_MX_ISO
+Footprint for Cherry Clip/Screw in type stabilizers, ISO Enter
+
+0
+0
+0
+PCM_marbastlib-mx
+STAB_MX_ISO-ROT
+Footprint for Cherry Clip/Screw in type stabilizers, ISO Enter
+
+0
+0
+0
+PCM_marbastlib-mx
+STAB_MX_P_2.25u
+Footprint for Cherry Clip/Screw in type stabilizers, 2.25u, plated
+
+0
+2
+0
+PCM_marbastlib-mx
+STAB_MX_P_2.75u
+Footprint for Cherry Clip/Screw in type stabilizers, 2.75u
+
+0
+2
+0
+PCM_marbastlib-mx
+STAB_MX_P_2u
+Footprint for Cherry Clip/Screw in type stabilizers, 2u
+
+0
+2
+0
+PCM_marbastlib-mx
+STAB_MX_P_3u
+Footprint for Cherry Clip/Screw in type stabilizers, 3u
+
+0
+2
+0
+PCM_marbastlib-mx
+STAB_MX_P_4.5u
+Footprint for Cherry Clip/Screw in type stabilizers, 4.5u
+
+0
+2
+0
+PCM_marbastlib-mx
+STAB_MX_P_4u
+Footprint for Cherry Clip/Screw in type stabilizers, 4u
+
+0
+2
+0
+PCM_marbastlib-mx
+STAB_MX_P_5u
+Footprint for Cherry Clip/Screw in type stabilizers, 5u
+
+0
+2
+0
+PCM_marbastlib-mx
+STAB_MX_P_6.25u
+Footprint for Cherry Clip/Screw in type stabilizers, 6.25u
+
+0
+2
+0
+PCM_marbastlib-mx
+STAB_MX_P_6u
+Footprint for Cherry Clip/Screw in type stabilizers, 6u
+
+0
+2
+0
+PCM_marbastlib-mx
+STAB_MX_P_7u
+Footprint for Cherry Clip/Screw in type stabilizers, 7u
+
+0
+2
+0
+PCM_marbastlib-mx
+STAB_MX_P_8u
+Footprint for Cherry Clip/Screw in type stabilizers, 10u
+
+0
+2
+0
+PCM_marbastlib-mx
+STAB_MX_P_9u
+Footprint for Cherry Clip/Screw in type stabilizers, 10u
+
+0
+2
+0
+PCM_marbastlib-mx
+STAB_MX_P_10u
+Footprint for Cherry Clip/Screw in type stabilizers, 10u
+
+0
+4
+0
+PCM_marbastlib-mx
+STAB_MX_P_ISO
+Footprint for Cherry Clip/Screw in type stabilizers, ISO Enter
+
+0
+2
+0
+PCM_marbastlib-mx
+STAB_MX_P_ISO-ROT
+Footprint for Cherry Clip/Screw in type stabilizers, ISO Enter
+
+0
+2
+0
+PCM_marbastlib-mx
+SW_MX_1.5u
+Footprint for Cherry MX style switches
+
+0
+2
+2
+PCM_marbastlib-mx
+SW_MX_1.25u
+Footprint for Cherry MX style switches
+
+0
+2
+2
+PCM_marbastlib-mx
+SW_MX_1.75u
+Footprint for Cherry MX style switches
+
+0
+2
+2
+PCM_marbastlib-mx
+SW_MX_1.75u_STP_1.5
+Footprint for Cherry MX style switches
+
+0
+2
+2
+PCM_marbastlib-mx
+SW_MX_1.75u_STP_1.25
+Footprint for Cherry MX style switches
+
+0
+2
+2
+PCM_marbastlib-mx
+SW_MX_1u
+Footprint for Cherry MX style switches
+cherry mx switch
+0
+2
+2
+PCM_marbastlib-mx
+SW_MX_HS_CPG151101S11_1.5u
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+6
+2
+PCM_marbastlib-mx
+SW_MX_HS_CPG151101S11_1.25u
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+6
+2
+PCM_marbastlib-mx
+SW_MX_HS_CPG151101S11_1.75u
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+6
+2
+PCM_marbastlib-mx
+SW_MX_HS_CPG151101S11_1.75u_STP_1.5
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+6
+2
+PCM_marbastlib-mx
+SW_MX_HS_CPG151101S11_1.75u_STP_1.25
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+6
+2
+PCM_marbastlib-mx
+SW_MX_HS_CPG151101S11_1u
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+6
+2
+PCM_marbastlib-mx
+SW_MX_HS_S_CPG151101S11_1u
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+6
+2
+PCM_marbastlib-various
+CON_FH33J-4S-0.5SH
+Hirose FH33J FFC/FPC connector, FH33J-4S-0.5SH, 4 Pins per row (https://www.hirose.com/product/series/FH33#)
+connector Hirose FH33J horizontal
+0
+6
+5
+PCM_marbastlib-various
+CON_FH33J-10S-0.5SH
+Hirose FH33J FFC/FPC connector, FH33J-10S-0.5SH, 10 Pins per row (https://www.hirose.com/product/series/FH33#)
+connector Hirose FH33J horizontal
+0
+12
+11
+PCM_marbastlib-various
+CON_FH33J-12S-0.5SH
+Hirose FH33J FFC/FPC connector, FH33J-12S-0.5SH, 12 Pins per row (https://www.hirose.com/product/series/FH33#)
+connector Hirose FH33J horizontal
+0
+14
+13
+PCM_marbastlib-various
+CON_HytePro_M411P_Plug_1x04-P2.20mm_Horizontal
+HytePro M411P magnetic connector footprint (4 pin) Link: https://www.hyte.pro/product/m411p.html
+HytePro magnetic connector
+0
+4
+4
+PCM_marbastlib-various
+CON_HytePro_M411P_Plug_1x04-P2.20mm_Horizontal_FlushMount
+HytePro M411P magnetic connector footprint (4 pin) Link: https://www.hyte.pro/product/m411p.html
+HytePro magnetic connector
+0
+4
+4
+PCM_marbastlib-various
+CON_HytePro_M411P_Receptacle_1x04-P2.20mm_Horizontal
+HytePro M411P magnetic connector footprint (4 pin) Link: https://www.hyte.pro/product/m411p.html
+HytePro magnetic connector
+0
+4
+4
+PCM_marbastlib-various
+CON_HytePro_M411P_Receptacle_1x04-P2.20mm_Horizontal_FlushMount
+HytePro M411P magnetic connector footprint (4 pin) Link: https://www.hyte.pro/product/m411p.html
+HytePro magnetic connector
+0
+4
+4
+PCM_marbastlib-various
+CON_JST_ACH_BM02B
+JST ACH series connector, BM02B-ACHSS-GAN-ETF (http://www.jst-mfg.com/product/pdf/eng/eACH.pdf), generated with kicad-footprint-generator
+connector JST ACH vertical
+0
+4
+3
+PCM_marbastlib-various
+CON_TC2030_outlined
+Tag-Connect programming header; http://www.tag-connect.com/Materials/TC2030-IDC-NL.pdf
+tag connect programming header pogo pins
+0
+6
+6
+PCM_marbastlib-various
+LED_1206R
+rear-mount SMD MHT151RGBCT 1206 RGB LED
+LED RGB 1206 rear mount reverse
+0
+4
+4
+PCM_marbastlib-various
+LED_6028R
+rear-mount SMD 6028 RGB LED
+LED RGB 6028 rear mount reverse
+0
+4
+4
+PCM_marbastlib-various
+LED_WS2812_2020
+2020 SMD adressable RGB LED with integrated controller
+LED RGB NeoPixel
+0
+4
+4
+PCM_marbastlib-various
+Molex_Pico-EZmate_78171-0002_1x02-1MP_P1.20mm_Vertical
+Molex Pico-EZmate series connector, 78171-0002 (http://www.molex.com/pdm_docs/sd/781710002_sd.pdf)
+connector Molex Pico-EZmate side entry
+0
+16
+3
+PCM_marbastlib-various
+Molex_Pico-EZmate_78171-0003_1x03-1MP_P1.20mm_Vertical
+Molex Pico-EZmate series connector, 78171-0003 (http://www.molex.com/pdm_docs/sd/781710003_sd.pdf)
+connector Molex Pico-EZmate side entry
+0
+17
+4
+PCM_marbastlib-various
+Molex_Pico-EZmate_78171-0004_1x04-1MP_P1.20mm_Vertical
+Molex Pico-EZmate series connector, 78171-0004 (http://www.molex.com/pdm_docs/sd/781710004_sd.pdf)
+connector Molex Pico-EZmate side entry
+0
+18
+5
+PCM_marbastlib-various
+Molex_Pico-EZmate_78171-0005_1x05-1MP_P1.20mm_Vertical
+Molex Pico-EZmate series connector, 78171-0005 (http://www.molex.com/pdm_docs/sd/781710005_sd.pdf)
+connector Molex Pico-EZmate side entry
+0
+19
+6
+PCM_marbastlib-various
+Molex_Pico-EZmate_78171-5006_1x06-1MP_P1.20mm_Vertical
+Molex Pico-EZmate series connector, 78171-5006 (http://www.molex.com/pdm_docs/sd/781715006_sd.pdf)
+connector Molex Pico-EZmate side entry
+0
+20
+7
+PCM_marbastlib-various
+Molex_Pico-EZmate_HC_208294-0020_1x02-1MP_P1.80mm_Vertical
+Molex Pico-EZmate series connector, 208294-0020 (https://www.molex.com/en-us/products/part-detail/2082940020)
+connector Molex Pico-EZmate side entry
+0
+16
+3
+PCM_marbastlib-various
+Molex_Pico-EZmate_HC_208294-0030_1x03-1MP_P1.80mm_Vertical
+Molex Pico-EZmate series connector, 208294-0030 (https://www.molex.com/en-us/products/part-detail/2082940030)
+connector Molex Pico-EZmate side entry
+0
+17
+4
+PCM_marbastlib-various
+Molex_Pico-EZmate_HC_208294-0040_1x04-1MP_P1.80mm_Vertical
+Molex Pico-EZmate series connector, 208294-0030 (https://www.molex.com/en-us/products/part-detail/2082940040)
+connector Molex Pico-EZmate side entry
+0
+18
+5
+PCM_marbastlib-various
+Molex_Pico-EZmate_HC_208294-0050_1x05-1MP_P1.80mm_Vertical
+Molex Pico-EZmate series connector, 208294-0030 (https://www.molex.com/en-us/products/part-detail/2082940040)
+connector Molex Pico-EZmate side entry
+0
+19
+6
+PCM_marbastlib-various
+Molex_Pico-EZmate_PLUS_212134-0002_1x02-1MP_P1.00mm_Vertical
+Molex Pico-EZmate series connector, 212134-0002 (http://www.molex.com/pdm_docs/sd/2121340002_sd.pdf)
+connector Molex Pico-EZmate side entry
+0
+16
+3
+PCM_marbastlib-various
+Molex_Pico-EZmate_PLUS_212134-0003_1x03-1MP_P1.00mm_Vertical
+Molex Pico-EZmate series connector, 212134-0003 (http://www.molex.com/pdm_docs/sd/2121340003_sd.pdf)
+connector Molex Pico-EZmate side entry
+0
+17
+4
+PCM_marbastlib-various
+Molex_Pico-EZmate_PLUS_212134-0004_1x04-1MP_P1.00mm_Vertical
+Molex Pico-EZmate series connector, 212134-0004 (http://www.molex.com/pdm_docs/sd/2121340004_sd.pdf)
+connector Molex Pico-EZmate side entry
+0
+18
+5
+PCM_marbastlib-various
+Molex_Pico-EZmate_PLUS_212134-0005_1x05-1MP_P1.00mm_Vertical
+Molex Pico-EZmate series connector, 212134-0005 (http://www.molex.com/pdm_docs/sd/2121340005_sd.pdf)
+connector Molex Pico-EZmate side entry
+0
+19
+6
+PCM_marbastlib-various
+Molex_Pico-EZmate_PLUS_212134-0006_1x06-1MP_P1.00mm_Vertical
+Molex Pico-EZmate series connector, 212134-0006 (http://www.molex.com/pdm_docs/sd/2121340006_sd.pdf)
+connector Molex Pico-EZmate side entry
+0
+20
+7
+PCM_marbastlib-various
+PNT_RKJXU1210006
+
+
+0
+3
+1
+PCM_marbastlib-various
+QFN-60_EP_7x7_Pitch0.4mm
+QFN-60 package accroding to IS31FL3741A datasheets
+
+0
+158
+61
+PCM_marbastlib-various
+ROT_Alps_EC11E-Switch
+Alps rotary encoder, EC11E/EC11N with switch, vertical shaft
+rotary encoder
+0
+7
+6
+PCM_marbastlib-various
+ROT_SKYLOONG_HS-Switch
+SKYLOONG hotswap knob module with internal switch
+
+0
+4
+4
+PCM_marbastlib-various
+SOT-23-6-routable
+SOT, 6 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178c.PDF variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOT TO_SOT_SMD
+0
+6
+6
+PCM_marbastlib-various
+SW_ESP3020
+ECE ESP3020 SMD slide switch
+slide switch smd ece
+0
+3
+3
+PCM_marbastlib-various
+SW_MSK12C02-HB
+12V 50mA SMD toggle switch, available at LCSC/JLCPCB (C431541)
+switch toggle smd 
+0
+7
+4
+PCM_marbastlib-various
+SW_SKHLLCA010
+alps SKHLLCA010 DIP pushbutton
+alps tht dip pushbutton SPST
+0
+4
+3
+PCM_marbastlib-various
+SW_SPST_SKQG_WithStem
+ALPS 5.2mm Square Low-profile Type (Surface Mount) SKQG Series, With stem, http://www.alps.com/prod/info/E/HTML/Tact/SurfaceMount/SKQG/SKQGAFE010.html
+SPST Button Switch
+0
+4
+2
+PCM_marbastlib-various
+SW_SSSS213100
+alps SKHLLCA010 DIP 1-pole, 2-position switch
+alps dip tht SPDT
+0
+3
+3
+PCM_marbastlib-various
+SW_SSSS223900
+alps SKHLLCA010 DIP 2-pole, 3-position switch
+alps tht dip DP3T
+0
+8
+8
+PCM_marbastlib-various
+SW_T1A2QR
+12V 50mA SMD pushbutton, available at LCSC/JLCPCB (C100056)
+SMD pushbutton
+0
+4
+2
+PCM_marbastlib-various
+SW_kailh_big_1u
+Footprint for Kailh "Big Switch Series" style switches
+
+0
+2
+2
+PCM_marbastlib-various
+SplitkbTentingPuck
+https://splitkb.com/products/tenting-puck
+split kb tenting puck mechanical mounting
+0
+5
+1
+PCM_marbastlib-various
+USB_C_Receptacle_HRO_TYPE-C-31-M-12
+USB Type-C receptacle for USB 2.0 and PD, http://www.krhro.com/uploads/soft/180320/1-1P320120243.pdf
+usb usb-c 2.0 pd
+0
+20
+17
+PCM_marbastlib-various
+USB_C_Receptacle_HRO_TYPE-C-31-M-14
+USB Type-C receptacle for USB 2.0 and PD
+usb usb-c 2.0 pd
+0
+20
+17
+PCM_marbastlib-various
+XUNPU_FPC-05F-16PH20_1x16-1MP_P0.5mm_Horizontal
+XUNPU FPC connector, 16 bottom-side contacts, 0.5mm pitch, SMT, https://datasheet.lcsc.com/lcsc/2109221030_XUNPU-FPC-05F-16PH20_C2856801.pdf
+XUNPU  fpc FPC-05F-16PH20
+0
+18
+17
+PCM_marbastlib-various
+XUNPU_FPC-05F-20PH20_1x20-1MP_P0.5mm_Horizontal
+XUNPU FPC connector, 20 bottom-side contacts, 0.5mm pitch, SMT, https://datasheet.lcsc.com/lcsc/2109221030_XUNPU-FPC-05F-16PH20_C2856801.pdf
+XUNPU  fpc FPC-05F-20PH20
+0
+22
+21
+PCM_marbastlib-various
+XUNPU_FPC-05F-24PH20_1x24-1MP_P0.5mm_Horizontal
+XUNPU FPC connector, 24 bottom-side contacts, 0.5mm pitch, SMT, https://datasheet.lcsc.com/lcsc/2109221030_XUNPU-FPC-05F-16PH20_C2856801.pdf
+XUNPU  fpc FPC-05F-24PH20
+0
+26
+25
+PCM_marbastlib-various
+mousebites_1mm
+
+
+0
+0
+0
+PCM_marbastlib-various
+mousebites_2.5mm
+
+
+0
+0
+0
+PCM_marbastlib-various
+mousebites_2mm
+
+
+0
+0
+0
+PCM_marbastlib-various
+mousebites_5p5mm_easysnap
+Mousebites designed to break easier on one side than the other, with hole to apply leverage
+mousebites hex 
+0
+0
+0
+PCM_marbastlib-various
+nRF52840_E73-2G4M08S1C
+Module containing a nRF52840 and most passives and antenna
+ebyte e73 2G4M08S1C nRF52840 bluetooth low energy 
+0
+43
+43
+PCM_marbastlib-various
+nRF52840_E73-2G4M08S1C_simple
+Module containing a nRF52840 and most passives and antenna
+ebyte e73 2G4M08S1C nRF52840 bluetooth low energy 
+0
+28
+28
+PCM_marbastlib-various
+nRF52840_holyiot_18010
+Module containing a nRF52840 and most passives and antenna
+holyiot 18010 nRF52840 bluetooth low energy 
+0
+55
+55
+PCM_marbastlib-various
+nRF52840_holyiot_18010_HS_simple
+Module containing a nRF52840 and most passives and antenna, with only hand solderable pads
+holyiot 18010 nRF52840 bluetooth low energy 
+0
+37
+37
+PCM_marbastlib-various
+nRF52840_moko_mk08
+Module containing a nRF52840 and most passives and antenna
+moko mk08a mk08b nRF52840 bluetooth low energy 
+0
+60
+58
+PCM_marbastlib-xp-alps
+SW_Alps_1.5u
+Footprint for Alps SKCx style switches
+alps skcm skcl switch
+0
+2
+2
+PCM_marbastlib-xp-alps
+SW_Alps_1.25u
+Footprint for Alps SKCx style switches
+alps skcm skcl switch
+0
+2
+2
+PCM_marbastlib-xp-alps
+SW_Alps_1.75u
+Footprint for Alps SKCx style switches
+alps skcm skcl switch
+0
+2
+2
+PCM_marbastlib-xp-alps
+SW_Alps_1.75u_STP_1.5
+Footprint for Alps SKCx style switches
+alps skcm skcl switch
+0
+2
+2
+PCM_marbastlib-xp-alps
+SW_Alps_1.75u_STP_1.25
+Footprint for Alps SKCx style switches
+alps skcm skcl switch
+0
+2
+2
+PCM_marbastlib-xp-alps
+SW_Alps_1u
+Footprint for Alps SKCx style switches
+alps skcm skcl switch
+0
+2
+2
+PCM_marbastlib-xp-alps
+SW_Alps_MX_1.5u
+Combo Footprint for Alps SKCx and Cherry MX style switches
+cherry mx alps SKCM SKCL switch
+0
+4
+2
+PCM_marbastlib-xp-alps
+SW_Alps_MX_1.25u
+Combo Footprint for Alps SKCx and Cherry MX style switches
+cherry mx alps SKCM SKCL switch
+0
+4
+2
+PCM_marbastlib-xp-alps
+SW_Alps_MX_1.75u
+Combo Footprint for Alps SKCx and Cherry MX style switches
+cherry mx alps SKCM SKCL switch
+0
+4
+2
+PCM_marbastlib-xp-alps
+SW_Alps_MX_1.75u_STP_1.5
+Combo Footprint for Alps SKCx and Cherry MX style switches
+cherry mx alps SKCM SKCL switch
+0
+4
+2
+PCM_marbastlib-xp-alps
+SW_Alps_MX_1.75u_STP_1.25
+Combo Footprint for Alps SKCx and Cherry MX style switches
+cherry mx alps SKCM SKCL switch
+0
+4
+2
+PCM_marbastlib-xp-alps
+SW_Alps_MX_1u
+Combo Footprint for Alps SKCx and Cherry MX style switches
+cherry mx alps SKCM SKCL switch
+0
+4
+2
+PCM_marbastlib-xp-choc
+LED_choc_WS2812_2020
+Add-on for regular choc-footprints with WS2812_2020
+kailh choc WS2812 2020 rearmount rear mount led rgb backlight
+0
+4
+4
+PCM_marbastlib-xp-choc
+LED_choc_WS2812_2020-ROT
+Add-on for regular choc-footprints with WS2812 2020
+kailh choc WS2812 2020 rearmount rear mount led rgb backlight
+0
+4
+4
+PCM_marbastlib-xp-choc
+PLATE_choc
+Break-out tabs for switch and plate multi-purpose-PCBs (kailh choc footprints)
+kailh choc pcb plate break
+0
+0
+0
+PCM_marbastlib-xp-choc
+STAB_choc_2u
+Footprint for Kailh Choc style switches
+
+0
+0
+0
+PCM_marbastlib-xp-choc
+STAB_choc_6.25u
+Footprint for Kailh Choc style switches
+
+0
+0
+0
+PCM_marbastlib-xp-choc
+SW_choc_MxCombo_1u
+Combined footprint for Kailh Choc and Cherry MX style switches
+
+0
+4
+2
+PCM_marbastlib-xp-choc
+SW_choc_Reversible_1u
+Reversible dootprint for Kailh Choc style switches
+
+0
+3
+2
+PCM_marbastlib-xp-choc
+SW_choc_v1+v2_1.5u
+Combined footprint for Kailh Choc v1 and v2 style switches
+
+0
+3
+3
+PCM_marbastlib-xp-choc
+SW_choc_v1+v2_1.25u
+Combined footprint for Kailh Choc v1 and v2 style switches
+
+0
+3
+3
+PCM_marbastlib-xp-choc
+SW_choc_v1+v2_1.75u
+Combined footprint for Kailh Choc v1 and v2 style switches
+
+0
+3
+3
+PCM_marbastlib-xp-choc
+SW_choc_v1+v2_1u
+Combined footprint for Kailh Choc v1 and v2 style switches
+
+0
+3
+3
+PCM_marbastlib-xp-choc
+SW_choc_v2_1.5u
+Footprint for Kailh Choc v2 style switches
+
+0
+3
+3
+PCM_marbastlib-xp-choc
+SW_choc_v2_1.25u
+Footprint for Kailh Choc v2 style switches
+
+0
+3
+3
+PCM_marbastlib-xp-choc
+SW_choc_v2_1.75u
+Footprint for Kailh Choc v2 style switches
+
+0
+3
+3
+PCM_marbastlib-xp-choc
+SW_choc_v2_1u
+Footprint for Kailh Choc v2 style switches
+
+0
+3
+3
+PCM_marbastlib-xp-choc
+SW_choc_v2_HS_CPG135001S30_1.5u
+Hotswap footprint for Kailh Choc v2 style switches
+
+0
+7
+3
+PCM_marbastlib-xp-choc
+SW_choc_v2_HS_CPG135001S30_1.25u
+Hotswap footprint for Kailh Choc v2 style switches
+
+0
+7
+3
+PCM_marbastlib-xp-choc
+SW_choc_v2_HS_CPG135001S30_1.75u
+Hotswap footprint for Kailh Choc v2 style switches
+
+0
+7
+3
+PCM_marbastlib-xp-choc
+SW_choc_v2_HS_CPG135001S30_1u
+Hotswap footprint for Kailh Choc v2 style switches
+
+0
+7
+3
+PCM_marbastlib-xp-gateron_lp
+LED_KS33_1206R
+Add-on for Gateron KS33 footprints with MHT151RGBCT 1206 reverse mount LED
+Gateron KS33 1206 rearmount rear mount led rgb backlight 
+0
+4
+4
+PCM_marbastlib-xp-gateron_lp
+LED_KS33_1206R-ROT
+Add-on for Gateron KS33 footprints with MHT151RGBCT 1206 reverse mount LED
+Gateron KS33 1206 rearmount rear mount led rgb backlight 
+0
+4
+4
+PCM_marbastlib-xp-gateron_lp
+LED_KS33_6028R
+Add-on for Gateron KS33 footprints with with 6028 reverse mount LED
+Gateron KS33 6028 rearmount rear mount led rgb backlight
+0
+4
+4
+PCM_marbastlib-xp-gateron_lp
+LED_KS33_6028R-ROT
+Add-on for Gateron KS33 footprints with with 6028 reverse mount LED
+Gateron KS33 6028 rearmount rear mount led rgb backlight
+0
+4
+4
+PCM_marbastlib-xp-gateron_lp
+LED_KS33_WS2812_2020
+Add-on for Gateron KS33 footprints with WS2812-2020 reverse mount LED (handsolder only)
+Gateron KS33 WS2812 2020 rearmount rear mount led rgb backlight 
+0
+4
+4
+PCM_marbastlib-xp-gateron_lp
+LED_KS33_WS2812_2020-ROT
+Add-on for Gateron KS33 footprints with WS2812-2020 reverse mount LED (handsolder only)
+Gateron KS33 WS2812 2020 rearmount rear mount led rgb backlight 
+0
+4
+4
+PCM_marbastlib-xp-gateron_lp
+SW_KS33_1.5u
+Footprint for Gateron KS33 switches
+
+0
+2
+2
+PCM_marbastlib-xp-gateron_lp
+SW_KS33_1.25u
+Footprint for Gateron KS33 switches
+
+0
+2
+2
+PCM_marbastlib-xp-gateron_lp
+SW_KS33_1.75u
+Footprint for Gateron KS33 switches
+
+0
+2
+2
+PCM_marbastlib-xp-gateron_lp
+SW_KS33_1u
+Footprint for Gateron KS33 switches
+
+0
+2
+2
+PCM_marbastlib-xp-gateron_lp
+SW_KS33_HS_KS-2P02B01-02_1.5u
+Hotswap footprint for Gateron KS33 switches
+
+0
+6
+2
+PCM_marbastlib-xp-gateron_lp
+SW_KS33_HS_KS-2P02B01-02_1.25u
+Hotswap footprint for Gateron KS33 switches
+
+0
+6
+2
+PCM_marbastlib-xp-gateron_lp
+SW_KS33_HS_KS-2P02B01-02_1.75u
+Hotswap footprint for Gateron KS33 switches
+
+0
+6
+2
+PCM_marbastlib-xp-gateron_lp
+SW_KS33_HS_KS-2P02B01-02_HS_1u
+Hotswap footprint for Gateron KS33 switches
+
+0
+6
+2
+PCM_marbastlib-xp-hitek
+SW_HiTek_Mount_1.5u
+Footprint for Hi-Tek Series 725 ("Space Invader") Switches
+Hi-Tek hitek space invader switch keyboard 725
+0
+4
+2
+PCM_marbastlib-xp-hitek
+SW_HiTek_Mount_1.25u
+Footprint for Hi-Tek Series 725 ("Space Invader") Switches
+Hi-Tek hitek space invader switch keyboard 725
+0
+4
+2
+PCM_marbastlib-xp-hitek
+SW_HiTek_Mount_1.75u
+Footprint for Hi-Tek Series 725 ("Space Invader") Switches
+Hi-Tek hitek space invader switch keyboard 725
+0
+4
+2
+PCM_marbastlib-xp-hitek
+SW_HiTek_Mount_1.75u_STP_1.5
+Footprint for Hi-Tek Series 725 ("Space Invader") Switches
+Hi-Tek hitek space invader switch keyboard 725
+0
+4
+2
+PCM_marbastlib-xp-hitek
+SW_HiTek_Mount_1.75u_STP_1.25
+Footprint for Hi-Tek Series 725 ("Space Invader") Switches
+Hi-Tek hitek space invader switch keyboard 725
+0
+4
+2
+PCM_marbastlib-xp-hitek
+SW_HiTek_Mount_1u
+Footprint for Hi-Tek Series 725 ("Space Invader") Switches
+Hi-Tek hitek space invader switch keyboard 725
+0
+4
+2
+PCM_marbastlib-xp-hitek
+SW_HiTek_Mount_2.25u
+Footprint for Hi-Tek Series 725 ("Space Invader") Switches
+Hi-Tek hitek space invader switch keyboard 725
+0
+4
+2
+PCM_marbastlib-xp-hitek
+SW_HiTek_Mount_2.75u
+Footprint for Hi-Tek Series 725 ("Space Invader") Switches
+Hi-Tek hitek space invader switch keyboard 725
+0
+4
+2
+PCM_marbastlib-xp-hitek
+SW_HiTek_Mount_2u
+Footprint for Hi-Tek Series 725 ("Space Invader") Switches
+Hi-Tek hitek space invader switch keyboard 725
+0
+4
+2
+PCM_marbastlib-xp-hitek
+SW_HiTek_Mount_7u
+Footprint for Hi-Tek Series 725 ("Space Invader") Switches
+Hi-Tek hitek space invader switch keyboard 725
+0
+4
+2
+PCM_marbastlib-xp-mx
+LED_MX_WS2812_2020
+Add-on for regular MX-footprints with WS2812_2020
+cherry MX WS2812 2020 rearmount rear mount led rgb backlight
+0
+4
+4
+PCM_marbastlib-xp-mx
+LED_MX_WS2812_2020-ROT
+Add-on for regular MX-footprints with WS2812_2020
+cherry MX WS2812 2020 rearmount rear mount led rgb backlight
+0
+4
+4
+PCM_marbastlib-xp-mx
+PLATE_MX
+Break-out tabs for switch and plate multi-purpose-PCBs cherry MX footprints)
+cherry mx pcb plate break
+0
+0
+0
+PCM_marbastlib-xp-mx
+SW_MX_HS_KS-2P02B01-01_1.5u
+Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket
+
+0
+6
+2
+PCM_marbastlib-xp-mx
+SW_MX_HS_KS-2P02B01-01_1.25u
+Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket
+
+0
+6
+2
+PCM_marbastlib-xp-mx
+SW_MX_HS_KS-2P02B01-01_1.75u
+Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket
+
+0
+6
+2
+PCM_marbastlib-xp-mx
+SW_MX_HS_KS-2P02B01-01_1.75u_STP_1.5
+Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket
+
+0
+6
+2
+PCM_marbastlib-xp-mx
+SW_MX_HS_KS-2P02B01-01_1.75u_STP_1.25
+Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket
+
+0
+6
+2
+PCM_marbastlib-xp-mx
+SW_MX_HS_KS-2P02B01-01_1u
+Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket
+
+0
+6
+2
+PCM_marbastlib-xp-mx
+SW_MX_Reversible_1u
+Reversible footprint for Cherry MX style switches
+cherry mx switch
+0
+4
+2
+PCM_marbastlib-xp-mx
+SW_MX_ULP_1u
+Footprint for Cherry MX Ultra Low Profile switches
+Cherry MX ULP
+0
+7
+3
+PCM_marbastlib-xp-mx
+SW_MX_ULP_1u_handsolder
+Footprint for Cherry MX Ultra Low Profile switches
+Cherry MX ULP HS
+0
+7
+3
+PCM_marbastlib-xp-plate-mx
+Plate-MP_MX_1.5u
+
+
+0
+0
+0
+PCM_marbastlib-xp-plate-mx
+Plate-MP_MX_1.25u
+
+
+0
+0
+0
+PCM_marbastlib-xp-plate-mx
+Plate-MP_MX_1.75u
+
+
+0
+0
+0
+PCM_marbastlib-xp-plate-mx
+Plate-MP_MX_1.75u_STP_1.5
+
+
+0
+0
+0
+PCM_marbastlib-xp-plate-mx
+Plate-MP_MX_1.75u_STP_1.25
+
+
+0
+0
+0
+PCM_marbastlib-xp-plate-mx
+Plate-MP_MX_1u
+
+
+0
+0
+0
+PCM_marbastlib-xp-plate-mx
+Plate-MP_MX_2.25u
+
+
+0
+0
+0
+PCM_marbastlib-xp-plate-mx
+Plate-MP_MX_2.75u
+
+
+0
+0
+0
+PCM_marbastlib-xp-plate-mx
+Plate-MP_MX_2u
+
+
+0
+0
+0
+PCM_marbastlib-xp-plate-mx
+Plate-MP_MX_3u
+
+
+0
+0
+0
+PCM_marbastlib-xp-plate-mx
+Plate-MP_MX_6.25u
+
+
+0
+0
+0
+PCM_marbastlib-xp-plate-mx
+Plate-MP_MX_6u
+
+
+0
+0
+0
+PCM_marbastlib-xp-plate-mx
+Plate-MP_MX_7u
+
+
+0
+0
+0
+PCM_marbastlib-xp-plate-mx
+Plate-MP_MX_8u
+
+
+0
+0
+0
+PCM_marbastlib-xp-plate-mx
+Plate-MP_MX_9u
+
+
+0
+0
+0
+PCM_marbastlib-xp-plate-mx
+Plate-MP_MX_10u
+
+
+0
+0
+0
+PCM_marbastlib-xp-plate-mx
+Plate-MP_MX_ANSI-ISO-ENTER
+
+
+0
+0
+0
+PCM_marbastlib-xp-plate-mx
+Plate-MP_MX_ANSI-ISO-LSHIFT
+
+
+0
+0
+0
+PCM_marbastlib-xp-plate-mx
+Plate-MP_MX_ISO
+
+
+0
+0
+0
+PCM_marbastlib-xp-plate-mx
+Plate-MP_MX_ISO-ROT
+
+
+0
+0
+0
+PCM_marbastlib-xp-plate-mx
+Plate-MP_MX_SPLIT-BS
+
+
+0
+0
+0
+PCM_marbastlib-xp-plate-mx
+Plate-MP_MX_SPLIT-RSHIFT
+
+
+0
+0
+0
+PCM_marbastlib-xp-plate-mx
+Plate-MP_MX_STP-CAPS
+
+
+0
+0
+0
+PCM_marbastlib-xp-plate-mx
+Plate-M_MX_1.5u
+
+
+0
+0
+0
+PCM_marbastlib-xp-plate-mx
+Plate-M_MX_1.25u
+
+
+0
+0
+0
+PCM_marbastlib-xp-plate-mx
+Plate-M_MX_1.75u
+
+
+0
+0
+0
+PCM_marbastlib-xp-plate-mx
+Plate-M_MX_1.75u_STP_1.5
+
+
+0
+0
+0
+PCM_marbastlib-xp-plate-mx
+Plate-M_MX_1.75u_STP_1.25
+
+
+0
+0
+0
+PCM_marbastlib-xp-plate-mx
+Plate-M_MX_1u
+
+
+0
+0
+0
+PCM_marbastlib-xp-plate-mx
+Plate-M_MX_2.25u
+
+
+0
+0
+0
+PCM_marbastlib-xp-plate-mx
+Plate-M_MX_2.75u
+
+
+0
+0
+0
+PCM_marbastlib-xp-plate-mx
+Plate-M_MX_2u
+
+
+0
+0
+0
+PCM_marbastlib-xp-plate-mx
+Plate-M_MX_3u
+
+
+0
+0
+0
+PCM_marbastlib-xp-plate-mx
+Plate-M_MX_6.25u
+
+
+0
+0
+0
+PCM_marbastlib-xp-plate-mx
+Plate-M_MX_6u
+
+
+0
+0
+0
+PCM_marbastlib-xp-plate-mx
+Plate-M_MX_7u
+
+
+0
+0
+0
+PCM_marbastlib-xp-plate-mx
+Plate-M_MX_8u
+
+
+0
+0
+0
+PCM_marbastlib-xp-plate-mx
+Plate-M_MX_9u
+
+
+0
+0
+0
+PCM_marbastlib-xp-plate-mx
+Plate-M_MX_10u
+
+
+0
+0
+0
+PCM_marbastlib-xp-plate-mx
+Plate-M_MX_ANSI-ISO-ENTER
+
+
+0
+0
+0
+PCM_marbastlib-xp-plate-mx
+Plate-M_MX_ANSI-ISO-SHIFT
+
+
+0
+0
+0
+PCM_marbastlib-xp-plate-mx
+Plate-M_MX_ISO
+
+
+0
+0
+0
+PCM_marbastlib-xp-plate-mx
+Plate-M_MX_ISO-ROT
+
+
+0
+0
+0
+PCM_marbastlib-xp-plate-mx
+Plate-M_MX_SPLIT-BS
+
+
+0
+0
+0
+PCM_marbastlib-xp-plate-mx
+Plate-M_MX_SPLIT-RSHIFT
+
+
+0
+0
+0
+PCM_marbastlib-xp-plate-mx
+Plate-M_MX_STP-CAPS
+
+
+0
+0
+0
+PCM_marbastlib-xp-plate-mx
+Plate_MX_1.5u
+
+
+0
+0
+0
+PCM_marbastlib-xp-plate-mx
+Plate_MX_1.25u
+
+
+0
+0
+0
+PCM_marbastlib-xp-plate-mx
+Plate_MX_1.75u
+
+
+0
+0
+0
+PCM_marbastlib-xp-plate-mx
+Plate_MX_1.75u_STP_1.5
+
+
+0
+0
+0
+PCM_marbastlib-xp-plate-mx
+Plate_MX_1.75u_STP_1.25
+
+
+0
+0
+0
+PCM_marbastlib-xp-plate-mx
+Plate_MX_1u
+
+
+0
+0
+0
+PCM_marbastlib-xp-plate-mx
+Plate_MX_2.25u
+
+
+0
+0
+0
+PCM_marbastlib-xp-plate-mx
+Plate_MX_2.75u
+
+
+0
+0
+0
+PCM_marbastlib-xp-plate-mx
+Plate_MX_2u
+
+
+0
+0
+0
+PCM_marbastlib-xp-plate-mx
+Plate_MX_3u
+
+
+0
+0
+0
+PCM_marbastlib-xp-plate-mx
+Plate_MX_6.25u
+
+
+0
+0
+0
+PCM_marbastlib-xp-plate-mx
+Plate_MX_6u
+
+
+0
+0
+0
+PCM_marbastlib-xp-plate-mx
+Plate_MX_7u
+
+
+0
+0
+0
+PCM_marbastlib-xp-plate-mx
+Plate_MX_8u
+
+
+0
+0
+0
+PCM_marbastlib-xp-plate-mx
+Plate_MX_9u
+
+
+0
+0
+0
+PCM_marbastlib-xp-plate-mx
+Plate_MX_10u
+
+
+0
+0
+0
+PCM_marbastlib-xp-plate-mx
+Plate_MX_ANSI-ISO-ENTER
+
+
+0
+0
+0
+PCM_marbastlib-xp-plate-mx
+Plate_MX_ANSI-ISO-SHIFT
+
+
+0
+0
+0
+PCM_marbastlib-xp-plate-mx
+Plate_MX_ISO
+
+
+0
+0
+0
+PCM_marbastlib-xp-plate-mx
+Plate_MX_ISO-ROT
+
+
+0
+0
+0
+PCM_marbastlib-xp-plate-mx
+Plate_MX_SPLIT-BS
+
+
+0
+0
+0
+PCM_marbastlib-xp-plate-mx
+Plate_MX_SPLIT-RSHIFT
+
+
+0
+0
+0
+PCM_marbastlib-xp-plate-mx
+Plate_MX_STP-CAPS
+
+
+0
+0
+0
+PCM_marbastlib-xp-promicroish
+Elite-C_AC
+Footprint for Elite-C controllers, castellated pads only
+
+0
+30
+30
+PCM_marbastlib-xp-promicroish
+Elite-C_ACH
+Footprint for Elite-C controllers, through hole and castellated pads
+
+0
+59
+30
+PCM_marbastlib-xp-promicroish
+Elite-C_AH_Reversible
+Footprint for Elite-C controllers, through hole pads only, USB pointing away from PCB
+
+0
+30
+30
+PCM_marbastlib-xp-promicroish
+Elite-C_AH_USBdn
+Footprint for Elite-C controllers, through hole pads only, USB facing PCB
+
+0
+30
+30
+PCM_marbastlib-xp-promicroish
+Elite-C_AH_USBup
+Footprint for Elite-C controllers, through hole pads only, USB pointing away from PCB
+
+0
+30
+30
+PCM_marbastlib-xp-promicroish
+Elite-C_C
+Footprint for Elite-C controllers (pro-micro-pins only), castellated pads only
+
+0
+25
+25
+PCM_marbastlib-xp-promicroish
+Elite-C_CH
+Footprint for Elite-C controllers (pro-micro-pins only), castellated and through hole pads
+
+0
+49
+25
+PCM_marbastlib-xp-promicroish
+Helios_AC
+Footprint for 0xCB Helios controllers, USB pointing away from PCB
+
+0
+34
+34
+PCM_marbastlib-xp-promicroish
+Helios_ACH
+Footprint for 0xCB Helios controllers, USB pointing away from PCB
+
+0
+65
+34
+PCM_marbastlib-xp-promicroish
+Helios_AH_Reversible
+Footprint for 0xCB Helios controllers, USB pointing away from PCB
+
+0
+34
+34
+PCM_marbastlib-xp-promicroish
+Helios_AH_USBdn
+Footprint for 0xCB Helios controllers, USB facing PCB
+
+0
+34
+34
+PCM_marbastlib-xp-promicroish
+Helios_AH_USBup
+Footprint for 0xCB Helios controllers, USB pointing away from PCB
+
+0
+34
+34
+PCM_marbastlib-xp-promicroish
+Liatris_AH_Reversible
+Footprint for Splitkb Liatris controllers, through hole pads only
+
+0
+29
+29
+PCM_marbastlib-xp-promicroish
+Liatris_AH_USBdn
+Footprint for Splitkb Liatris controllers, through hole pads only
+
+0
+29
+29
+PCM_marbastlib-xp-promicroish
+Liatris_AH_USBup
+Footprint for Splitkb Liatris controllers, through hole pads only
+
+0
+29
+29
+PCM_marbastlib-xp-promicroish
+Liatris_H_USBdn
+Footprint for Splitkb Liatris controllers (pro-micro-pins only), through hole pads only
+
+0
+24
+24
+PCM_marbastlib-xp-promicroish
+Liatris_H_USBup
+Footprint for Splitkb Liatris controllers (pro-micro-pins only), through hole pads only
+
+0
+24
+24
+PCM_marbastlib-xp-promicroish
+Pluto_AH_Reversible
+Footprint for 0xCB Pluto controllers, Reversible
+
+0
+33
+33
+PCM_marbastlib-xp-promicroish
+Pluto_AH_USBdn
+Footprint for 0xCB Pluto controllers, USB facing PCB
+
+0
+33
+33
+PCM_marbastlib-xp-promicroish
+Pluto_AH_USBup
+Footprint for 0xCB Pluto controllers, USB pointing away from PCB
+
+0
+33
+33
+PCM_marbastlib-xp-promicroish
+ProMicro_Reversible
+Footprint for Arduino Pro Micro and compatible boards, Reversible with 2 staggered footprints
+
+0
+48
+24
+PCM_marbastlib-xp-promicroish
+ProMicro_Reversible_Single
+Footprint for Arduino Pro Micro and compatible boards, Reversible with single footprint
+
+0
+24
+24
+PCM_marbastlib-xp-promicroish
+ProMicro_USBdn
+Footprint for Arduino Pro Micro and compatible boards, USB facing PCB
+
+0
+24
+24
+PCM_marbastlib-xp-promicroish
+ProMicro_USBup
+Footprint for Arduino Pro Micro and compatible boards, USB pointing away from PCB
+
+0
+24
+24
+PCM_marbastlib-xp-promicroish
+RP2040-Matrix_AC
+Footprint for Waveshare RP2040-Matrix controllers, castellated pads only
+
+0
+23
+23
+PCM_marbastlib-xp-promicroish
+RP2040-Matrix_ACH
+Footprint for Waveshare RP2040-Matrix controllers, through hole and castellated pads
+
+0
+46
+23
+PCM_marbastlib-xp-promicroish
+RP2040-Matrix_AH
+Footprint for Waveshare RP2040-Matrix controllers, through hole
+
+0
+23
+23
+PCM_marbastlib-xp-promicroish
+SuperMini_nRF52840_AH_Reversible
+Footprint for SuperMini nRF52840 (nRF52850 pro-micro compatible controller), Reversible
+
+0
+29
+29
+PCM_marbastlib-xp-promicroish
+SuperMini_nRF52840_AH_USBdn
+Footprint for SuperMini nRF52840 (nRF52850 pro-micro compatible controller), USB facing PCB
+
+0
+29
+29
+PCM_marbastlib-xp-promicroish
+SuperMini_nRF52840_AH_USBup
+Footprint for SuperMini nRF52840 (nRF52850 pro-micro compatible controller), USB pointing away from PCB
+
+0
+29
+29
+PCM_marbastlib-xp-promicroish
+SuperMini_nRF52840_H_USBdn
+Footprint for SuperMini nRF52840 (nRF52850 pro-micro compatible controller), pro-micro compatible pads only, USB facing PCB
+
+0
+24
+24
+PCM_marbastlib-xp-promicroish
+SuperMini_nRF52840_H_USBup
+Footprint for SuperMini nRF52840 (nRF52850 pro-micro compatible controller), pro-micro compatible pads only, USB pointing away from PCB
+
+0
+24
+24
+PCM_marbastlib-xp-promicroish
+Xiao_nRF52840_ACH
+Footprint for Seeduino Xiao nRF52840 controllers, through hole and castellated pads
+
+0
+40
+22
+PCM_marbastlib-xp-promicroish
+Xiao_nRF52840_AC_Reflow
+Footprint for Seeduino Xiao nRF52840 controllers, made for SMD reflow
+
+0
+22
+22
+PCM_marbastlib-xp-promicroish
+Xiao_nRF52840_AH_Pogo
+Footprint for Seeduino Xiao nRF52840 controllers, made for pin headers and pogo pins for the bottom pads
+
+0
+22
+22
+PCM_marbastlib-xp-promicroish
+Xiao_rp2040_ACH
+Footprint for Seeduino Xiao RP2040 controllers, through hole and castellated pads
+
+0
+36
+20
+PCM_marbastlib-xp-promicroish
+Xiao_rp2040_AC_Reflow
+Footprint for Seeduino Xiao RP2040 controllers, made for SMD reflow
+
+0
+20
+20
+PCM_marbastlib-xp-promicroish
+Xiao_rp2040_AH_Pogo
+Footprint for Seeduino Xiao RP2040 controllers, made for pin headers and pogo pins for the bottom pads
+
+0
+20
+20
+PCM_marbastlib-xp-promicroish
+nice_nano_AH_Reversible
+Footprint for nice!nano (nRF52850 pro-micro compatible controller), Reversible
+
+0
+29
+29
+PCM_marbastlib-xp-promicroish
+nice_nano_AH_USBdn
+Footprint for nice!nano (nRF52850 pro-micro compatible controller), USB facing PCB
+
+0
+29
+29
+PCM_marbastlib-xp-promicroish
+nice_nano_AH_USBup
+Footprint for nice!nano (nRF52850 pro-micro compatible controller), USB pointing away from PCB
+
+0
+29
+29
+PCM_marbastlib-xp-promicroish
+nice_nano_H_USBdn
+Footprint for nice!nano (nRF52850 pro-micro compatible controller), pro-micro compatible pads only, USB facing PCB
+
+0
+24
+24
+PCM_marbastlib-xp-promicroish
+nice_nano_H_USBup
+Footprint for nice!nano (nRF52850 pro-micro compatible controller), pro-micro compatible pads only, USB pointing away from PCB
+
+0
+24
+24
+PCM_marbastlib-xp-various
+ANT_2.4_IFA_1
+Inverted F BLE antenna designed following cypress' guide: https://www.cypress.com/file/136236/download
+PCB antenna IFA inverted F bluetooth 2.4 GHz
+0
+51
+2
+PCM_marbastlib-xp-various
+ANT_2.4_IFA_2
+Inverted F BLE antenna designed following cypress' guide: https://www.cypress.com/file/136236/download
+PCB antenna IFA inverted F bluetooth 2.4 GHz
+0
+51
+2
+PCM_marbastlib-xp-various
+CON_MJ-4PP-9
+TRRS Jack
+TRRS jack 3.5mm headphone connector
+0
+4
+4
+PCM_marbastlib-xp-various
+CON_MJ-4PP-9_Reversible
+Reversible TRRS Jack
+TRRS jack 3.5mm headphone connector
+0
+8
+4
+PCM_marbastlib-xp-various
+Diodes_UDFN2020-6_Type-F
+U-DFN2020-6 (Type F) (https://www.diodes.com/assets/Package-Files/U-DFN2020-6-Type-F.pdf) 
+U-DFN2020-6 (Type F)
+0
+8
+8
+PCM_marbastlib-xp-various
+HC-PBB40C-10DP-0.4V-02
+10 pin Mezzanine style connector, multiple mating heights available
+
+0
+14
+11
+PCM_marbastlib-xp-various
+HC-PBB40C-10DS-0.4V-2.0-02
+10 pin Mezzanine style connector, 2mm mating height
+mezzanine
+0
+10
+10
+PCM_marbastlib-xp-various
+LED_WS2812_2020_rearmount
+2020 SMD adressable RGB LED with integrated controller
+LED RGB NeoPixel
+0
+4
+4
+PCM_marbastlib-xp-various
+LED_WS2812_4020
+2040 side-firing SMD adressable RGB LED with integrated controller
+LED RGB NeoPixel
+0
+4
+4
+PCM_marbastlib-xp-various
+L_Bourns_SRP6050CA_6.6x6.4mm
+Shielded Power Inductors (https://www.bourns.com/docs/product-datasheets/srp7028a.pdf)
+Shielded Inductors Bourns SMD SRP7028A
+0
+2
+2
+PCM_marbastlib-xp-various
+L_Bourns_SRP6060FA_6.6x6.4mm
+Shielded Power Inductors (https://www.bourns.com/docs/product-datasheets/srp7028a.pdf)
+Shielded Inductors Bourns SMD SRP7028A
+0
+2
+2
+PCM_marbastlib-xp-various
+L_Cenker_CKST353220
+Inductor, Cenker, CKCS3012, 3.0x3.0x1.3mm, https://www.ckcoil.com/file/upload/spae532/2023-07/11/202307110955366446.pdf
+Inductor ckcs
+0
+2
+2
+PCM_marbastlib-xp-various
+MAX77751
+3A 1S LiXx battery charging IC with USB (DP/DP + CC) current negotiation and power path
+LiIon LiPo battery charger management usb power path switch-mode step-down buck
+0
+24
+24
+PCM_marbastlib-xp-various
+PDFN3.3x3.3-8L_2
+
+
+0
+10
+6
+PCM_marbastlib-xp-various
+PDFN3.3x3.3_EP
+
+
+0
+9
+9
+PCM_marbastlib-xp-various
+PNT_psp1000
+Footprint for a PSP-1000 joystick
+psp joystick analog
+0
+6
+5
+PCM_marbastlib-xp-various
+QFN-13_3x4mm_P0.5mm
+21A, High-Efficiency, Fully Integrated, Synchronous, Boost Converter with Programmable Input Current Limit
+
+0
+13
+13
+PCM_marbastlib-xp-various
+QFN-22_MP2722_2.5x3.5mm_P0.4mm
+QFN, 22pin, Monolithic Power MP2722 https://www.monolithicpower.com/en/documentview/productdocument/index/version/2/document_type/Datasheet/lang/en/sku/MP2722GRH/document_id/10035/
+MPS Monolithic Power QFN 22 battery charging buck boost dc-dc usb-c cc bc1.2
+0
+26
+22
+PCM_marbastlib-xp-various
+STM32WB5MMG
+Bluetooth capable ARM Microcontroller
+stm32 arm wireless bluetooth low energy ble zigbee
+0
+86
+86
+PCM_marbastlib-xp-various
+USB_C_Receptacle_HRO_TYPE-C-31-M-23
+USB Type-C receptacle for USB 2.0 and PD, https://en.krhro.com/Product-Details/719.html
+usb usb-c 2.0 pd
+0
+20
+17
+PCM_marbastlib-xp-various
+XUNPU_FPC-0.5AL-20PB_1x20-1MP_P0.5mm_Vertical
+XUNPU FPC connector, 20 bottom-side contacts, 0.5mm pitch, SMT, https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206301715_XUNPU-FPC-0-5AD-20PB_C3446061.pdf
+XUNPU  fpc FPC-0.5AL vertical
+0
+22
+21
+PCM_marbastlib-xp-various
+nRF52840_holyiot_18010_HS
+Module containing a nRF52840 and most passives and antenna
+holyiot 18010 nRF52840 bluetooth low energy 
+0
+55
+55
+PCM_marbastlib-xp-various
+nRF52840_holyiot_18010_HS_all
+Module containing a nRF52840 and most passives and antenna, with a cutout for hand soldering of the bottom IO
+holyiot 18010 nRF52840 bluetooth low energy 
+0
+55
+55
+PCM_marbastlib-xp-various
+nRF52840_moko_mk08_HS
+Module containing a nRF52840 and most passives and antenna
+moko mk08a mk08b nRF52840 bluetooth low energy 
+0
+60
+58
+PH60
+QMK_Logo
+
+
+0
+0
+0
 PH60
 USB-C_16P_HandSolder
 16-pin USB-C receptacle, USB2.0 and PD, 5A VBUS rating, https://datasheet.lcsc.com/lcsc/2211161000_HCTL-HC-TYPE-C-16P-01A_C2894897.pdf
