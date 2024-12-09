@@ -507,12 +507,6 @@
 		(uuid "47d22ff5-2293-4001-bb49-860c022e82de")
 	)
 	(junction
-		(at 383.54 104.14)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "48fc9744-d8cf-424f-a2c5-a67cb15cd8d7")
-	)
-	(junction
 		(at 358.14 102.87)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -589,6 +583,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "63d197b2-3916-4a94-bda5-64a8508bdfa6")
+	)
+	(junction
+		(at 383.54 104.14)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "653f6579-7484-49d1-a21f-4fe26f3a1700")
 	)
 	(junction
 		(at 347.98 135.89)
@@ -1241,16 +1241,6 @@
 			(type default)
 		)
 		(uuid "0f7ad452-b309-40dc-b104-9eb384c409c7")
-	)
-	(wire
-		(pts
-			(xy 383.54 104.14) (xy 383.54 125.73)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0f95887f-c944-42f9-a461-90e37f29d0e3")
 	)
 	(wire
 		(pts
@@ -2961,6 +2951,16 @@
 			(type default)
 		)
 		(uuid "9b4b44ae-2f10-4d4a-828d-341e836b2ddc")
+	)
+	(wire
+		(pts
+			(xy 383.54 104.14) (xy 383.54 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9b98f70f-6a0f-4c68-8600-0f7e754a7d83")
 	)
 	(wire
 		(pts
@@ -9046,7 +9046,7 @@
 	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 378.46 104.14 0)
-		(mirror x)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9055,7 +9055,7 @@
 		(fields_autoplaced yes)
 		(uuid "511e01a5-1546-4a58-aac5-6885e9c6814b")
 		(property "Reference" "S42"
-			(at 378.46 99.06 0)
+			(at 378.46 96.52 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -9063,7 +9063,7 @@
 			)
 		)
 		(property "Value" "MX1A"
-			(at 378.46 101.6 0)
+			(at 378.46 99.06 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -9071,7 +9071,7 @@
 			)
 		)
 		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
-			(at 378.46 109.22 0)
+			(at 378.46 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9080,7 +9080,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 378.46 109.22 0)
+			(at 378.46 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
