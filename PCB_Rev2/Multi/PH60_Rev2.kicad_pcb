@@ -44084,8 +44084,6 @@
 			(size 3.05 3.05)
 			(drill 3.05)
 			(layers "F&B.Cu" "*.Mask")
-			(pinfunction "2")
-			(pintype "passive")
 			(uuid "f3f386ef-af5a-42c7-a7aa-fa0f533eea57")
 		)
 		(pad "" np_thru_hole circle
@@ -66107,7 +66105,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "10u"
+		(property "Value" "1u"
 			(at 0 -1.16 90)
 			(layer "B.Fab")
 			(uuid "b7f2925d-1b6a-45b9-a4e6-b528a2a2fd63")
@@ -73203,7 +73201,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "10u"
+		(property "Value" "1u"
 			(at 0 -1.16 90)
 			(layer "B.Fab")
 			(uuid "2585bc3a-98d9-437b-9a81-fac2919d7397")
