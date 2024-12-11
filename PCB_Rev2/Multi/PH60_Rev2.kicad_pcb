@@ -43479,6 +43479,7 @@
 		(property "Reference" "S14-2"
 			(at 0 -8 180)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "61da4f5b-f988-4962-8388-2bcc09b81fdc")
 			(effects
 				(font
@@ -43579,46 +43580,6 @@
 			)
 			(layer "B.SilkS")
 			(uuid "fbe092f3-acbf-4cc3-ba09-fc9757cedb5e")
-		)
-		(fp_line
-			(start 7.1 7.1)
-			(end 7.1 -7.1)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "b6fb3e8b-bf9a-46a6-ae58-624a3afe2640")
-		)
-		(fp_line
-			(start 7.1 -7.1)
-			(end -7.1 -7.1)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "6c85aecf-fcf8-48a1-bc87-022bfd39597a")
-		)
-		(fp_line
-			(start -7.1 7.1)
-			(end 7.1 7.1)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "2d647e74-0a7e-4fa5-876b-50abd54ca935")
-		)
-		(fp_line
-			(start -7.1 -7.1)
-			(end -7.1 7.1)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "305ed622-0b0e-4845-b900-1cb269005696")
 		)
 		(fp_line
 			(start 9.525 9.525)
