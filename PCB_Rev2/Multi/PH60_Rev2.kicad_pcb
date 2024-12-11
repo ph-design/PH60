@@ -864,7 +864,7 @@
 			(pintype "passive")
 			(uuid "57059be1-413e-4b83-8fff-6aa5667920c6")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1539,7 +1539,7 @@
 			(pintype "passive")
 			(uuid "fb34c34b-c36d-4a75-8d2d-ee27ff219c10")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2214,7 +2214,7 @@
 			(pintype "passive")
 			(uuid "fba82fbb-7785-4e78-8a71-4361f50dddce")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2889,7 +2889,7 @@
 			(pintype "passive")
 			(uuid "a1acba42-8ba5-4f72-a074-7b821267fbdf")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3564,7 +3564,7 @@
 			(pintype "passive")
 			(uuid "4a58f380-4715-478f-aace-e41f89a237d5")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4239,7 +4239,7 @@
 			(pintype "passive")
 			(uuid "09c4f8b3-b92d-4b30-bb94-27abb2d9a666")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4914,7 +4914,7 @@
 			(pintype "passive")
 			(uuid "9250c70c-7527-4ff5-ba8b-2ce8feb6b965")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5589,7 +5589,7 @@
 			(pintype "passive")
 			(uuid "8f797dc4-cecd-4835-8bbe-52785eaffeee")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6264,7 +6264,7 @@
 			(pintype "passive")
 			(uuid "22659e96-70b8-48c6-ae47-80bb54446218")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6939,7 +6939,7 @@
 			(pintype "passive")
 			(uuid "4259394c-b67a-4a42-855f-897ad4c80da6")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7614,7 +7614,7 @@
 			(pintype "passive")
 			(uuid "1a1ddf86-050b-4379-9d27-a5594b772741")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7831,7 +7831,7 @@
 			(layers "*.Cu" "*.Mask")
 			(uuid "213af14d-ab00-4785-b5d1-39048e7f91bc")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/Stabilizer_Cherry_MX_2.00u.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/Stabilizer_Cherry_MX_2.00u.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -8506,7 +8506,7 @@
 			(pintype "passive")
 			(uuid "482e6cf5-c4f6-4b76-93e6-34e98b5fc03c")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -9181,7 +9181,7 @@
 			(pintype "passive")
 			(uuid "d4afd5c0-f2b2-427a-961d-b6e14f470812")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -9856,7 +9856,7 @@
 			(pintype "passive")
 			(uuid "3e103b52-4c8f-4fa4-947f-3a812820db00")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -10531,7 +10531,7 @@
 			(pintype "passive")
 			(uuid "ac70064d-ab93-4cd1-9c83-ef05ffe61ad1")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -11206,7 +11206,7 @@
 			(pintype "passive")
 			(uuid "fb36ea73-66f4-4e8e-a229-367e46348f24")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -11881,7 +11881,7 @@
 			(pintype "passive")
 			(uuid "f5c7643e-4688-4e51-9d1e-0195cd646ef4")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -12556,7 +12556,7 @@
 			(pintype "passive")
 			(uuid "99de5fbf-c43b-4d4a-812c-0c692d9929a4")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -13231,7 +13231,7 @@
 			(pintype "passive")
 			(uuid "3b3701b6-4d3c-42eb-bbd8-ed51f135087b")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -13906,7 +13906,7 @@
 			(pintype "passive")
 			(uuid "48c1a826-8d80-458f-8129-278a62d6f6b9")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -14581,7 +14581,7 @@
 			(pintype "passive")
 			(uuid "0e676d80-7509-4287-8505-61236bee05da")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -15256,7 +15256,7 @@
 			(pintype "passive")
 			(uuid "1872116d-9be2-49cd-807a-156e054f3a1c")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -15931,7 +15931,7 @@
 			(pintype "passive")
 			(uuid "a40cd622-ba10-40ce-9631-4aae36fdd6fb")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -16606,7 +16606,7 @@
 			(pintype "passive")
 			(uuid "1214b74e-f9af-445c-a705-29bf99edd5e4")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -17281,7 +17281,7 @@
 			(pintype "passive")
 			(uuid "ae39cece-db30-4c3f-b005-d7514419d4ef")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -17956,7 +17956,7 @@
 			(pintype "passive")
 			(uuid "0587acce-ded2-4506-9fe3-88d864ceb070")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -18631,7 +18631,7 @@
 			(pintype "passive")
 			(uuid "740af508-d778-4c69-9ae5-bb0037b326c0")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -19390,7 +19390,7 @@
 			(pintype "passive")
 			(uuid "dafb0ae9-7023-4b0a-9c87-2bea86eaf198")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -20065,7 +20065,7 @@
 			(pintype "passive")
 			(uuid "e99caba7-2c32-4bb0-bbf3-97d94432053d")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -20740,7 +20740,7 @@
 			(pintype "passive")
 			(uuid "f31bbce1-9b27-4503-b156-9994848d545a")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -21415,7 +21415,7 @@
 			(pintype "passive")
 			(uuid "c4e8e9e7-1be4-4bbb-a3d9-33a2473d2469")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -22090,7 +22090,7 @@
 			(pintype "passive")
 			(uuid "56483a1b-76b6-4806-affe-6322dc87a624")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -22765,7 +22765,7 @@
 			(pintype "passive")
 			(uuid "69f3694c-a30e-460c-a409-31bb2d9dcb57")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -23440,7 +23440,7 @@
 			(pintype "passive")
 			(uuid "d93ac2a6-e7e4-4b86-862d-97a4b0728dc7")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -24115,7 +24115,7 @@
 			(pintype "passive")
 			(uuid "fdf6860b-f968-4a39-9f39-f2710ee93ce0")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -24790,7 +24790,7 @@
 			(pintype "passive")
 			(uuid "f2cec2b0-95bf-4411-bdda-d67bfa86da18")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -25465,7 +25465,7 @@
 			(pintype "passive")
 			(uuid "a7505ae3-4350-4088-b7d6-3d056bf9a7aa")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -25766,7 +25766,7 @@
 			(layers "*.Cu" "*.Mask")
 			(uuid "927fe559-be16-48ea-a749-f18a0d5d827b")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/Stabilizer_Cherry_MX_2.00u.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/Stabilizer_Cherry_MX_2.00u.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -26441,7 +26441,7 @@
 			(pintype "passive")
 			(uuid "04307283-ad65-4db8-bdab-21b265e6af76")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -27116,7 +27116,7 @@
 			(pintype "passive")
 			(uuid "0b995117-7395-49b6-a9ac-4d58f474716b")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -27791,7 +27791,7 @@
 			(pintype "passive")
 			(uuid "3c900e54-1f20-4931-813c-2cff7d6d7d5d")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -28466,7 +28466,7 @@
 			(pintype "passive")
 			(uuid "ce397f5e-acd2-4608-b00f-a76a10d84c61")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -29141,7 +29141,7 @@
 			(pintype "passive")
 			(uuid "99d4b386-49ae-42c1-a16a-5ec363210f87")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -29816,7 +29816,7 @@
 			(pintype "passive")
 			(uuid "b74785be-3780-4c01-856b-3e9a069329a2")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -30491,7 +30491,7 @@
 			(pintype "passive")
 			(uuid "0a6f2da3-5963-4efa-8192-d570c9d2f485")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -31166,7 +31166,7 @@
 			(pintype "passive")
 			(uuid "3a131d8b-2914-4c21-9062-69284e99cbe1")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -31841,7 +31841,7 @@
 			(pintype "passive")
 			(uuid "3f0713e7-3688-44e2-8d52-2142c83134f5")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -32516,7 +32516,7 @@
 			(pintype "passive")
 			(uuid "b607247b-82fc-4354-90a4-f086ab8dc535")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -32733,7 +32733,7 @@
 			(layers "*.Cu" "*.Mask")
 			(uuid "be47db91-4c28-4066-9a20-73a39d175ff4")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/Stabilizer_Cherry_MX_7.00u.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/Stabilizer_Cherry_MX_7.00u.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -33408,7 +33408,7 @@
 			(pintype "passive")
 			(uuid "c3e0317f-570a-4de0-b59c-fa60992d1adb")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -34083,7 +34083,7 @@
 			(pintype "passive")
 			(uuid "58807cc3-4e5f-4338-9c5b-f01efa903eea")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -34842,7 +34842,7 @@
 			(pintype "passive")
 			(uuid "4f2eb765-b458-4b4d-a205-9890c100cd96")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -35517,7 +35517,7 @@
 			(pintype "passive")
 			(uuid "48c19036-8ed9-4291-b5fa-7cd06f8cb7b1")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -36192,7 +36192,7 @@
 			(pintype "passive")
 			(uuid "c7052168-be21-4ea4-8924-79803b33629a")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -36867,7 +36867,7 @@
 			(pintype "passive")
 			(uuid "eba07353-5a72-464d-9a64-ef4c36a89304")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -37542,7 +37542,7 @@
 			(pintype "passive")
 			(uuid "451d03f6-954b-43d5-8dee-832bb9e04b18")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -38217,7 +38217,7 @@
 			(pintype "passive")
 			(uuid "d748f11f-2107-4c2a-be74-32611ec1c4bb")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -38892,7 +38892,7 @@
 			(pintype "passive")
 			(uuid "1accae14-1a1e-4a49-af0d-debc36b6602a")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -39567,7 +39567,7 @@
 			(pintype "passive")
 			(uuid "d51996cf-e69b-470f-adb7-346b290f21b4")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -40242,7 +40242,7 @@
 			(pintype "passive")
 			(uuid "8f8673ec-9fad-4f17-a409-ddd8f3bc8d8a")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -41001,7 +41001,7 @@
 			(pintype "passive")
 			(uuid "26da7166-2a26-4a29-b95c-3cec4e557fc9")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -41676,7 +41676,7 @@
 			(pintype "passive")
 			(uuid "31e70404-c453-4157-b0ab-03668b97d466")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -42351,7 +42351,7 @@
 			(pintype "passive")
 			(uuid "51544efb-711c-41c9-9fba-713d8c7f5620")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -42568,7 +42568,7 @@
 			(layers "*.Cu" "*.Mask")
 			(uuid "9979647c-44ba-469e-9ef6-fe0ec35974c2")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/Stabilizer_Cherry_MX_2.00u.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/Stabilizer_Cherry_MX_2.00u.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -42785,7 +42785,7 @@
 			(layers "*.Cu" "*.Mask")
 			(uuid "0c2d2f6a-b2df-4192-9911-a800f7fd7955")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/Stabilizer_Cherry_MX_6.25u.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/Stabilizer_Cherry_MX_6.25u.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -43458,7 +43458,7 @@
 			(pintype "passive")
 			(uuid "2441b269-5f69-41ff-9e8a-b0655932b871")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -44133,7 +44133,7 @@
 			(pintype "passive")
 			(uuid "16f57800-6615-48f5-a7b0-8c810c56e377")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -44350,7 +44350,7 @@
 			(layers "*.Cu" "*.Mask")
 			(uuid "db9cbe7d-5a5f-4625-ab27-28ecf521855c")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/Stabilizer_Cherry_MX_2.00u.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/Stabilizer_Cherry_MX_2.00u.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -45025,7 +45025,7 @@
 			(pintype "passive")
 			(uuid "6e753ed5-3b6e-471a-bbb8-69f7ca4769d5")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -45700,7 +45700,7 @@
 			(pintype "passive")
 			(uuid "0222e42c-54b6-4838-9abe-9085070ba78d")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -46375,7 +46375,7 @@
 			(pintype "passive")
 			(uuid "e0e4e6c5-e3df-471a-a639-09b49619c5ef")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -47050,7 +47050,7 @@
 			(pintype "passive")
 			(uuid "2f52f92d-abf9-4859-94ca-ebcc5f2bf81e")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -47725,7 +47725,7 @@
 			(pintype "passive")
 			(uuid "0f029159-6050-40b9-8ad9-f84ef8ffb468")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -48420,7 +48420,7 @@
 			(pintype "passive")
 			(uuid "b4381e94-d092-4057-bb16-d54b5fbfcdf9")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -48637,7 +48637,7 @@
 			(layers "*.Cu" "*.Mask")
 			(uuid "f00b60c9-69f3-43c2-9325-b4115af2cad2")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/Stabilizer_Cherry_MX_2.00u.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/Stabilizer_Cherry_MX_2.00u.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -49312,7 +49312,7 @@
 			(pintype "passive")
 			(uuid "e5c94a9d-db4b-4674-9c15-3791af8da933")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -49987,7 +49987,7 @@
 			(pintype "passive")
 			(uuid "1317d603-1075-4176-b6e3-5b5c743d6540")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -50662,7 +50662,7 @@
 			(pintype "passive")
 			(uuid "eae23ff7-1e59-48c8-8be1-d1de65e6aa2e")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -51421,7 +51421,7 @@
 			(pintype "passive")
 			(uuid "37857718-550a-42ba-a0ce-99404bb1c9d5")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -52096,7 +52096,7 @@
 			(pintype "passive")
 			(uuid "ccded08e-2a9e-4200-8358-6180bc7dd6a4")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -52771,7 +52771,7 @@
 			(pintype "passive")
 			(uuid "ba580bdc-23f1-4e7d-bbf9-575fa5e3b686")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -53530,7 +53530,7 @@
 			(pintype "passive")
 			(uuid "14b12dab-9f64-48c4-8df9-d86def17e9d0")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -54205,7 +54205,7 @@
 			(pintype "passive")
 			(uuid "d8347e22-610b-4bee-9715-f812ea5dfdf5")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
