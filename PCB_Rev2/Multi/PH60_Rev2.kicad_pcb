@@ -201,7 +201,7 @@
 	(net 117 "unconnected-(U3-GPIO22-Pad34)")
 	(net 118 "unconnected-(U3-GPIO16-Pad27)")
 	(net 119 "unconnected-(U3-GPIO17-Pad28)")
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 		(layer "F.Cu")
 		(uuid "010523aa-a2fe-4518-b3c1-3ff5b476dfc4")
 		(at 142.875 57.15)
@@ -230,7 +230,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -876,7 +876,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 		(layer "F.Cu")
 		(uuid "01463120-3635-4ef4-8979-59b927a1c8e9")
 		(at 123.825 57.15)
@@ -905,7 +905,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1551,7 +1551,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 		(layer "F.Cu")
 		(uuid "0318e9e7-0e9f-4ced-9669-78996be27b9a")
 		(at 119.0625 95.25)
@@ -1580,7 +1580,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2226,7 +2226,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 		(layer "F.Cu")
 		(uuid "0b39e140-8b76-46f2-b427-eaab56805c09")
 		(at 95.25 38.1)
@@ -2255,7 +2255,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2901,7 +2901,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 		(layer "F.Cu")
 		(uuid "0e8609dc-47c3-48ee-8283-8bd81b89c672")
 		(at 152.4 38.1)
@@ -2930,7 +2930,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3576,7 +3576,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.50u_90deg"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.50u_90deg"
 		(layer "F.Cu")
 		(uuid "0f26720f-4f8d-49f7-bf7b-2e5d3f2a0c2e")
 		(at 42.8625 114.3 -90)
@@ -3605,7 +3605,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.50u_90deg"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.50u_90deg"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -4251,7 +4251,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 		(layer "F.Cu")
 		(uuid "0fbcc874-c1ed-41b3-9974-16c87432e849")
 		(at 247.65 38.1)
@@ -4280,7 +4280,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -4926,7 +4926,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.25u_90deg"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.25u_90deg"
 		(layer "F.Cu")
 		(uuid "196a3109-9880-4b00-b310-452ba6135758")
 		(at 254.79375 114.3 -90)
@@ -4955,7 +4955,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.25u_90deg"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.25u_90deg"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -5601,7 +5601,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 		(layer "F.Cu")
 		(uuid "1a526288-be37-4c6e-85cb-1d3bf4398566")
 		(at 76.2 38.1)
@@ -5630,7 +5630,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6276,7 +6276,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.50u"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.50u"
 		(layer "F.Cu")
 		(uuid "1efd146d-6a2e-4bd5-9401-7fa2b5856dbe")
 		(at 42.8625 57.15)
@@ -6305,7 +6305,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.50u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.50u"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6951,7 +6951,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.50u_90deg"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.50u_90deg"
 		(layer "F.Cu")
 		(uuid "203f97a3-3fd4-4191-a30b-8f60c6cfd5c3")
 		(at 252.4125 114.3 90)
@@ -6980,7 +6980,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.50u_90deg"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.50u_90deg"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -7843,7 +7843,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 		(layer "F.Cu")
 		(uuid "24ee9045-93c9-4a95-9834-06c9fffb7edc")
 		(at 238.125 57.15)
@@ -7872,7 +7872,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -8518,7 +8518,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 		(layer "F.Cu")
 		(uuid "266cee54-0323-407b-8af1-b818fa821a67")
 		(at 38.1 38.1 180)
@@ -8547,7 +8547,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -9193,7 +9193,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 		(layer "F.Cu")
 		(uuid "2b2399fd-5023-4a90-a219-bdad95ae8587")
 		(at 190.5 38.1)
@@ -9222,7 +9222,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -9868,7 +9868,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 		(layer "F.Cu")
 		(uuid "2c42561d-0a35-4c7e-8ccb-f2a94471144a")
 		(at 61.9125 95.25)
@@ -9897,7 +9897,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -10543,7 +10543,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 		(layer "F.Cu")
 		(uuid "2f1aed66-6378-498f-9b42-d39964fa0ee8")
 		(at 200.025 57.15)
@@ -10572,7 +10572,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -11218,7 +11218,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.50u_90deg"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.50u_90deg"
 		(layer "F.Cu")
 		(uuid "321d38b1-a932-4013-b635-c06b1a8250c2")
 		(at 300.0375 114.3 90)
@@ -11247,7 +11247,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.50u_90deg"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.50u_90deg"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -11893,7 +11893,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.25u_90deg"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.25u_90deg"
 		(layer "F.Cu")
 		(uuid "3a55ad6d-9a88-429e-982b-0c0bcb04d3b4")
 		(at 40.48125 114.3 90)
@@ -11922,7 +11922,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.25u_90deg"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.25u_90deg"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -12568,7 +12568,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_2.00u"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_2.00u"
 		(layer "F.Cu")
 		(uuid "3b8c2553-3683-46e8-9e7b-edcfd0b27036")
 		(at 295.275 38.1)
@@ -12597,7 +12597,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_2.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_2.00u"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -13243,7 +13243,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.25u"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.25u"
 		(layer "F.Cu")
 		(uuid "3e16b8a1-860e-47b9-a6f1-18ffab1938b2")
 		(at 230.98125 114.3)
@@ -13272,7 +13272,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.25u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.25u"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -13918,7 +13918,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 		(layer "F.Cu")
 		(uuid "3eb22b22-3624-4f4a-a142-4f9890573deb")
 		(at 66.675 57.15)
@@ -13947,7 +13947,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -14593,7 +14593,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 		(layer "F.Cu")
 		(uuid "3f030c5a-942d-44c6-b8d4-267ef2bd275a")
 		(at 219.075 57.15)
@@ -14622,7 +14622,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -15268,7 +15268,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 		(layer "F.Cu")
 		(uuid "420e09f0-a91a-42b2-bb6e-042d2baf04a7")
 		(at 90.4875 76.2)
@@ -15297,7 +15297,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -15943,7 +15943,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 		(layer "F.Cu")
 		(uuid "46765d2d-2cff-4994-b02f-37be8b81e7a3")
 		(at 128.5875 76.2)
@@ -15972,7 +15972,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -16618,7 +16618,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 		(layer "F.Cu")
 		(uuid "469ecf5d-371b-4cec-b8bf-7c42be81b125")
 		(at 147.6375 76.2)
@@ -16647,7 +16647,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -17293,7 +17293,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 		(layer "F.Cu")
 		(uuid "4c9340e6-fffd-45b2-9944-0cf9dca782f8")
 		(at 100.0125 95.25)
@@ -17322,7 +17322,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -17968,7 +17968,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 		(layer "F.Cu")
 		(uuid "4daaa2f1-5fd9-48f5-b209-521eff53a1b8")
 		(at 176.2125 95.25)
@@ -17997,7 +17997,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -18727,7 +18727,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 		(layer "F.Cu")
 		(uuid "50dbaa7e-606b-4189-9b0a-819a9453131b")
 		(at 180.975 57.15)
@@ -18756,7 +18756,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -19402,7 +19402,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 		(layer "F.Cu")
 		(uuid "5555e924-fb4a-41c6-a7f7-1e6a7b0e1bd5")
 		(at 280.9875 76.2 90)
@@ -19431,7 +19431,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -20077,7 +20077,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 		(layer "F.Cu")
 		(uuid "55d2acb0-cc9a-443e-ba86-75b2b46d55d8")
 		(at 276.225 114.3 90)
@@ -20106,7 +20106,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -20752,7 +20752,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 		(layer "F.Cu")
 		(uuid "5994e82b-685b-40c7-a224-50d499af5ce3")
 		(at 276.225 57.15)
@@ -20781,7 +20781,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -21427,7 +21427,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.25u_90deg"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.25u_90deg"
 		(layer "F.Cu")
 		(uuid "5b4303cc-c098-41d6-bcaa-f6231058f13e")
 		(at 64.29375 114.3 90)
@@ -21456,7 +21456,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.25u_90deg"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.25u_90deg"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -22102,7 +22102,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_7.00u"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_7.00u"
 		(layer "F.Cu")
 		(uuid "5c957384-cd39-484a-8a4a-4572fd5a3585")
 		(at 171.45 114.3 180)
@@ -22131,7 +22131,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_7.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_7.00u"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -22777,7 +22777,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 		(layer "F.Cu")
 		(uuid "60065ea9-fac4-4173-8e7b-d497bf23934b")
 		(at 171.45 38.1)
@@ -22806,7 +22806,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -23452,7 +23452,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.25u_90deg"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.25u_90deg"
 		(layer "F.Cu")
 		(uuid "65a517be-50af-4789-b4de-43dc2c4eaf2e")
 		(at 278.60625 114.3 -90)
@@ -23481,7 +23481,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.25u_90deg"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.25u_90deg"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -24127,7 +24127,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 		(layer "F.Cu")
 		(uuid "667540a6-f171-4de9-afa1-5739f7900952")
 		(at 204.7875 76.2)
@@ -24156,7 +24156,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -24802,7 +24802,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.75u_90deg"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.75u_90deg"
 		(layer "F.Cu")
 		(uuid "66a7ebbd-b2c3-40e1-9147-8bec05b37453")
 		(at 278.60625 95.25 -90)
@@ -24831,7 +24831,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.75u_90deg"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.75u_90deg"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -25778,7 +25778,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 		(layer "F.Cu")
 		(uuid "692eb985-1321-4fa5-b992-f6837b61c58a")
 		(at 161.925 57.15)
@@ -25807,7 +25807,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -26453,7 +26453,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 		(layer "F.Cu")
 		(uuid "6a960847-7dec-4443-86bd-cdf720d4ca99")
 		(at 228.6 38.1)
@@ -26482,7 +26482,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -27128,7 +27128,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 		(layer "F.Cu")
 		(uuid "6bc7730b-6ae4-4de5-a033-19ee4c781c92")
 		(at 214.3125 95.25)
@@ -27157,7 +27157,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -27803,7 +27803,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 		(layer "F.Cu")
 		(uuid "6fbe4579-7592-4194-935d-cccc0f23cf1a")
 		(at 71.4375 76.2)
@@ -27832,7 +27832,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -28478,7 +28478,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 		(layer "F.Cu")
 		(uuid "728a397f-776d-498e-a40b-a05b75e9fee3")
 		(at 223.8375 76.2)
@@ -28507,7 +28507,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -29153,7 +29153,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 		(layer "F.Cu")
 		(uuid "72cbac50-edda-47d4-8bcb-864f7796b1d5")
 		(at 166.6875 76.2)
@@ -29182,7 +29182,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -29828,7 +29828,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 		(layer "F.Cu")
 		(uuid "774b5eee-802f-4fd7-a7c1-eedd9a2a22c0")
 		(at 242.8875 76.2)
@@ -29857,7 +29857,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -30503,7 +30503,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 		(layer "F.Cu")
 		(uuid "77727f38-5d82-45d1-af44-dc935dc5e3ea")
 		(at 138.1125 95.25)
@@ -30532,7 +30532,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -31178,7 +31178,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 		(layer "F.Cu")
 		(uuid "799a9ebc-cbae-4c3a-b159-9551d2a2e643")
 		(at 104.775 57.15)
@@ -31207,7 +31207,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -31853,7 +31853,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_2.25u_90deg"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_2.25u_90deg"
 		(layer "F.Cu")
 		(uuid "7ccd4f3a-0412-49a3-841d-dd1c9eed3e3f")
 		(at 292.89375 76.2 90)
@@ -31882,7 +31882,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_2.25u_90deg"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_2.25u_90deg"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -32745,7 +32745,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 		(layer "F.Cu")
 		(uuid "872344a7-922c-4b89-bf8b-999971b848f6")
 		(at 80.9625 95.25)
@@ -32774,7 +32774,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -33420,7 +33420,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 		(layer "F.Cu")
 		(uuid "88dd6e42-5e5c-44f5-9a03-24514adae452")
 		(at 266.7 38.1)
@@ -33449,7 +33449,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -34179,7 +34179,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 		(layer "F.Cu")
 		(uuid "9567ab7f-d742-45a5-b0d5-af5f622115cb")
 		(at 257.175 57.15)
@@ -34208,7 +34208,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -34854,7 +34854,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 		(layer "F.Cu")
 		(uuid "97948919-5a97-464b-8931-58f5a77d2e8a")
 		(at 114.3 38.1)
@@ -34883,7 +34883,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -35529,7 +35529,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 		(layer "F.Cu")
 		(uuid "97d2c087-daed-43a7-946b-ea4958df0572")
 		(at 85.725 57.15)
@@ -35558,7 +35558,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -36204,7 +36204,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 		(layer "F.Cu")
 		(uuid "9b62a1e6-c8f1-4183-b2eb-8e9e63a5576c")
 		(at 109.5375 76.2)
@@ -36233,7 +36233,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -36879,7 +36879,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_2.75u_90deg"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_2.75u_90deg"
 		(layer "F.Cu")
 		(uuid "a19a8ea8-7e72-4e3d-b298-dcc6c52a7345")
 		(at 288.13125 95.25 -90)
@@ -36908,7 +36908,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_2.75u_90deg"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_2.75u_90deg"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -37554,7 +37554,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 		(layer "F.Cu")
 		(uuid "a20331a3-5f58-47d0-aca2-1119dff2358c")
 		(at 185.7375 76.2)
@@ -37583,7 +37583,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -38229,7 +38229,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 		(layer "F.Cu")
 		(uuid "a3084153-b7de-44ac-ac22-1bc003ae883e")
 		(at 157.1625 95.25)
@@ -38258,7 +38258,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -38904,7 +38904,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_6.25u"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_6.25u"
 		(layer "F.Cu")
 		(uuid "ab3ed783-8ff6-4e8a-a79b-c241a9a27bda")
 		(at 159.54375 114.3)
@@ -38933,7 +38933,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_6.25u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_6.25u"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -39579,7 +39579,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 		(layer "F.Cu")
 		(uuid "b35c296c-3dcb-41f1-a694-0589699592ae")
 		(at 233.3625 95.25)
@@ -39608,7 +39608,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -40338,7 +40338,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 		(layer "F.Cu")
 		(uuid "bae7e8de-eba3-4918-aa62-28eddd09551f")
 		(at 209.55 38.1)
@@ -40367,7 +40367,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -41013,7 +41013,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 		(layer "F.Cu")
 		(uuid "c03999aa-2a87-4cab-897b-5db0adb9e0dc")
 		(at 304.8 95.25 -90)
@@ -41042,7 +41042,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -41688,7 +41688,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.25u_90deg"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.25u_90deg"
 		(layer "F.Cu")
 		(uuid "c81ac0d0-2fe3-4642-83bb-b868eef6a14f")
 		(at 88.10625 114.3 90)
@@ -41717,7 +41717,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.25u_90deg"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.25u_90deg"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -42797,7 +42797,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 		(layer "F.Cu")
 		(uuid "cd5c75c6-5d7f-4ede-917a-6c52d2a76ce1")
 		(at 285.75 38.1 180)
@@ -42826,7 +42826,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -43470,7 +43470,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 		(layer "F.Cu")
 		(uuid "d48067f0-9abb-4d7f-892a-6dc7a39ddf44")
 		(at 304.8 38.1 180)
@@ -43499,7 +43499,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -44362,7 +44362,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 		(layer "F.Cu")
 		(uuid "d88bbee0-3f7c-469a-99ea-b3fdb5e920d7")
 		(at 252.4125 95.25)
@@ -44391,7 +44391,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -45037,7 +45037,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.25u"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.25u"
 		(layer "F.Cu")
 		(uuid "d909f214-8991-4866-994a-3a0e85dc7d9c")
 		(at 40.48125 95.25)
@@ -45066,7 +45066,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.25u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.25u"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -45712,7 +45712,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 		(layer "F.Cu")
 		(uuid "dbe51993-1e0b-4e7f-9424-80958dc0745f")
 		(at 195.2625 95.25)
@@ -45741,7 +45741,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -46387,7 +46387,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 		(layer "F.Cu")
 		(uuid "dc767d25-464c-415c-be8a-476c7de37342")
 		(at 66.675 114.3 -90)
@@ -46416,7 +46416,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -47062,7 +47062,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.50u_90deg"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.50u_90deg"
 		(layer "F.Cu")
 		(uuid "e000e8e7-83d2-4eeb-8b7e-afabec76a14a")
 		(at 300.0375 57.15 -90)
@@ -47091,7 +47091,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.50u_90deg"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.50u_90deg"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -47737,7 +47737,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_ISOEnter_90deg"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_ISOEnter_90deg"
 		(layer "F.Cu")
 		(uuid "e02027af-4217-4455-bc1c-82e9d7abd7b6")
 		(at 302.41875 66.675 90)
@@ -47766,7 +47766,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_ISOEnter_90deg"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_ISOEnter_90deg"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -48649,7 +48649,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.25u_90deg"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.25u_90deg"
 		(layer "F.Cu")
 		(uuid "e6dfa0dd-c6ce-4d5e-935b-45a3b31bc57a")
 		(at 40.48125 76.2 90)
@@ -48678,7 +48678,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.25u_90deg"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.25u_90deg"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -49324,7 +49324,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.75u_90deg"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.75u_90deg"
 		(layer "F.Cu")
 		(uuid "e8a65ce0-c0d7-4677-8e0f-03d11950c319")
 		(at 45.24375 76.2 -90)
@@ -49353,7 +49353,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.75u_90deg"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.75u_90deg"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -49999,7 +49999,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 		(layer "F.Cu")
 		(uuid "e8b5c0c2-957e-46c7-8d0b-59b66bafb101")
 		(at 133.35 38.1)
@@ -50028,7 +50028,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -50758,7 +50758,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.50u_90deg"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.50u_90deg"
 		(layer "F.Cu")
 		(uuid "f081a1b5-4c16-4115-ad5c-5be51911e836")
 		(at 90.4875 114.3 -90)
@@ -50787,7 +50787,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.50u_90deg"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.50u_90deg"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -51433,7 +51433,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_2.25u"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_2.25u"
 		(layer "F.Cu")
 		(uuid "f1b976b5-61c9-4bfc-b158-903644672a63")
 		(at 50.00625 95.25 180)
@@ -51462,7 +51462,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_2.25u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_2.25u"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -52108,7 +52108,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 		(layer "F.Cu")
 		(uuid "f64b004a-981f-4d35-9ded-0eb040dcfa20")
 		(at 57.15 38.1 180)
@@ -52137,7 +52137,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -52867,7 +52867,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.25u_90deg"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.25u_90deg"
 		(layer "F.Cu")
 		(uuid "fc872c46-c181-48da-9b78-4e6befa28d21")
 		(at 302.41875 114.3 -90)
@@ -52896,7 +52896,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.25u_90deg"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.25u_90deg"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -53542,7 +53542,7 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 		(layer "F.Cu")
 		(uuid "ff26c6f8-8a15-45eb-96b9-0c8e112d3639")
 		(at 261.9375 76.2)
@@ -53571,7 +53571,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
