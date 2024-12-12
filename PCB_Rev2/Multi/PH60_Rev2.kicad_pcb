@@ -86829,7 +86829,7 @@
 		(uuid "f3d2798c-778a-44ee-ad4f-a3cc74e0157c")
 	)
 	(gr_text "PH60/Multi"
-		(at 200.075 110.875 0)
+		(at 200 109.5 0)
 		(layer "B.Cu")
 		(uuid "03c7c6aa-26a2-4594-ab20-e1fdb9d71c3e")
 		(effects
@@ -86841,7 +86841,7 @@
 		)
 	)
 	(gr_text "By Team PHDesign\nM_Altmann\nnonameC_\nalt-0191"
-		(at 200.075 118.875 0)
+		(at 200 117.5 0)
 		(layer "B.Cu")
 		(uuid "4c6b4e17-0e4a-4935-9d42-63f1b212e80a")
 		(effects
@@ -86853,7 +86853,7 @@
 		)
 	)
 	(gr_text "By Team PHDesign\nM_Altmann\nnonameC_\nalt-0191"
-		(at 200.075 118.875 0)
+		(at 200 117.5 0)
 		(layer "B.Mask")
 		(uuid "8e581d3a-e2fe-4e58-b538-4adeb8137c95")
 		(effects
@@ -86865,7 +86865,7 @@
 		)
 	)
 	(gr_text "PH60/Multi"
-		(at 200.075 110.875 0)
+		(at 200 109.5 0)
 		(layer "B.Mask")
 		(uuid "af333d09-763e-4335-8fec-e3b798e5f4b4")
 		(effects
