@@ -87730,14 +87730,6 @@
 		(uuid "0ea8c9e7-b31f-423f-bff5-5a8a3746ceab")
 	)
 	(segment
-		(start 132.4625 115.75)
-		(end 126.89 115.75)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 5)
-		(uuid "0eb3268d-53a3-4b33-b3dc-3785fb23154a")
-	)
-	(segment
 		(start 136.49636 113.05)
 		(end 136.9 112.64636)
 		(width 0.2)
@@ -87786,6 +87778,14 @@
 		(uuid "1c4cc0d1-b6b9-4b39-89a6-d53d3a4a49a5")
 	)
 	(segment
+		(start 132.075 116.15)
+		(end 131.675 115.75)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 5)
+		(uuid "1caafd41-8e81-4314-8791-c67624499227")
+	)
+	(segment
 		(start 126.4375 110.5)
 		(end 126.4375 111.5)
 		(width 0.2)
@@ -87816,6 +87816,14 @@
 		(layer "B.Cu")
 		(net 5)
 		(uuid "2fcab929-0998-4667-af52-1f871674030c")
+	)
+	(segment
+		(start 132.4625 115.75)
+		(end 126.89 115.75)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 5)
+		(uuid "32797745-66c8-4db3-aca0-de3c942e9d19")
 	)
 	(segment
 		(start 132.405674 110.85)
@@ -87850,6 +87858,14 @@
 		(uuid "458f2976-347c-450b-943b-8a5d1476f5a9")
 	)
 	(segment
+		(start 132.4625 116.15)
+		(end 132.075 116.15)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 5)
+		(uuid "48c72f54-4e31-4bbc-9902-4aaeb8b5b62e")
+	)
+	(segment
 		(start 136.9 112.1125)
 		(end 136.9 109.88)
 		(width 0.2)
@@ -87864,14 +87880,6 @@
 		(layer "B.Cu")
 		(net 5)
 		(uuid "5549e64f-aede-4824-b980-798e1936bc84")
-	)
-	(segment
-		(start 126.89 115.75)
-		(end 126.68 115.54)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 5)
-		(uuid "57e1677b-f9e2-4877-bb4d-55e8be3ebf0c")
 	)
 	(segment
 		(start 131.955 110.85)
@@ -87944,6 +87952,14 @@
 		(layer "B.Cu")
 		(net 5)
 		(uuid "b15d61c0-f0be-4e7a-99f5-25c99587f6ad")
+	)
+	(segment
+		(start 126.89 115.75)
+		(end 126.68 115.54)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 5)
+		(uuid "b18282a4-c325-491f-ad88-c0a46b7d88e8")
 	)
 	(segment
 		(start 133.3 112.1125)
@@ -88032,14 +88048,6 @@
 		(layer "B.Cu")
 		(net 5)
 		(uuid "fc09f60d-6c52-4b1f-b945-8ccf055b5e52")
-	)
-	(segment
-		(start 132.4625 116.15)
-		(end 132.4625 115.75)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 5)
-		(uuid "fc134db1-c4be-4dcc-9a70-3f3f76158b8c")
 	)
 	(segment
 		(start 139.3375 116.15)
