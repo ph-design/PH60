@@ -1,14 +1,18 @@
 (kicad_sch
-	(version 20231120)
+	(version 20250114)
 	(generator "eeschema")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(uuid "0aa05bfa-84a5-481f-964a-6a7730b4aba7")
 	(paper "A3")
 	(lib_symbols
 		(symbol "Device:D"
-			(pin_numbers hide)
+			(pin_numbers
+				(hide yes)
+			)
 			(pin_names
-				(offset 1.016) hide)
+				(offset 1.016)
+				(hide yes)
+			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -106,10 +110,10 @@
 				)
 				(polyline
 					(pts
-						(xy 1.27 0) (xy -1.27 0)
+						(xy 1.27 1.27) (xy 1.27 -1.27) (xy -1.27 0) (xy 1.27 1.27)
 					)
 					(stroke
-						(width 0)
+						(width 0.254)
 						(type default)
 					)
 					(fill
@@ -118,10 +122,10 @@
 				)
 				(polyline
 					(pts
-						(xy 1.27 1.27) (xy 1.27 -1.27) (xy -1.27 0) (xy 1.27 1.27)
+						(xy 1.27 0) (xy -1.27 0)
 					)
 					(stroke
-						(width 0.254)
+						(width 0)
 						(type default)
 					)
 					(fill
@@ -167,11 +171,16 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "Switch:SW_Push"
-			(pin_numbers hide)
+			(pin_numbers
+				(hide yes)
+			)
 			(pin_names
-				(offset 1.016) hide)
+				(offset 1.016)
+				(hide yes)
+			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -252,10 +261,9 @@
 						(type none)
 					)
 				)
-				(polyline
-					(pts
-						(xy 2.54 1.27) (xy -2.54 1.27)
-					)
+				(circle
+					(center 2.032 0)
+					(radius 0.508)
 					(stroke
 						(width 0)
 						(type default)
@@ -264,9 +272,10 @@
 						(type none)
 					)
 				)
-				(circle
-					(center 2.032 0)
-					(radius 0.508)
+				(polyline
+					(pts
+						(xy 2.54 1.27) (xy -2.54 1.27)
+					)
 					(stroke
 						(width 0)
 						(type default)
@@ -312,6 +321,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 	)
 	(junction
@@ -355,12 +365,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0c7ec69d-0c34-4d34-82cc-c0f7179a358e")
-	)
-	(junction
-		(at 347.98 104.14)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0e564543-978c-4a8e-adf3-65a71c1764ff")
 	)
 	(junction
 		(at 322.58 114.3)
@@ -537,6 +541,12 @@
 		(uuid "4b335e08-1edd-46a9-b4e9-311fca2f4c70")
 	)
 	(junction
+		(at 347.98 104.14)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4bdd5930-2356-4539-bed8-57a9beb06ce8")
+	)
+	(junction
 		(at 281.94 82.55)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -589,6 +599,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6162320e-6467-481d-8ccc-972ef0f58bed")
+	)
+	(junction
+		(at 358.14 104.14)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "62ad1087-a866-4da2-94c0-f7909334338b")
 	)
 	(junction
 		(at 53.34 102.87)
@@ -859,12 +875,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bf3ce861-f800-4072-8c1d-57383d485255")
-	)
-	(junction
-		(at 358.14 104.14)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c27560e8-c3ad-4f3f-b420-9d5aeb2712a6")
 	)
 	(junction
 		(at 220.98 92.71)
@@ -1354,16 +1364,6 @@
 	)
 	(wire
 		(pts
-			(xy 358.14 104.14) (xy 358.14 124.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "12afe961-74e8-4139-89fa-30dd5286d046")
-	)
-	(wire
-		(pts
 			(xy 53.34 147.32) (xy 53.34 165.1)
 		)
 		(stroke
@@ -1501,16 +1501,6 @@
 			(type default)
 		)
 		(uuid "18c59d52-2167-48f6-a107-571a234e87b8")
-	)
-	(wire
-		(pts
-			(xy 347.98 104.14) (xy 347.98 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1ac48651-64b1-4813-803e-9c5d7fa0f31b")
 	)
 	(wire
 		(pts
@@ -2031,6 +2021,16 @@
 			(type default)
 		)
 		(uuid "4b523c4b-fb8a-4248-aea7-30451e26527f")
+	)
+	(wire
+		(pts
+			(xy 358.14 104.14) (xy 358.14 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4e495120-71df-4f5a-9ac4-328f885a0379")
 	)
 	(wire
 		(pts
@@ -2624,16 +2624,6 @@
 	)
 	(wire
 		(pts
-			(xy 394.97 81.28) (xy 394.97 82.55)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "79776f80-74d5-4d98-b648-0c7fc53f8445")
-	)
-	(wire
-		(pts
 			(xy 373.38 91.44) (xy 373.38 92.71)
 		)
 		(stroke
@@ -2704,6 +2694,16 @@
 	)
 	(wire
 		(pts
+			(xy 394.97 81.28) (xy 394.97 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "815f4170-00de-4153-85fa-68a78da02c9b")
+	)
+	(wire
+		(pts
 			(xy 358.14 102.87) (xy 394.97 102.87)
 		)
 		(stroke
@@ -2731,6 +2731,16 @@
 			(type default)
 		)
 		(uuid "8273c881-16be-4448-ba74-141dc56c639c")
+	)
+	(wire
+		(pts
+			(xy 347.98 104.14) (xy 347.98 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "827d9d19-8ff6-4991-9705-14614cbc2632")
 	)
 	(wire
 		(pts
@@ -3784,16 +3794,6 @@
 	)
 	(wire
 		(pts
-			(xy 384.81 81.28) (xy 373.38 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dc517893-3fdc-4dd8-865b-d386529dda43")
-	)
-	(wire
-		(pts
 			(xy 194.31 165.1) (xy 194.31 148.59)
 		)
 		(stroke
@@ -3851,6 +3851,16 @@
 			(type default)
 		)
 		(uuid "e3163aa8-88b2-43c0-88ef-f64a968b1255")
+	)
+	(wire
+		(pts
+			(xy 373.38 81.28) (xy 384.81 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e3790cdc-ee36-4350-8aba-ce8603c5b6a0")
 	)
 	(wire
 		(pts
@@ -4828,7 +4838,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0230c231-a7c4-4db4-a39e-50279f3c1e4a")
-		(property "Reference" "D62"
+		(property "Reference" "D64"
 			(at 375.92 151.1299 90)
 			(effects
 				(font
@@ -5092,7 +5102,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "06843168-24d7-4afa-a3b7-70d96ea730ce")
-		(property "Reference" "S46"
+		(property "Reference" "S47"
 			(at 149.86 120.65 0)
 			(effects
 				(font
@@ -5166,7 +5176,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "070f7857-461b-4b09-89fc-1506174accba")
-		(property "Reference" "D56"
+		(property "Reference" "D58"
 			(at 71.12 151.1299 90)
 			(effects
 				(font
@@ -5410,7 +5420,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "08184a5d-b8d0-47b6-90d5-3a36b44da77e")
-		(property "Reference" "D43"
+		(property "Reference" "D44"
 			(at 71.12 129.5399 90)
 			(effects
 				(font
@@ -5579,7 +5589,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "08c0c156-2a27-464a-9af8-626a275d34e6")
-		(property "Reference" "D42"
+		(property "Reference" "D43"
 			(at 45.72 129.5399 90)
 			(effects
 				(font
@@ -5886,7 +5896,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0e4545c3-8ff9-4c43-955c-43fb37f6ffe6")
-		(property "Reference" "D60"
+		(property "Reference" "D62"
 			(at 325.12 151.1299 90)
 			(effects
 				(font
@@ -5980,7 +5990,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0f6e997a-5ef9-48e4-98ac-9fbd5afdd5f3")
-		(property "Reference" "D58"
+		(property "Reference" "D60"
 			(at 198.12 151.1299 90)
 			(effects
 				(font
@@ -6149,7 +6159,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1014e9dc-e8df-404e-b48b-c755cb0e3593")
-		(property "Reference" "D51"
+		(property "Reference" "D52"
 			(at 274.32 129.5399 90)
 			(effects
 				(font
@@ -6406,7 +6416,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "17a92a21-fd83-4a15-87b7-d0eca93e76e7")
-		(property "Reference" "D47"
+		(property "Reference" "D48"
 			(at 172.72 129.5399 90)
 			(effects
 				(font
@@ -6501,7 +6511,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "186849ba-0910-4a95-aa64-f40f3c941404")
-		(property "Reference" "S43"
+		(property "Reference" "S44"
 			(at 73.66 120.65 0)
 			(effects
 				(font
@@ -7162,7 +7172,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 389.89 81.28 0)
+		(at 353.06 104.14 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7172,7 +7182,7 @@
 		(fields_autoplaced yes)
 		(uuid "24217219-edc4-4a28-830c-9abd45562fd6")
 		(property "Reference" "S28-2"
-			(at 389.89 73.66 0)
+			(at 353.06 96.52 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -7180,7 +7190,7 @@
 			)
 		)
 		(property "Value" "MX1A"
-			(at 389.89 76.2 0)
+			(at 353.06 99.06 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -7188,7 +7198,7 @@
 			)
 		)
 		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.50u_90deg"
-			(at 389.89 76.2 0)
+			(at 353.06 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7197,7 +7207,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 389.89 76.2 0)
+			(at 353.06 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7206,7 +7216,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 389.89 81.28 0)
+			(at 353.06 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7240,7 +7250,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2acae6d1-2b31-4c75-bf3b-d7e5f09ed35c")
-		(property "Reference" "S58"
+		(property "Reference" "S60"
 			(at 200.66 142.24 0)
 			(effects
 				(font
@@ -7672,7 +7682,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "31c000a4-4ebb-4001-aaf6-6a2650fdcc00")
-		(property "Reference" "S57"
+		(property "Reference" "S59"
 			(at 99.06 139.7 0)
 			(effects
 				(font
@@ -8052,7 +8062,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3bc0e3cb-26b9-43c3-b8d4-79f30dcc9809")
-		(property "Reference" "D61"
+		(property "Reference" "D63"
 			(at 349.25 151.1299 90)
 			(effects
 				(font
@@ -8310,7 +8320,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3fec036c-c2b3-4eea-ac76-fd58532868d1")
-		(property "Reference" "S61"
+		(property "Reference" "S63"
 			(at 353.06 139.7 0)
 			(effects
 				(font
@@ -8703,7 +8713,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4cebc847-44d5-4926-bf24-1c73e29290cb")
-		(property "Reference" "D49"
+		(property "Reference" "D50"
 			(at 223.52 129.5399 90)
 			(effects
 				(font
@@ -8798,7 +8808,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4f992833-4d16-4972-86c9-bcd1e3d76a56")
-		(property "Reference" "S51"
+		(property "Reference" "S52"
 			(at 276.86 120.65 0)
 			(effects
 				(font
@@ -9216,7 +9226,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5c850955-54e3-4e8f-89ca-c8f93f8a968e")
-		(property "Reference" "D52"
+		(property "Reference" "D53"
 			(at 299.72 129.5399 90)
 			(effects
 				(font
@@ -9404,7 +9414,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "632be85b-cb25-40a2-8141-28093baf64f9")
-		(property "Reference" "D50"
+		(property "Reference" "D51"
 			(at 248.92 129.5399 90)
 			(effects
 				(font
@@ -9499,7 +9509,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "63c1d75a-c738-404d-81f6-45d95c933c2d")
-		(property "Reference" "S50"
+		(property "Reference" "S51"
 			(at 251.46 120.65 0)
 			(effects
 				(font
@@ -9573,7 +9583,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "67e105d9-ca54-44cb-9242-d68103505807")
-		(property "Reference" "D59"
+		(property "Reference" "D61"
 			(at 299.72 151.1299 90)
 			(effects
 				(font
@@ -9912,7 +9922,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6ef772f9-3e56-4c68-9687-9d64045c8a31")
-		(property "Reference" "S59"
+		(property "Reference" "S61"
 			(at 302.26 142.24 0)
 			(effects
 				(font
@@ -10156,7 +10166,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "72c840a3-f64c-4342-82b9-8233875bd07c")
-		(property "Reference" "S48"
+		(property "Reference" "S49"
 			(at 200.66 120.65 0)
 			(effects
 				(font
@@ -10400,7 +10410,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7d6ebfe4-2d77-47d2-9c10-9472c5bbdcb0")
-		(property "Reference" "S56"
+		(property "Reference" "S58"
 			(at 73.66 139.7 0)
 			(effects
 				(font
@@ -10563,7 +10573,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "81af0fcc-f862-40db-8ecd-6a848006c29b")
-		(property "Reference" "S55"
+		(property "Reference" "S57"
 			(at 48.26 139.7 0)
 			(effects
 				(font
@@ -10638,7 +10648,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "822713ed-f04e-485c-9898-99a097ac78ff")
-		(property "Reference" "S52"
+		(property "Reference" "S53"
 			(at 302.26 120.65 0)
 			(effects
 				(font
@@ -11086,7 +11096,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 353.06 104.14 0)
+		(at 389.89 81.28 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11096,7 +11106,7 @@
 		(fields_autoplaced yes)
 		(uuid "8abfd7a0-5fe7-4be8-947b-b3b6088df848")
 		(property "Reference" "S41"
-			(at 353.06 99.06 0)
+			(at 389.89 76.2 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -11104,7 +11114,7 @@
 			)
 		)
 		(property "Value" "MX1A"
-			(at 353.06 101.6 0)
+			(at 389.89 78.74 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -11112,7 +11122,7 @@
 			)
 		)
 		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
-			(at 353.06 109.22 0)
+			(at 389.89 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11121,7 +11131,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 353.06 109.22 0)
+			(at 389.89 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11130,7 +11140,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 353.06 104.14 0)
+			(at 389.89 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11239,7 +11249,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "90b28b23-fb8d-4a48-a24b-744c119edab2")
-		(property "Reference" "S42"
+		(property "Reference" "S43"
 			(at 48.26 118.11 0)
 			(effects
 				(font
@@ -11464,7 +11474,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "931ebc6a-a615-493d-852e-5205dfb1da73")
-		(property "Reference" "S62"
+		(property "Reference" "S64"
 			(at 378.46 139.7 0)
 			(effects
 				(font
@@ -11864,7 +11874,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a0408ed0-0f86-4e39-8632-453afcfd3071")
-		(property "Reference" "D55"
+		(property "Reference" "D57"
 			(at 45.72 151.1299 90)
 			(effects
 				(font
@@ -13223,7 +13233,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "be8fd2d8-cfb0-4ca4-bf43-c6c2b38bf76c")
-		(property "Reference" "D46"
+		(property "Reference" "D47"
 			(at 147.32 129.5399 90)
 			(effects
 				(font
@@ -13318,7 +13328,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bef6c09f-ae8a-4401-86f2-28897c8d0be3")
-		(property "Reference" "S60"
+		(property "Reference" "S62"
 			(at 327.66 139.7 0)
 			(effects
 				(font
@@ -14288,7 +14298,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c899250c-f354-4a94-9d69-d690dd062efb")
-		(property "Reference" "D48"
+		(property "Reference" "D49"
 			(at 198.12 129.5399 90)
 			(effects
 				(font
@@ -14614,7 +14624,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d2207296-142f-4798-b376-dd00408f35fa")
-		(property "Reference" "D57"
+		(property "Reference" "D59"
 			(at 96.52 151.1299 90)
 			(effects
 				(font
@@ -15568,7 +15578,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f5bccdbf-c6c8-4938-bde8-efa3457a50d5")
-		(property "Reference" "S49"
+		(property "Reference" "S50"
 			(at 226.06 120.65 0)
 			(effects
 				(font
@@ -15956,7 +15966,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fc373cf8-a59f-4039-8354-f06e268d3bb5")
-		(property "Reference" "S47"
+		(property "Reference" "S48"
 			(at 175.26 120.65 0)
 			(effects
 				(font
