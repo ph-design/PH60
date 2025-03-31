@@ -1,0 +1,524 @@
+[kbplacer_plugin_action.py:65]: Plugin version: 0.12
+[kbplacer_plugin_action.py:66]: Python version: '3.11.5 (main, Aug 14 2024, 05:26:19) [MSC v.1939 64 bit (AMD64)]'
+[kbplacer_plugin_action.py:67]: KiCad version: 8.0.6 with 4.2.2 msw (phoenix) wxWidgets 3.2.6
+[kbplacer_dialog.py:585]: Language: en
+[kbplacer_plugin_action.py:75]: GUI state: {"layout_path": "D:\\PH60\\PCB_Rev2\\Multi\\keyboard-layout.json", "key_distance": [19.05, 19.05], "key_info": {"annotation_format": "S{}", "position_option": "Default", "position": {"x": 0.0, "y": 0.0, "orientation": 0.0, "side": "Front"}, "template_path": ""}, "enable_diode_placement": true, "route_switches_with_diodes": false, "optimize_diodes_orientation": false, "diode_info": {"annotation_format": "D{}", "position_option": "Custom", "position": {"x": -5.08, "y": 3.23, "orientation": 90.0, "side": "Back"}, "template_path": ""}, "additional_elements": [{"annotation_format": "ST{}", "position_option": "Custom", "position": {"x": 0.0, "y": 0.0, "orientation": 0.0, "side": "Front"}, "template_path": ""}], "route_rows_and_columns": false, "template_path": "", "generate_outline": false, "outline_delta": 0.0}
+[key_placer.py:361]: Set key 1U distance: 19050000/19050000
+[key_placer.py:123]: Switches by nets: defaultdict(<class 'list'>, {frozenset({'row_4', 'col_13'}): ['S64-2', 'S64'], frozenset({'row_4', 'col_12'}): ['S63-2', 'S63'], frozenset({'row_4', 'col_11'}): ['S62-2', 'S62'], frozenset({'row_4', 'col_10'}): ['S61'], frozenset({'col_6', 'row_4'}): ['S60-2', 'S60'], frozenset({'row_4', 'col_2'}): ['S59-2', 'S59'], frozenset({'col_1', 'row_4'}): ['S58-2', 'S58'], frozenset({'row_4', 'col_0'}): ['S57-2', 'S57'], frozenset({'row_3', 'col_13'}): ['S56'], frozenset({'row_3', 'col_12'}): ['S55-2', 'S55'], frozenset({'row_3', 'col_11'}): ['S54'], frozenset({'row_3', 'col_10'}): ['S53'], frozenset({'row_3', 'col_9'}): ['S52'], frozenset({'row_3', 'col_8'}): ['S51'], frozenset({'col_7', 'row_3'}): ['S50'], frozenset({'col_6', 'row_3'}): ['S49'], frozenset({'row_3', 'col_5'}): ['S48'], frozenset({'col_4', 'row_3'}): ['S47'], frozenset({'col_3', 'row_3'}): ['S46'], frozenset({'col_2', 'row_3'}): ['S45'], frozenset({'col_1', 'row_3'}): ['S44'], frozenset({'row_3', 'col_0'}): ['S43-2', 'S43'], frozenset({'row_2', 'col_13'}): ['S42-2', 'S42'], frozenset({'row_2', 'col_12'}): ['S41'], frozenset({'row_2', 'col_11'}): ['S40'], frozenset({'row_2', 'col_10'}): ['S39'], frozenset({'row_2', 'col_9'}): ['S38'], frozenset({'row_2', 'col_8'}): ['S37'], frozenset({'col_7', 'row_2'}): ['S36'], frozenset({'col_6', 'row_2'}): ['S35'], frozenset({'row_2', 'col_5'}): ['S34'], frozenset({'col_4', 'row_2'}): ['S33'], frozenset({'col_3', 'row_2'}): ['S32'], frozenset({'row_2', 'col_2'}): ['S31'], frozenset({'col_1', 'row_2'}): ['S30'], frozenset({'row_2', 'col_0'}): ['S29-2', 'S29'], frozenset({'col_13', 'row_1'}): ['S28-2', 'S28'], frozenset({'col_12', 'row_1'}): ['S27'], frozenset({'col_11', 'row_1'}): ['S26'], frozenset({'col_10', 'row_1'}): ['S25'], frozenset({'col_9', 'row_1'}): ['S24'], frozenset({'row_1', 'col_8'}): ['S23'], frozenset({'col_7', 'row_1'}): ['S22'], frozenset({'col_6', 'row_1'}): ['S21'], frozenset({'col_5', 'row_1'}): ['S20'], frozenset({'col_4', 'row_1'}): ['S19'], frozenset({'col_3', 'row_1'}): ['S18'], frozenset({'col_2', 'row_1'}): ['S17'], frozenset({'col_1', 'row_1'}): ['S16'], frozenset({'col_0', 'row_1'}): ['S15'], frozenset({'row_0', 'col_13'}): ['S14-2', 'S14'], frozenset({'col_12', 'row_0'}): ['S13'], frozenset({'row_0', 'col_11'}): ['S12'], frozenset({'row_0', 'col_10'}): ['S11'], frozenset({'row_0', 'col_9'}): ['S10'], frozenset({'col_8', 'row_0'}): ['S9'], frozenset({'col_7', 'row_0'}): ['S8'], frozenset({'col_6', 'row_0'}): ['S7'], frozenset({'row_0', 'col_5'}): ['S6'], frozenset({'col_4', 'row_0'}): ['S5'], frozenset({'col_3', 'row_0'}): ['S4'], frozenset({'col_2', 'row_0'}): ['S3'], frozenset({'col_1', 'row_0'}): ['S2'], frozenset({'row_0', 'col_0'}): ['S1']})
+[key_placer.py:127]: Diodes by switch: {'S64-2': ['D64'], 'S64': ['D64'], 'S63-2': ['D63'], 'S63': ['D63'], 'S62-2': ['D62'], 'S62': ['D62'], 'S61': ['D61'], 'S60-2': ['D60'], 'S60': ['D60'], 'S59-2': ['D59'], 'S59': ['D59'], 'S58-2': ['D58'], 'S58': ['D58'], 'S57-2': ['D57'], 'S57': ['D57'], 'S56': ['D56'], 'S55-2': ['D55'], 'S55': ['D55'], 'S54': ['D54'], 'S53': ['D53'], 'S52': ['D52'], 'S51': ['D51'], 'S50': ['D50'], 'S49': ['D49'], 'S48': ['D48'], 'S47': ['D47'], 'S46': ['D46'], 'S45': ['D45'], 'S44': ['D44'], 'S43-2': ['D43'], 'S43': ['D43'], 'S42-2': ['D42'], 'S42': ['D42'], 'S41': ['D41'], 'S40': ['D40'], 'S39': ['D39'], 'S38': ['D38'], 'S37': ['D37'], 'S36': ['D36'], 'S35': ['D35'], 'S34': ['D34'], 'S33': ['D33'], 'S32': ['D32'], 'S31': ['D31'], 'S30': ['D30'], 'S29-2': ['D29'], 'S29': ['D29'], 'S28-2': ['D28'], 'S28': ['D28'], 'S27': ['D27'], 'S26': ['D26'], 'S25': ['D25'], 'S24': ['D24'], 'S23': ['D23'], 'S22': ['D22'], 'S21': ['D21'], 'S20': ['D20'], 'S19': ['D19'], 'S18': ['D18'], 'S17': ['D17'], 'S16': ['D16'], 'S15': ['D15'], 'S14-2': ['D14'], 'S14': ['D14'], 'S13': ['D13'], 'S12': ['D12'], 'S11': ['D11'], 'S10': ['D10'], 'S9': ['D9'], 'S8': ['D8'], 'S7': ['D7'], 'S6': ['D6'], 'S5': ['D5'], 'S4': ['D4'], 'S3': ['D3'], 'S2': ['D2'], 'S1': ['D1']}
+[kle_serial.py:897]: User layout: [['¬\n`', '!\n1', '"\n2', '£\n3', '$\n4', '%\n5', '^\n6', '&\n7', '*\n8', '(\n9', ')\n0', '_\n-', '+\n=', {'w': 2}, 'Backspace'], [{'w': 1.5}, 'Tab', 'Q', 'W', 'E', 'R', 'T', 'Y', 'U', 'I', 'O', 'P', '{\n[', '}\n]', {'x': 0.25, 'w': 1.25, 'h': 2, 'w2': 1.5, 'h2': 1, 'x2': -0.25}, 'Enter'], [{'w': 1.75}, 'Caps Lock', 'A', 'S', 'D', 'F', 'G', 'H', 'J', 'K', 'L', ':\n;', "@\n'", '~\n#', {'a': 7}, ''], [{'a': 4, 'w': 1.25}, 'Shift', '|\n\\', 'Z', 'X', 'C', 'V', 'B', 'N', 'M', '<\n,', '>\n.', '?\n/', {'w': 1.75}, 'Shift', {'a': 7}, ''], [{'a': 4, 'w': 1.25}, 'Ctrl', {'w': 1.25}, 'Win', {'w': 1.25}, 'Alt', {'a': 7, 'w': 6.25}, '', {'a': 4, 'w': 1.25}, 'AltGr', {'w': 1.25}, 'Win', {'w': 1.25}, 'Menu', {'w': 1.25}, 'Ctrl']]
+[key_placer.py:661]: Layout offset: (28575000, 28575000)
+[board_modifier.py:85]: Setting S1 footprint position: (38100000, 38100000)
+[board_modifier.py:85]: Setting S2 footprint position: (57150000, 38100000)
+[board_modifier.py:85]: Setting S3 footprint position: (76200000, 38100000)
+[board_modifier.py:85]: Setting S4 footprint position: (95250000, 38100000)
+[board_modifier.py:85]: Setting S5 footprint position: (114300000, 38100000)
+[board_modifier.py:85]: Setting S6 footprint position: (133350000, 38100000)
+[board_modifier.py:85]: Setting S7 footprint position: (152400000, 38100000)
+[board_modifier.py:85]: Setting S8 footprint position: (171450000, 38100000)
+[board_modifier.py:85]: Setting S9 footprint position: (190500000, 38100000)
+[board_modifier.py:85]: Setting S10 footprint position: (209550000, 38100000)
+[board_modifier.py:85]: Setting S11 footprint position: (228600000, 38100000)
+[board_modifier.py:85]: Setting S12 footprint position: (247650000, 38100000)
+[board_modifier.py:85]: Setting S13 footprint position: (266700000, 38100000)
+[board_modifier.py:85]: Setting S14 footprint position: (295275000, 38100000)
+[board_modifier.py:85]: Setting S15 footprint position: (42862500, 57150000)
+[board_modifier.py:85]: Setting S16 footprint position: (66675000, 57150000)
+[board_modifier.py:85]: Setting S17 footprint position: (85725000, 57150000)
+[board_modifier.py:85]: Setting S18 footprint position: (104775000, 57150000)
+[board_modifier.py:85]: Setting S19 footprint position: (123825000, 57150000)
+[board_modifier.py:85]: Setting S20 footprint position: (142875000, 57150000)
+[board_modifier.py:85]: Setting S21 footprint position: (161925000, 57150000)
+[board_modifier.py:85]: Setting S22 footprint position: (180975000, 57150000)
+[board_modifier.py:85]: Setting S23 footprint position: (200025000, 57150000)
+[board_modifier.py:85]: Setting S24 footprint position: (219075000, 57150000)
+[board_modifier.py:85]: Setting S25 footprint position: (238125000, 57150000)
+[board_modifier.py:85]: Setting S26 footprint position: (257175000, 57150000)
+[board_modifier.py:85]: Setting S27 footprint position: (276225000, 57150000)
+[board_modifier.py:85]: Setting S28 footprint position: (302418750, 66675000)
+[board_modifier.py:85]: Setting S29 footprint position: (45243750, 76200000)
+[board_modifier.py:85]: Setting S30 footprint position: (71437500, 76200000)
+[board_modifier.py:85]: Setting S31 footprint position: (90487500, 76200000)
+[board_modifier.py:85]: Setting S32 footprint position: (109537500, 76200000)
+[board_modifier.py:85]: Setting S33 footprint position: (128587500, 76200000)
+[board_modifier.py:85]: Setting S34 footprint position: (147637500, 76200000)
+[board_modifier.py:85]: Setting S35 footprint position: (166687500, 76200000)
+[board_modifier.py:85]: Setting S36 footprint position: (185737500, 76200000)
+[board_modifier.py:85]: Setting S37 footprint position: (204787500, 76200000)
+[board_modifier.py:85]: Setting S38 footprint position: (223837500, 76200000)
+[board_modifier.py:85]: Setting S39 footprint position: (242887500, 76200000)
+[board_modifier.py:85]: Setting S40 footprint position: (261937500, 76200000)
+[board_modifier.py:85]: Setting S41 footprint position: (280987500, 76200000)
+[board_modifier.py:85]: Setting S42 footprint position: (300037500, 76200000)
+[board_modifier.py:85]: Setting S43 footprint position: (40481250, 95250000)
+[board_modifier.py:85]: Setting S44 footprint position: (61912500, 95250000)
+[board_modifier.py:85]: Setting S45 footprint position: (80962500, 95250000)
+[board_modifier.py:85]: Setting S46 footprint position: (100012500, 95250000)
+[board_modifier.py:85]: Setting S47 footprint position: (119062500, 95250000)
+[board_modifier.py:85]: Setting S48 footprint position: (138112500, 95250000)
+[board_modifier.py:85]: Setting S49 footprint position: (157162500, 95250000)
+[board_modifier.py:85]: Setting S50 footprint position: (176212500, 95250000)
+[board_modifier.py:85]: Setting S51 footprint position: (195262500, 95250000)
+[board_modifier.py:85]: Setting S52 footprint position: (214312500, 95250000)
+[board_modifier.py:85]: Setting S53 footprint position: (233362500, 95250000)
+[board_modifier.py:85]: Setting S54 footprint position: (252412500, 95250000)
+[board_modifier.py:85]: Setting S55 footprint position: (278606250, 95250000)
+[board_modifier.py:85]: Setting S56 footprint position: (304800000, 95250000)
+[board_modifier.py:85]: Setting S57 footprint position: (40481250, 114300000)
+[board_modifier.py:85]: Setting S58 footprint position: (64293750, 114300000)
+[board_modifier.py:85]: Setting S59 footprint position: (88106250, 114300000)
+[board_modifier.py:85]: Setting S60 footprint position: (159543750, 114300000)
+[board_modifier.py:85]: Setting S61 footprint position: (230981250, 114300000)
+[board_modifier.py:85]: Setting S62 footprint position: (254793750, 114300000)
+[board_modifier.py:85]: Setting S63 footprint position: (278606250, 114300000)
+[board_modifier.py:85]: Setting S64 footprint position: (302418750, 114300000)
+[key_placer.py:996]: Diode info: [ElementInfo(annotation_format='D{}', position_option=<PositionOption.CUSTOM: 'Custom'>, position=ElementPosition(x=-5.08, y=3.23, orientation=90.0, side=<Side.BACK: 'Back'>), template_path='')]
+[board_modifier.py:98]: Getting S1 footprint position: (38100000, 38100000)
+[board_modifier.py:85]: Setting D1 footprint position: (33020000, 41330000)
+[board_modifier.py:98]: Getting S2 footprint position: (57150000, 38100000)
+[board_modifier.py:85]: Setting D2 footprint position: (52070000, 41330000)
+[board_modifier.py:98]: Getting S3 footprint position: (76200000, 38100000)
+[board_modifier.py:85]: Setting D3 footprint position: (71120000, 41330000)
+[board_modifier.py:98]: Getting S4 footprint position: (95250000, 38100000)
+[board_modifier.py:85]: Setting D4 footprint position: (90170000, 41330000)
+[board_modifier.py:98]: Getting S5 footprint position: (114300000, 38100000)
+[board_modifier.py:85]: Setting D5 footprint position: (109220000, 41330000)
+[board_modifier.py:98]: Getting S6 footprint position: (133350000, 38100000)
+[board_modifier.py:85]: Setting D6 footprint position: (128270000, 41330000)
+[board_modifier.py:98]: Getting S7 footprint position: (152400000, 38100000)
+[board_modifier.py:85]: Setting D7 footprint position: (147320000, 41330000)
+[board_modifier.py:98]: Getting S8 footprint position: (171450000, 38100000)
+[board_modifier.py:85]: Setting D8 footprint position: (166370000, 41330000)
+[board_modifier.py:98]: Getting S9 footprint position: (190500000, 38100000)
+[board_modifier.py:85]: Setting D9 footprint position: (185420000, 41330000)
+[board_modifier.py:98]: Getting S10 footprint position: (209550000, 38100000)
+[board_modifier.py:85]: Setting D10 footprint position: (204470000, 41330000)
+[board_modifier.py:98]: Getting S11 footprint position: (228600000, 38100000)
+[board_modifier.py:85]: Setting D11 footprint position: (223520000, 41330000)
+[board_modifier.py:98]: Getting S12 footprint position: (247650000, 38100000)
+[board_modifier.py:85]: Setting D12 footprint position: (242570000, 41330000)
+[board_modifier.py:98]: Getting S13 footprint position: (266700000, 38100000)
+[board_modifier.py:85]: Setting D13 footprint position: (261620000, 41330000)
+[board_modifier.py:98]: Getting S14 footprint position: (295275000, 38100000)
+[board_modifier.py:85]: Setting D14 footprint position: (290195000, 41330000)
+[board_modifier.py:98]: Getting S14-2 footprint position: (-102185000, 88465000)
+[board_modifier.py:98]: Getting S15 footprint position: (42862500, 57150000)
+[board_modifier.py:85]: Setting D15 footprint position: (37782500, 60380000)
+[board_modifier.py:98]: Getting S16 footprint position: (66675000, 57150000)
+[board_modifier.py:85]: Setting D16 footprint position: (61595000, 60380000)
+[board_modifier.py:98]: Getting S17 footprint position: (85725000, 57150000)
+[board_modifier.py:85]: Setting D17 footprint position: (80645000, 60380000)
+[board_modifier.py:98]: Getting S18 footprint position: (104775000, 57150000)
+[board_modifier.py:85]: Setting D18 footprint position: (99695000, 60380000)
+[board_modifier.py:98]: Getting S19 footprint position: (123825000, 57150000)
+[board_modifier.py:85]: Setting D19 footprint position: (118745000, 60380000)
+[board_modifier.py:98]: Getting S20 footprint position: (142875000, 57150000)
+[board_modifier.py:85]: Setting D20 footprint position: (137795000, 60380000)
+[board_modifier.py:98]: Getting S21 footprint position: (161925000, 57150000)
+[board_modifier.py:85]: Setting D21 footprint position: (156845000, 60380000)
+[board_modifier.py:98]: Getting S22 footprint position: (180975000, 57150000)
+[board_modifier.py:85]: Setting D22 footprint position: (175895000, 60380000)
+[board_modifier.py:98]: Getting S23 footprint position: (200025000, 57150000)
+[board_modifier.py:85]: Setting D23 footprint position: (194945000, 60380000)
+[board_modifier.py:98]: Getting S24 footprint position: (219075000, 57150000)
+[board_modifier.py:85]: Setting D24 footprint position: (213995000, 60380000)
+[board_modifier.py:98]: Getting S25 footprint position: (238125000, 57150000)
+[board_modifier.py:85]: Setting D25 footprint position: (233045000, 60380000)
+[board_modifier.py:98]: Getting S26 footprint position: (257175000, 57150000)
+[board_modifier.py:85]: Setting D26 footprint position: (252095000, 60380000)
+[board_modifier.py:98]: Getting S27 footprint position: (276225000, 57150000)
+[board_modifier.py:85]: Setting D27 footprint position: (271145000, 60380000)
+[board_modifier.py:98]: Getting S28 footprint position: (302418750, 66675000)
+[board_modifier.py:85]: Setting D28 footprint position: (297338750, 69905000)
+[board_modifier.py:98]: Getting S28-2 footprint position: (-102185000, 104015000)
+[board_modifier.py:98]: Getting S29 footprint position: (45243750, 76200000)
+[board_modifier.py:85]: Setting D29 footprint position: (40163750, 79430000)
+[board_modifier.py:98]: Getting S29-2 footprint position: (-85550000, -51485000)
+[board_modifier.py:98]: Getting S30 footprint position: (71437500, 76200000)
+[board_modifier.py:85]: Setting D30 footprint position: (66357500, 79430000)
+[board_modifier.py:98]: Getting S31 footprint position: (90487500, 76200000)
+[board_modifier.py:85]: Setting D31 footprint position: (85407500, 79430000)
+[board_modifier.py:98]: Getting S32 footprint position: (109537500, 76200000)
+[board_modifier.py:85]: Setting D32 footprint position: (104457500, 79430000)
+[board_modifier.py:98]: Getting S33 footprint position: (128587500, 76200000)
+[board_modifier.py:85]: Setting D33 footprint position: (123507500, 79430000)
+[board_modifier.py:98]: Getting S34 footprint position: (147637500, 76200000)
+[board_modifier.py:85]: Setting D34 footprint position: (142557500, 79430000)
+[board_modifier.py:98]: Getting S35 footprint position: (166687500, 76200000)
+[board_modifier.py:85]: Setting D35 footprint position: (161607500, 79430000)
+[board_modifier.py:98]: Getting S36 footprint position: (185737500, 76200000)
+[board_modifier.py:85]: Setting D36 footprint position: (180657500, 79430000)
+[board_modifier.py:98]: Getting S37 footprint position: (204787500, 76200000)
+[board_modifier.py:85]: Setting D37 footprint position: (199707500, 79430000)
+[board_modifier.py:98]: Getting S38 footprint position: (223837500, 76200000)
+[board_modifier.py:85]: Setting D38 footprint position: (218757500, 79430000)
+[board_modifier.py:98]: Getting S39 footprint position: (242887500, 76200000)
+[board_modifier.py:85]: Setting D39 footprint position: (237807500, 79430000)
+[board_modifier.py:98]: Getting S40 footprint position: (261937500, 76200000)
+[board_modifier.py:85]: Setting D40 footprint position: (256857500, 79430000)
+[board_modifier.py:98]: Getting S41 footprint position: (280987500, 76200000)
+[board_modifier.py:85]: Setting D41 footprint position: (275907500, 79430000)
+[board_modifier.py:98]: Getting S42 footprint position: (300037500, 76200000)
+[board_modifier.py:85]: Setting D42 footprint position: (294957500, 79430000)
+[board_modifier.py:98]: Getting S42-2 footprint position: (-85550000, -35935000)
+[board_modifier.py:98]: Getting S43 footprint position: (40481250, 95250000)
+[board_modifier.py:85]: Setting D43 footprint position: (35401250, 98480000)
+[board_modifier.py:98]: Getting S43-2 footprint position: (-85550000, -20385000)
+[board_modifier.py:98]: Getting S44 footprint position: (61912500, 95250000)
+[board_modifier.py:85]: Setting D44 footprint position: (56832500, 98480000)
+[board_modifier.py:98]: Getting S45 footprint position: (80962500, 95250000)
+[board_modifier.py:85]: Setting D45 footprint position: (75882500, 98480000)
+[board_modifier.py:98]: Getting S46 footprint position: (100012500, 95250000)
+[board_modifier.py:85]: Setting D46 footprint position: (94932500, 98480000)
+[board_modifier.py:98]: Getting S47 footprint position: (119062500, 95250000)
+[board_modifier.py:85]: Setting D47 footprint position: (113982500, 98480000)
+[board_modifier.py:98]: Getting S48 footprint position: (138112500, 95250000)
+[board_modifier.py:85]: Setting D48 footprint position: (133032500, 98480000)
+[board_modifier.py:98]: Getting S49 footprint position: (157162500, 95250000)
+[board_modifier.py:85]: Setting D49 footprint position: (152082500, 98480000)
+[board_modifier.py:98]: Getting S50 footprint position: (176212500, 95250000)
+[board_modifier.py:85]: Setting D50 footprint position: (171132500, 98480000)
+[board_modifier.py:98]: Getting S51 footprint position: (195262500, 95250000)
+[board_modifier.py:85]: Setting D51 footprint position: (190182500, 98480000)
+[board_modifier.py:98]: Getting S52 footprint position: (214312500, 95250000)
+[board_modifier.py:85]: Setting D52 footprint position: (209232500, 98480000)
+[board_modifier.py:98]: Getting S53 footprint position: (233362500, 95250000)
+[board_modifier.py:85]: Setting D53 footprint position: (228282500, 98480000)
+[board_modifier.py:98]: Getting S54 footprint position: (252412500, 95250000)
+[board_modifier.py:85]: Setting D54 footprint position: (247332500, 98480000)
+[board_modifier.py:98]: Getting S55 footprint position: (278606250, 95250000)
+[board_modifier.py:85]: Setting D55 footprint position: (273526250, 98480000)
+[board_modifier.py:98]: Getting S55-2 footprint position: (-85550000, -4835000)
+[board_modifier.py:98]: Getting S56 footprint position: (304800000, 95250000)
+[board_modifier.py:85]: Setting D56 footprint position: (299720000, 98480000)
+[board_modifier.py:98]: Getting S57 footprint position: (40481250, 114300000)
+[board_modifier.py:85]: Setting D57 footprint position: (35401250, 117530000)
+[board_modifier.py:98]: Getting S57-2 footprint position: (-85550000, 10715000)
+[board_modifier.py:98]: Getting S58 footprint position: (64293750, 114300000)
+[board_modifier.py:85]: Setting D58 footprint position: (59213750, 117530000)
+[board_modifier.py:98]: Getting S58-2 footprint position: (-85550000, 26265000)
+[board_modifier.py:98]: Getting S59 footprint position: (88106250, 114300000)
+[board_modifier.py:85]: Setting D59 footprint position: (83026250, 117530000)
+[board_modifier.py:98]: Getting S59-2 footprint position: (-85550000, 41815000)
+[board_modifier.py:98]: Getting S60 footprint position: (159543750, 114300000)
+[board_modifier.py:85]: Setting D60 footprint position: (154463750, 117530000)
+[board_modifier.py:98]: Getting S60-2 footprint position: (-85550000, 57365000)
+[board_modifier.py:98]: Getting S61 footprint position: (230981250, 114300000)
+[board_modifier.py:85]: Setting D61 footprint position: (225901250, 117530000)
+[board_modifier.py:98]: Getting S62 footprint position: (254793750, 114300000)
+[board_modifier.py:85]: Setting D62 footprint position: (249713750, 117530000)
+[board_modifier.py:98]: Getting S62-2 footprint position: (-85550000, 72915000)
+[board_modifier.py:98]: Getting S63 footprint position: (278606250, 114300000)
+[board_modifier.py:85]: Setting D63 footprint position: (273526250, 117530000)
+[board_modifier.py:98]: Getting S63-2 footprint position: (-85550000, 88465000)
+[board_modifier.py:98]: Getting S64 footprint position: (302418750, 114300000)
+[board_modifier.py:85]: Setting D64 footprint position: (297338750, 117530000)
+[board_modifier.py:98]: Getting S64-2 footprint position: (-85550000, 104015000)
+[key_placer.py:774]: Placing additional elements for S64-2
+[board_modifier.py:98]: Getting S64-2 footprint position: (-85550000, 104015000)
+[board_modifier.py:75]: Searching for optional ST64-2 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S64
+[board_modifier.py:98]: Getting S64 footprint position: (302418750, 114300000)
+[board_modifier.py:75]: Searching for optional ST64 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S63-2
+[board_modifier.py:98]: Getting S63-2 footprint position: (-85550000, 88465000)
+[board_modifier.py:75]: Searching for optional ST63-2 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S63
+[board_modifier.py:98]: Getting S63 footprint position: (278606250, 114300000)
+[board_modifier.py:75]: Searching for optional ST63 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S62-2
+[board_modifier.py:98]: Getting S62-2 footprint position: (-85550000, 72915000)
+[board_modifier.py:75]: Searching for optional ST62-2 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S62
+[board_modifier.py:98]: Getting S62 footprint position: (254793750, 114300000)
+[board_modifier.py:75]: Searching for optional ST62 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S61
+[board_modifier.py:98]: Getting S61 footprint position: (230981250, 114300000)
+[board_modifier.py:75]: Searching for optional ST61 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S60-2
+[board_modifier.py:98]: Getting S60-2 footprint position: (-85550000, 57365000)
+[board_modifier.py:75]: Searching for optional ST60-2 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S60
+[board_modifier.py:98]: Getting S60 footprint position: (159543750, 114300000)
+[board_modifier.py:75]: Searching for optional ST60 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S59-2
+[board_modifier.py:98]: Getting S59-2 footprint position: (-85550000, 41815000)
+[board_modifier.py:75]: Searching for optional ST59-2 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S59
+[board_modifier.py:98]: Getting S59 footprint position: (88106250, 114300000)
+[board_modifier.py:75]: Searching for optional ST59 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S58-2
+[board_modifier.py:98]: Getting S58-2 footprint position: (-85550000, 26265000)
+[board_modifier.py:75]: Searching for optional ST58-2 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S58
+[board_modifier.py:98]: Getting S58 footprint position: (64293750, 114300000)
+[board_modifier.py:75]: Searching for optional ST58 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S57-2
+[board_modifier.py:98]: Getting S57-2 footprint position: (-85550000, 10715000)
+[board_modifier.py:75]: Searching for optional ST57-2 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S57
+[board_modifier.py:98]: Getting S57 footprint position: (40481250, 114300000)
+[board_modifier.py:75]: Searching for optional ST57 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S56
+[board_modifier.py:98]: Getting S56 footprint position: (304800000, 95250000)
+[board_modifier.py:75]: Searching for optional ST56 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S55-2
+[board_modifier.py:98]: Getting S55-2 footprint position: (-85550000, -4835000)
+[board_modifier.py:75]: Searching for optional ST55-2 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S55
+[board_modifier.py:98]: Getting S55 footprint position: (278606250, 95250000)
+[board_modifier.py:75]: Searching for optional ST55 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S54
+[board_modifier.py:98]: Getting S54 footprint position: (252412500, 95250000)
+[board_modifier.py:75]: Searching for optional ST54 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S53
+[board_modifier.py:98]: Getting S53 footprint position: (233362500, 95250000)
+[board_modifier.py:75]: Searching for optional ST53 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S52
+[board_modifier.py:98]: Getting S52 footprint position: (214312500, 95250000)
+[board_modifier.py:75]: Searching for optional ST52 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S51
+[board_modifier.py:98]: Getting S51 footprint position: (195262500, 95250000)
+[board_modifier.py:75]: Searching for optional ST51 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S50
+[board_modifier.py:98]: Getting S50 footprint position: (176212500, 95250000)
+[board_modifier.py:75]: Searching for optional ST50 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S49
+[board_modifier.py:98]: Getting S49 footprint position: (157162500, 95250000)
+[board_modifier.py:75]: Searching for optional ST49 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S48
+[board_modifier.py:98]: Getting S48 footprint position: (138112500, 95250000)
+[board_modifier.py:75]: Searching for optional ST48 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S47
+[board_modifier.py:98]: Getting S47 footprint position: (119062500, 95250000)
+[board_modifier.py:75]: Searching for optional ST47 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S46
+[board_modifier.py:98]: Getting S46 footprint position: (100012500, 95250000)
+[board_modifier.py:75]: Searching for optional ST46 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S45
+[board_modifier.py:98]: Getting S45 footprint position: (80962500, 95250000)
+[board_modifier.py:75]: Searching for optional ST45 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S44
+[board_modifier.py:98]: Getting S44 footprint position: (61912500, 95250000)
+[board_modifier.py:75]: Searching for optional ST44 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S43-2
+[board_modifier.py:98]: Getting S43-2 footprint position: (-85550000, -20385000)
+[board_modifier.py:75]: Searching for optional ST43-2 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S43
+[board_modifier.py:98]: Getting S43 footprint position: (40481250, 95250000)
+[board_modifier.py:75]: Searching for optional ST43 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S42-2
+[board_modifier.py:98]: Getting S42-2 footprint position: (-85550000, -35935000)
+[board_modifier.py:75]: Searching for optional ST42-2 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S42
+[board_modifier.py:98]: Getting S42 footprint position: (300037500, 76200000)
+[board_modifier.py:75]: Searching for optional ST42 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S41
+[board_modifier.py:98]: Getting S41 footprint position: (280987500, 76200000)
+[board_modifier.py:75]: Searching for optional ST41 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S40
+[board_modifier.py:98]: Getting S40 footprint position: (261937500, 76200000)
+[board_modifier.py:75]: Searching for optional ST40 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S39
+[board_modifier.py:98]: Getting S39 footprint position: (242887500, 76200000)
+[board_modifier.py:75]: Searching for optional ST39 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S38
+[board_modifier.py:98]: Getting S38 footprint position: (223837500, 76200000)
+[board_modifier.py:75]: Searching for optional ST38 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S37
+[board_modifier.py:98]: Getting S37 footprint position: (204787500, 76200000)
+[board_modifier.py:75]: Searching for optional ST37 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S36
+[board_modifier.py:98]: Getting S36 footprint position: (185737500, 76200000)
+[board_modifier.py:75]: Searching for optional ST36 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S35
+[board_modifier.py:98]: Getting S35 footprint position: (166687500, 76200000)
+[board_modifier.py:75]: Searching for optional ST35 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S34
+[board_modifier.py:98]: Getting S34 footprint position: (147637500, 76200000)
+[board_modifier.py:75]: Searching for optional ST34 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S33
+[board_modifier.py:98]: Getting S33 footprint position: (128587500, 76200000)
+[board_modifier.py:75]: Searching for optional ST33 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S32
+[board_modifier.py:98]: Getting S32 footprint position: (109537500, 76200000)
+[board_modifier.py:75]: Searching for optional ST32 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S31
+[board_modifier.py:98]: Getting S31 footprint position: (90487500, 76200000)
+[board_modifier.py:75]: Searching for optional ST31 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S30
+[board_modifier.py:98]: Getting S30 footprint position: (71437500, 76200000)
+[board_modifier.py:75]: Searching for optional ST30 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S29-2
+[board_modifier.py:98]: Getting S29-2 footprint position: (-85550000, -51485000)
+[board_modifier.py:75]: Searching for optional ST29-2 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S29
+[board_modifier.py:98]: Getting S29 footprint position: (45243750, 76200000)
+[board_modifier.py:75]: Searching for optional ST29 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S28-2
+[board_modifier.py:98]: Getting S28-2 footprint position: (-102185000, 104015000)
+[board_modifier.py:75]: Searching for optional ST28-2 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S28
+[board_modifier.py:98]: Getting S28 footprint position: (302418750, 66675000)
+[board_modifier.py:75]: Searching for optional ST28 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S27
+[board_modifier.py:98]: Getting S27 footprint position: (276225000, 57150000)
+[board_modifier.py:75]: Searching for optional ST27 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S26
+[board_modifier.py:98]: Getting S26 footprint position: (257175000, 57150000)
+[board_modifier.py:75]: Searching for optional ST26 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S25
+[board_modifier.py:98]: Getting S25 footprint position: (238125000, 57150000)
+[board_modifier.py:75]: Searching for optional ST25 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S24
+[board_modifier.py:98]: Getting S24 footprint position: (219075000, 57150000)
+[board_modifier.py:75]: Searching for optional ST24 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S23
+[board_modifier.py:98]: Getting S23 footprint position: (200025000, 57150000)
+[board_modifier.py:75]: Searching for optional ST23 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S22
+[board_modifier.py:98]: Getting S22 footprint position: (180975000, 57150000)
+[board_modifier.py:75]: Searching for optional ST22 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S21
+[board_modifier.py:98]: Getting S21 footprint position: (161925000, 57150000)
+[board_modifier.py:75]: Searching for optional ST21 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S20
+[board_modifier.py:98]: Getting S20 footprint position: (142875000, 57150000)
+[board_modifier.py:75]: Searching for optional ST20 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S19
+[board_modifier.py:98]: Getting S19 footprint position: (123825000, 57150000)
+[board_modifier.py:75]: Searching for optional ST19 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S18
+[board_modifier.py:98]: Getting S18 footprint position: (104775000, 57150000)
+[board_modifier.py:75]: Searching for optional ST18 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S17
+[board_modifier.py:98]: Getting S17 footprint position: (85725000, 57150000)
+[board_modifier.py:75]: Searching for optional ST17 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S16
+[board_modifier.py:98]: Getting S16 footprint position: (66675000, 57150000)
+[board_modifier.py:75]: Searching for optional ST16 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S15
+[board_modifier.py:98]: Getting S15 footprint position: (42862500, 57150000)
+[board_modifier.py:75]: Searching for optional ST15 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S14-2
+[board_modifier.py:98]: Getting S14-2 footprint position: (-102185000, 88465000)
+[board_modifier.py:75]: Searching for optional ST14-2 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S14
+[board_modifier.py:98]: Getting S14 footprint position: (295275000, 38100000)
+[board_modifier.py:75]: Searching for optional ST14 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S13
+[board_modifier.py:98]: Getting S13 footprint position: (266700000, 38100000)
+[board_modifier.py:75]: Searching for optional ST13 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S12
+[board_modifier.py:98]: Getting S12 footprint position: (247650000, 38100000)
+[board_modifier.py:75]: Searching for optional ST12 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S11
+[board_modifier.py:98]: Getting S11 footprint position: (228600000, 38100000)
+[board_modifier.py:75]: Searching for optional ST11 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S10
+[board_modifier.py:98]: Getting S10 footprint position: (209550000, 38100000)
+[board_modifier.py:75]: Searching for optional ST10 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S9
+[board_modifier.py:98]: Getting S9 footprint position: (190500000, 38100000)
+[board_modifier.py:75]: Searching for optional ST9 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S8
+[board_modifier.py:98]: Getting S8 footprint position: (171450000, 38100000)
+[board_modifier.py:75]: Searching for optional ST8 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S7
+[board_modifier.py:98]: Getting S7 footprint position: (152400000, 38100000)
+[board_modifier.py:75]: Searching for optional ST7 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S6
+[board_modifier.py:98]: Getting S6 footprint position: (133350000, 38100000)
+[board_modifier.py:75]: Searching for optional ST6 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S5
+[board_modifier.py:98]: Getting S5 footprint position: (114300000, 38100000)
+[board_modifier.py:75]: Searching for optional ST5 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S4
+[board_modifier.py:98]: Getting S4 footprint position: (95250000, 38100000)
+[board_modifier.py:75]: Searching for optional ST4 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S3
+[board_modifier.py:98]: Getting S3 footprint position: (76200000, 38100000)
+[board_modifier.py:75]: Searching for optional ST3 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S2
+[board_modifier.py:98]: Getting S2 footprint position: (57150000, 38100000)
+[board_modifier.py:75]: Searching for optional ST2 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
+[key_placer.py:774]: Placing additional elements for S1
+[board_modifier.py:98]: Getting S1 footprint position: (38100000, 38100000)
+[board_modifier.py:75]: Searching for optional ST1 footprint in D:/PH60/PCB_Rev2/Multi/PH60_Rev2.kicad_pcb
+[board_modifier.py:80]: Footprint not found
