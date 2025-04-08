@@ -1151,7 +1151,7 @@
 		)
 		(uuid "fbb75112-9da4-4b2a-a244-962955f5b97b")
 	)
-	(global_label "DIN"
+	(global_label "RGB_IN"
 		(shape input)
 		(at 30.48 57.15 180)
 		(fields_autoplaced yes)
@@ -1161,9 +1161,9 @@
 			)
 			(justify right)
 		)
-		(uuid "d2097377-87a9-4acd-8e27-812c6e9fb494")
+		(uuid "e169f096-36c4-448f-8fe3-d29c96b4b1cf")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 24.2895 57.15 0)
+			(at 20.7819 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1265,7 +1265,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:SK6812-MINI-E"
+		(property "Footprint" "RGB:ws2812B_6028_FIX"
 			(at 128.27 77.47 0)
 			(effects
 				(font
@@ -1671,7 +1671,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:SK6812-MINI-E"
+		(property "Footprint" "RGB:ws2812B_6028_FIX"
 			(at 62.23 120.65 0)
 			(effects
 				(font
@@ -1747,7 +1747,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:SK6812-MINI-E"
+		(property "Footprint" "RGB:ws2812B_6028_FIX"
 			(at 196.85 133.35 0)
 			(effects
 				(font
@@ -2219,7 +2219,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:SK6812-MINI-E"
+		(property "Footprint" "RGB:ws2812B_6028_FIX"
 			(at 153.67 64.77 0)
 			(effects
 				(font
@@ -2493,7 +2493,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:SK6812-MINI-E"
+		(property "Footprint" "RGB:ws2812B_6028_FIX"
 			(at 290.83 64.77 0)
 			(effects
 				(font
@@ -2833,7 +2833,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:SK6812-MINI-E"
+		(property "Footprint" "RGB:ws2812B_6028_FIX"
 			(at 265.43 77.47 0)
 			(effects
 				(font
@@ -3107,7 +3107,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:SK6812-MINI-E"
+		(property "Footprint" "RGB:ws2812B_6028_FIX"
 			(at 219.71 77.47 0)
 			(effects
 				(font
@@ -3183,7 +3183,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:SK6812-MINI-E"
+		(property "Footprint" "RGB:ws2812B_6028_FIX"
 			(at 267.97 120.65 0)
 			(effects
 				(font
@@ -3259,7 +3259,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:SK6812-MINI-E"
+		(property "Footprint" "RGB:ws2812B_6028_FIX"
 			(at 288.29 77.47 0)
 			(effects
 				(font
@@ -3335,7 +3335,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:SK6812-MINI-E"
+		(property "Footprint" "RGB:ws2812B_6028_FIX"
 			(at 199.39 64.77 0)
 			(effects
 				(font
@@ -3477,7 +3477,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:SK6812-MINI-E"
+		(property "Footprint" "RGB:ws2812B_6028_FIX"
 			(at 176.53 64.77 0)
 			(effects
 				(font
@@ -3553,7 +3553,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:SK6812-MINI-E"
+		(property "Footprint" "RGB:ws2812B_6028_FIX"
 			(at 130.81 120.65 0)
 			(effects
 				(font
@@ -3629,7 +3629,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:SK6812-MINI-E"
+		(property "Footprint" "RGB:ws2812B_6028_FIX"
 			(at 313.69 64.77 0)
 			(effects
 				(font
@@ -4035,7 +4035,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:SK6812-MINI-E"
+		(property "Footprint" "RGB:ws2812B_6028_FIX"
 			(at 356.87 133.35 0)
 			(effects
 				(font
@@ -4177,7 +4177,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:SK6812-MINI-E"
+		(property "Footprint" "RGB:ws2812B_6028_FIX"
 			(at 151.13 133.35 0)
 			(effects
 				(font
@@ -4451,7 +4451,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:SK6812-MINI-E"
+		(property "Footprint" "RGB:ws2812B_6028_FIX"
 			(at 128.27 133.35 0)
 			(effects
 				(font
@@ -4527,7 +4527,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:SK6812-MINI-E"
+		(property "Footprint" "RGB:ws2812B_6028_FIX"
 			(at 288.29 133.35 0)
 			(effects
 				(font
@@ -4867,7 +4867,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:SK6812-MINI-E"
+		(property "Footprint" "RGB:ws2812B_6028_FIX"
 			(at 151.13 77.47 0)
 			(effects
 				(font
@@ -5141,7 +5141,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:SK6812-MINI-E"
+		(property "Footprint" "RGB:ws2812B_6028_FIX"
 			(at 311.15 133.35 0)
 			(effects
 				(font
@@ -5217,7 +5217,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:SK6812-MINI-E"
+		(property "Footprint" "RGB:ws2812B_6028_FIX"
 			(at 356.87 77.47 0)
 			(effects
 				(font
@@ -5293,7 +5293,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:SK6812-MINI-E"
+		(property "Footprint" "RGB:ws2812B_6028_FIX"
 			(at 59.69 77.47 0)
 			(effects
 				(font
@@ -5831,7 +5831,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:SK6812-MINI-E"
+		(property "Footprint" "RGB:ws2812B_6028_FIX"
 			(at 265.43 133.35 0)
 			(effects
 				(font
@@ -5907,7 +5907,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:SK6812-MINI-E"
+		(property "Footprint" "RGB:ws2812B_6028_FIX"
 			(at 242.57 133.35 0)
 			(effects
 				(font
@@ -6181,7 +6181,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:SK6812-MINI-E"
+		(property "Footprint" "RGB:ws2812B_6028_FIX"
 			(at 222.25 120.65 0)
 			(effects
 				(font
@@ -6785,7 +6785,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:SK6812-MINI-E"
+		(property "Footprint" "RGB:ws2812B_6028_FIX"
 			(at 85.09 64.77 0)
 			(effects
 				(font
@@ -6861,7 +6861,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:SK6812-MINI-E"
+		(property "Footprint" "RGB:ws2812B_6028_FIX"
 			(at 379.73 133.35 0)
 			(effects
 				(font
@@ -7003,7 +7003,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:SK6812-MINI-E"
+		(property "Footprint" "RGB:ws2812B_6028_FIX"
 			(at 359.41 64.77 0)
 			(effects
 				(font
@@ -8003,7 +8003,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:SK6812-MINI-E"
+		(property "Footprint" "RGB:ws2812B_6028_FIX"
 			(at 379.73 77.47 0)
 			(effects
 				(font
@@ -8145,7 +8145,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:SK6812-MINI-E"
+		(property "Footprint" "RGB:ws2812B_6028_FIX"
 			(at 39.37 120.65 0)
 			(effects
 				(font
@@ -8221,7 +8221,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:SK6812-MINI-E"
+		(property "Footprint" "RGB:ws2812B_6028_FIX"
 			(at 153.67 120.65 0)
 			(effects
 				(font
@@ -8693,7 +8693,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:SK6812-MINI-E"
+		(property "Footprint" "RGB:ws2812B_6028_FIX"
 			(at 105.41 133.35 0)
 			(effects
 				(font
@@ -8769,7 +8769,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:SK6812-MINI-E"
+		(property "Footprint" "RGB:ws2812B_6028_FIX"
 			(at 85.09 120.65 0)
 			(effects
 				(font
@@ -8911,7 +8911,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:SK6812-MINI-E"
+		(property "Footprint" "RGB:ws2812B_6028_FIX"
 			(at 196.85 77.47 0)
 			(effects
 				(font
@@ -9185,7 +9185,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:SK6812-MINI-E"
+		(property "Footprint" "RGB:ws2812B_6028_FIX"
 			(at 82.55 77.47 0)
 			(effects
 				(font
@@ -9459,7 +9459,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:SK6812-MINI-E"
+		(property "Footprint" "RGB:ws2812B_6028_FIX"
 			(at 334.01 133.35 0)
 			(effects
 				(font
@@ -9535,7 +9535,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:SK6812-MINI-E"
+		(property "Footprint" "RGB:ws2812B_6028_FIX"
 			(at 336.55 64.77 0)
 			(effects
 				(font
@@ -9611,7 +9611,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:SK6812-MINI-E"
+		(property "Footprint" "RGB:ws2812B_6028_FIX"
 			(at 245.11 64.77 0)
 			(effects
 				(font
@@ -9687,7 +9687,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:SK6812-MINI-E"
+		(property "Footprint" "RGB:ws2812B_6028_FIX"
 			(at 39.37 64.77 0)
 			(effects
 				(font
@@ -9895,7 +9895,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:SK6812-MINI-E"
+		(property "Footprint" "RGB:ws2812B_6028_FIX"
 			(at 173.99 77.47 0)
 			(effects
 				(font
@@ -10169,7 +10169,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:SK6812-MINI-E"
+		(property "Footprint" "RGB:ws2812B_6028_FIX"
 			(at 336.55 120.65 0)
 			(effects
 				(font
@@ -10443,7 +10443,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:SK6812-MINI-E"
+		(property "Footprint" "RGB:ws2812B_6028_FIX"
 			(at 107.95 64.77 0)
 			(effects
 				(font
@@ -10585,7 +10585,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:SK6812-MINI-E"
+		(property "Footprint" "RGB:ws2812B_6028_FIX"
 			(at 219.71 133.35 0)
 			(effects
 				(font
@@ -10661,7 +10661,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:SK6812-MINI-E"
+		(property "Footprint" "RGB:ws2812B_6028_FIX"
 			(at 105.41 77.47 0)
 			(effects
 				(font
@@ -10737,7 +10737,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:SK6812-MINI-E"
+		(property "Footprint" "RGB:ws2812B_6028_FIX"
 			(at 176.53 120.65 0)
 			(effects
 				(font
@@ -10945,7 +10945,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:SK6812-MINI-E"
+		(property "Footprint" "RGB:ws2812B_6028_FIX"
 			(at 242.57 77.47 0)
 			(effects
 				(font
@@ -11087,7 +11087,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:SK6812-MINI-E"
+		(property "Footprint" "RGB:ws2812B_6028_FIX"
 			(at 267.97 64.77 0)
 			(effects
 				(font
@@ -11163,7 +11163,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:SK6812-MINI-E"
+		(property "Footprint" "RGB:ws2812B_6028_FIX"
 			(at 359.41 120.65 0)
 			(effects
 				(font
@@ -11437,7 +11437,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:SK6812-MINI-E"
+		(property "Footprint" "RGB:ws2812B_6028_FIX"
 			(at 311.15 77.47 0)
 			(effects
 				(font
@@ -11909,7 +11909,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:SK6812-MINI-E"
+		(property "Footprint" "RGB:ws2812B_6028_FIX"
 			(at 107.95 120.65 0)
 			(effects
 				(font
@@ -11985,7 +11985,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:SK6812-MINI-E"
+		(property "Footprint" "RGB:ws2812B_6028_FIX"
 			(at 313.69 120.65 0)
 			(effects
 				(font
@@ -12193,7 +12193,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:SK6812-MINI-E"
+		(property "Footprint" "RGB:ws2812B_6028_FIX"
 			(at 199.39 120.65 0)
 			(effects
 				(font
@@ -12269,7 +12269,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:SK6812-MINI-E"
+		(property "Footprint" "RGB:ws2812B_6028_FIX"
 			(at 130.81 64.77 0)
 			(effects
 				(font
@@ -12675,7 +12675,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:SK6812-MINI-E"
+		(property "Footprint" "RGB:ws2812B_6028_FIX"
 			(at 222.25 64.77 0)
 			(effects
 				(font
@@ -12883,7 +12883,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:SK6812-MINI-E"
+		(property "Footprint" "RGB:ws2812B_6028_FIX"
 			(at 36.83 77.47 0)
 			(effects
 				(font
@@ -12959,7 +12959,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:SK6812-MINI-E"
+		(property "Footprint" "RGB:ws2812B_6028_FIX"
 			(at 245.11 120.65 0)
 			(effects
 				(font
@@ -13101,7 +13101,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:SK6812-MINI-E"
+		(property "Footprint" "RGB:ws2812B_6028_FIX"
 			(at 382.27 120.65 0)
 			(effects
 				(font
@@ -13177,7 +13177,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:SK6812-MINI-E"
+		(property "Footprint" "RGB:ws2812B_6028_FIX"
 			(at 62.23 64.77 0)
 			(effects
 				(font
@@ -13253,7 +13253,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:SK6812-MINI-E"
+		(property "Footprint" "RGB:ws2812B_6028_FIX"
 			(at 382.27 64.77 0)
 			(effects
 				(font
@@ -13329,7 +13329,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:SK6812-MINI-E"
+		(property "Footprint" "RGB:ws2812B_6028_FIX"
 			(at 290.83 120.65 0)
 			(effects
 				(font
@@ -13405,7 +13405,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:SK6812-MINI-E"
+		(property "Footprint" "RGB:ws2812B_6028_FIX"
 			(at 173.99 133.35 0)
 			(effects
 				(font
@@ -13481,7 +13481,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGB:SK6812-MINI-E"
+		(property "Footprint" "RGB:ws2812B_6028_FIX"
 			(at 334.01 77.47 0)
 			(effects
 				(font
