@@ -1,7 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "hole")(type "KiCad")(uri "${KIPRJMOD}/hole.pretty")(options "")(descr ""))
-  (lib (name "nRF_Module")(type "KiCad")(uri "${KIPRJMOD}/nRF_Module.pretty")(options "")(descr ""))
-  (lib (name "RGB")(type "KiCad")(uri "${KIPRJMOD}/RGB.pretty")(options "")(descr ""))
-  (lib (name "Gateron_LP")(type "KiCad")(uri "${KIPRJMOD}/Gateron_LP.pretty")(options "")(descr ""))
-)
