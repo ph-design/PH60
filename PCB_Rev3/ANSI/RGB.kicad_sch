@@ -7305,7 +7305,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "d8a8bbda-7368-47d4-85fe-fcc8977c38ff")
 		(property "Reference" "#PWR035"
 			(at 29.21 124.46 0)
@@ -7316,12 +7315,13 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "VBUS"
-			(at 29.21 133.35 0)
+		(property "Value" "RGB"
+			(at 32.004 127.254 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Footprint" ""
