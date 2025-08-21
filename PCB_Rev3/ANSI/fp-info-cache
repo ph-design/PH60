@@ -1,4 +1,4 @@
-47904377328029601
+47904377335579269
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -161336,19 +161336,19 @@ ANT-2.4G-1.6MM-MINI
 2
 2
 PH60
+ANT-2.4G-1.6MM-MINI-Reversed
+
+
+0
+2
+2
+PH60
 Molex_PicoBlade_With_Via
 Molex PicoBlade series connector, 53261-0271 (http://www.molex.com/pdm_docs/sd/532610271_sd.pdf), generated with kicad-footprint-generator
 connector Molex PicoBlade horizontal
 0
 6
 3
-PH60
-PinHeader_1x02
-Through hole straight pin header, 1x02, 1.27mm pitch, single row
-Through hole pin header THT 1x02 1.27mm single row
-0
-2
-2
 PH60
 QFN28_4X4_FIX
 

@@ -2692,6 +2692,16 @@
 	)
 	(wire
 		(pts
+			(xy 143.51 24.13) (xy 143.51 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "921bf2e9-75de-48f0-b43e-557c55d6961b")
+	)
+	(wire
+		(pts
 			(xy 165.1 124.46) (xy 165.1 127)
 		)
 		(stroke
@@ -2772,7 +2782,7 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 25.4) (xy 140.97 39.37)
+			(xy 140.97 24.13) (xy 140.97 39.37)
 		)
 		(stroke
 			(width 0)
@@ -5777,7 +5787,7 @@
 	)
 	(symbol
 		(lib_id "Device:Antenna_Shield")
-		(at 140.97 20.32 0)
+		(at 140.97 19.05 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5785,7 +5795,7 @@
 		(dnp no)
 		(uuid "ead9327d-ec3e-44c8-86a4-6aa18123e5a1")
 		(property "Reference" "AE1"
-			(at 144.78 18.4149 0)
+			(at 144.78 17.1449 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5794,7 +5804,7 @@
 			)
 		)
 		(property "Value" "Antenna_Shield"
-			(at 144.78 20.9549 0)
+			(at 144.78 19.6849 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5802,8 +5812,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PH60:ANT-2.4G-1.6MM-MINI"
-			(at 140.97 17.78 0)
+		(property "Footprint" "PH60:ANT-2.4G-1.6MM-MINI-Reversed"
+			(at 140.97 16.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5812,7 +5822,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 140.97 17.78 0)
+			(at 140.97 16.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5821,7 +5831,7 @@
 			)
 		)
 		(property "Description" "Antenna with extra pin for shielding"
-			(at 140.97 20.32 0)
+			(at 140.97 19.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
