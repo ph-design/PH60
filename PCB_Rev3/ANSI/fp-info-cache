@@ -1,4 +1,4 @@
-47892116557293330
+47904377328029601
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -161336,6 +161336,20 @@ ANT-2.4G-1.6MM-MINI
 2
 2
 PH60
+Molex_PicoBlade_With_Via
+Molex PicoBlade series connector, 53261-0271 (http://www.molex.com/pdm_docs/sd/532610271_sd.pdf), generated with kicad-footprint-generator
+connector Molex PicoBlade horizontal
+0
+6
+3
+PH60
+PinHeader_1x02
+Through hole straight pin header, 1x02, 1.27mm pitch, single row
+Through hole pin header THT 1x02 1.27mm single row
+0
+2
+2
+PH60
 QFN28_4X4_FIX
 
 
@@ -161370,6 +161384,41 @@ kailh choc 6028 rearmount rear mount led rgb backlight
 0
 4
 4
+PH60-hole
+FIDUCIAL
+
+
+0
+1
+1
+PH60-hole
+PKRH
+
+
+0
+1
+1
+PH60-hole
+PKRHC
+
+
+0
+1
+1
+PH60-hole
+PKRHHALF
+
+
+0
+1
+1
+PH60-hole
+PKRHSL
+
+
+0
+1
+1
 Package_BGA
 Alliance_TFBGA-36_6x8mm_Layout6x8_P0.75mm
 Alliance TFBGA-36, NSMD, 6.0x8.0mm, 36 Ball, 6x8 Layout, 0.75mm Pitch, generated with kicad-footprint-generator ipc_bga_generator.py, https://www.alliancememory.com/wp-content/uploads/pdf/AS6C1008_Mar_2023V1.2.pdf#page=13
