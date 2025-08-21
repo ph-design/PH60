@@ -7315,7 +7315,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "RGB"
+		(property "Value" "VBUS_SW"
 			(at 32.004 127.254 0)
 			(effects
 				(font
