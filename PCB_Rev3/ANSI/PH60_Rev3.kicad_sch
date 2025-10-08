@@ -5319,6 +5319,12 @@
 		(uuid "083bdbad-78e5-49fb-9822-1eddc2ed187f")
 	)
 	(junction
+		(at 81.28 116.84)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0c1f9938-d006-4e66-a8f7-4042101d1499")
+	)
+	(junction
 		(at 71.12 107.95)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5686,6 +5692,16 @@
 	)
 	(wire
 		(pts
+			(xy 81.28 97.79) (xy 88.9 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "07c965bb-d45e-4d11-9323-f4e68244f23d")
+	)
+	(wire
+		(pts
 			(xy 226.06 124.46) (xy 226.06 127)
 		)
 		(stroke
@@ -5913,6 +5929,16 @@
 			(type default)
 		)
 		(uuid "2a4bf648-04fb-4f22-8f0e-84c47e0dc0b5")
+	)
+	(wire
+		(pts
+			(xy 88.9 104.14) (xy 88.9 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2aacd3cc-736c-4474-909c-6c6ce0bd0e59")
 	)
 	(wire
 		(pts
@@ -7376,6 +7402,16 @@
 	)
 	(wire
 		(pts
+			(xy 81.28 116.84) (xy 88.9 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e9063624-5f07-4717-934e-d021761de318")
+	)
+	(wire
+		(pts
 			(xy 121.92 53.34) (xy 130.81 53.34)
 		)
 		(stroke
@@ -7473,6 +7509,16 @@
 			(type default)
 		)
 		(uuid "f6c24799-4a7f-4e22-aa1e-8d304ee59788")
+	)
+	(wire
+		(pts
+			(xy 88.9 111.76) (xy 88.9 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fcff7e68-ff94-4c75-b43b-cbaf33b3a2a7")
 	)
 	(wire
 		(pts
@@ -10197,6 +10243,75 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 88.9 107.95 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "4bcd8251-c630-4918-9e48-bda9b8564fdf")
+		(property "Reference" "C29"
+			(at 87.884 114.554 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0u"
+			(at 87.884 117.094 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 89.8652 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 88.9 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 88.9 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "c7887616-81eb-4767-8eb7-063cf98d11c3")
+		)
+		(pin "1"
+			(uuid "c65ad5e3-6f87-489d-86da-ebec4df78ce7")
+		)
+		(instances
+			(project "PH60_Rev3"
+				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7"
+					(reference "C29")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 107.95 148.59 270)
 		(unit 1)
@@ -10681,10 +10796,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "5754a660-455b-497b-8615-8bf7bcfaad73")
 		(property "Reference" "C15"
-			(at 85.09 106.6799 0)
+			(at 80.518 113.284 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10693,7 +10807,7 @@
 			)
 		)
 		(property "Value" "10u"
-			(at 85.09 109.2199 0)
+			(at 80.518 115.824 0)
 			(effects
 				(font
 					(size 1.27 1.27)
