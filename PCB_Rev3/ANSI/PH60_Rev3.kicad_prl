@@ -2,10 +2,10 @@
   "board": {
     "active_layer": 0,
     "active_layer_preset": "",
-    "auto_track_width": false,
+    "auto_track_width": true,
     "hidden_netclasses": [],
     "hidden_nets": [],
-    "high_contrast_mode": 1,
+    "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
       "images": 0.6200000047683716,
@@ -32,6 +32,7 @@
       "vias",
       "footprint_text",
       "ratsnest",
+      "grid",
       "footprints_front",
       "footprints_back",
       "tracks",
@@ -80,16 +81,16 @@
       9
     ],
     "col_widths": [
-      13,
-      13,
-      13,
-      13,
-      13,
-      13,
-      13,
-      13,
-      13,
-      128
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
     ],
     "custom_group_rules": [],
     "expanded_rows": [],
