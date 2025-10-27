@@ -10247,7 +10247,7 @@
 		(at 85.09 114.3 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "4bcd8251-c630-4918-9e48-bda9b8564fdf")
@@ -10260,7 +10260,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0u"
+		(property "Value" "100u"
 			(at 85.09 112.522 0)
 			(effects
 				(font
@@ -13459,7 +13459,7 @@
 		(at 38.1 93.98 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "c2e3944b-4760-434b-bad4-2e5f99fd6cc6")
@@ -13471,7 +13471,7 @@
 				)
 			)
 		)
-		(property "Value" "0u"
+		(property "Value" "10u"
 			(at 38.1 90.17 90)
 			(effects
 				(font

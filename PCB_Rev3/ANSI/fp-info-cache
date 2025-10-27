@@ -1,4 +1,4 @@
-47842537305861689
+47462687987398905
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -2428,6 +2428,13 @@ switch single-pole opposite-side-connection double-throw SPDT würth wurth
 0
 3
 3
+Button_Switch_THT
+SW_Slide_SP3T_Straight_CK_OS103012MU1QP1
+C&K miniature slide switch, OS series, SP3T, 6x17x12.20mm, https://www.ckswitches.com/media/1428/os.pdf
+slide switch SP3T
+0
+6
+5
 Button_Switch_THT
 SW_Slide_SPDT_Angled_CK_OS102011MA1Q
 CuK miniature slide switch, OS series, SPDT, right angle, http://www.ckswitches.com/media/1428/os.pdf
@@ -57652,6 +57659,13 @@ DCDC-Converter TRACO TEN20 Generic
 6
 6
 Converter_DCDC
+Converter_DCDC_TRACO_TEN30-xxxxUIR_THT
+DCDC-Converter, TRACO, TEN 30-xxxxUIR, 30W, Rev. August 6. 2025, https://www.tracopower.com/products/ten30uir.pdf, generated with kicad-footprint-generator StandardBox_generator.py
+DCDC-Converter TRACO TEN30UIR THT 2"x1" 30W
+0
+7
+7
+Converter_DCDC
 Converter_DCDC_TRACO_TEN40-110xxWIRH_THT
 DCDC-Converter, TRACO, TEN 40-110xxWIRH, 40W, Rev. October 2. 2024, https://www.tracopower.com/products/ten40wirh.pdf, generated with kicad-footprint-generator StandardBox_generator.py
 DCDC-Converter TRACO TEN40WIRH THT 2"x1" 40W
@@ -57693,6 +57707,20 @@ traco dcdc tht 15w
 0
 9
 9
+Converter_DCDC
+Converter_DCDC_TRACO_THL30-xxxxWI_THT
+DCDC-Converter, TRACO, THL 30-xxxxWI, 30W, Rev. September 11. 2025, https://www.tracopower.com/products/thl30wi.pdf, generated with kicad-footprint-generator StandardBox_generator.py
+DCDC-Converter TRACO THL30WI THT 1"x1" 30W
+0
+6
+6
+Converter_DCDC
+Converter_DCDC_TRACO_THL40-xxxxWI_THT
+DCDC-Converter, TRACO, THL 40-xxxxWI, 40W, Rev. July 31. 2025, https://www.tracopower.com/products/thl40wi.pdf, generated with kicad-footprint-generator StandardBox_generator.py
+DCDC-Converter TRACO THL40WI THT 1"x1" 40W
+0
+6
+6
 Converter_DCDC
 Converter_DCDC_TRACO_THN10-xxxxUIR_THT
 DCDC-Converter, TRACO, THN 10-xxxxUIR, 10W, Rev. July 3. 2025, https://www.tracopower.com/products/thn10uir.pdf, generated with kicad-footprint-generator StandardBox_generator.py
@@ -74696,1966 +74724,6 @@ DIL DIP PDIP 2.54mm 7.62mm 300mil
 0
 4
 4
-PCM_4ms_Capacitor
-CP_Elec_5x5.3
-SMT capacitor, aluminium electrolytic, 5x5.3
-
-0
-2
-2
-PCM_4ms_Capacitor
-CP_Radial_NP_D6.3mm_P2.50mm
-CP, Radial series, Radial, pin pitch=2.50mm, , diameter=6.3mm, Electrolytic Capacitor
-CP Radial series Radial pin pitch 2.50mm  diameter 6.3mm Electrolytic Capacitor
-0
-2
-2
-PCM_4ms_Capacitor
-CP_Radial_P2.5mm
-CP, Radial series, Radial, pin pitch=2.50mm, , diameter=6.3mm, Electrolytic Capacitor
-CP Radial series Radial pin pitch 2.50mm  diameter 6.3mm Electrolytic Capacitor
-0
-2
-2
-PCM_4ms_Capacitor
-CP_Tantalum_EIA-6032-28_Kemet-C
-Tantalum capacitor, Case C, EIA 6032-28, 6.0x3.2x2.5mm, Reflow soldering footprint
-capacitor tantalum smd
-0
-2
-2
-PCM_4ms_Capacitor
-C_0402
-
-
-0
-2
-2
-PCM_4ms_Capacitor
-C_0603
-Capacitor SMD 0603, reflow soldering, AVX (see smccp.pdf)
-capacitor 0603 C0603
-0
-2
-2
-PCM_4ms_Capacitor
-C_0805
-C0805
-
-0
-2
-2
-PCM_4ms_Capacitor
-C_1206
-C1206
-
-0
-2
-2
-PCM_4ms_Capacitor
-C_1210
-Capacitor SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-capacitor
-0
-2
-2
-PCM_4ms_Capacitor
-C_Disc_P5.08mm
-C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=7*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf
-C Disc series Radial pin pitch 5.00mm  diameter 7mm width 2.5mm Capacitor
-0
-2
-2
-PCM_4ms_Connector
-FPC_50pin_ER-CON50HT-1
-East Rising 50-pin SMT FFC/FPC connector ER-CON50HT-1
-50-pin FFC FPC
-0
-52
-51
-PCM_4ms_Connector
-J-Link_2x03
-
-J-LINK SEGGER NEEDLE PROGRAMMER
-0
-6
-6
-PCM_4ms_Connector
-J-Link_2x05
-
-
-0
-10
-10
-PCM_4ms_Connector
-Pins_1x02_2.54mm_TH
-
-
-0
-2
-2
-PCM_4ms_Connector
-Pins_1x03_2.54mm_0.8mm_TH_AudioInsRGndL
-Through hole pin header
-pin header
-0
-3
-3
-PCM_4ms_Connector
-Pins_1x03_2.54mm_TH
-Through hole pin header
-pin header
-0
-3
-3
-PCM_4ms_Connector
-Pins_1x03_2.54mm_TH_AudioInsRGndL
-Through hole pin header
-pin header
-0
-3
-3
-PCM_4ms_Connector
-Pins_1x03_2.54mm_TH_AudioOutsRGndL
-Through hole pin header
-pin header
-0
-3
-3
-PCM_4ms_Connector
-Pins_1x03_P2.54mm_Horizontal_SMT
-SMT angled pins, 1x03, 2.54mm pitch, 5.84mm pin length
-SMT angled pins 1x03 2.54mm single row
-0
-3
-3
-PCM_4ms_Connector
-Pins_1x04_2.54mm_TH
-Through hole straight pin header, 1x04, 2.54mm pitch, single row
-Through hole pin header THT 1x04 2.54mm single row
-0
-4
-4
-PCM_4ms_Connector
-Pins_1x04_2.54mm_TH_SWD
-Through hole straight pin header, 1x04, 2.54mm pitch, single row
-Through hole pin header THT 1x04 2.54mm single row
-0
-4
-4
-PCM_4ms_Connector
-Pins_1x04_3.96mm_TH_MTA156
-
-
-0
-4
-4
-PCM_4ms_Connector
-Pins_1x05_2.54mm_TH
-Through hole pin header
-pin header
-0
-5
-5
-PCM_4ms_Connector
-Pins_1x06_2.54mm_TH_SWD
-Through hole pin header
-pin header
-0
-6
-6
-PCM_4ms_Connector
-Pins_1x06_2.54mm_TH_SWD_small56
-Through hole pin header
-pin header
-0
-6
-6
-PCM_4ms_Connector
-Pins_1x08_2.54mm_TH
-Through hole straight pin header, 1x08, 2.54mm pitch, single row
-Through hole pin header THT 1x08 2.54mm single row
-0
-8
-8
-PCM_4ms_Connector
-Pins_1x08_2.54mm_TH_stripe
-Through hole straight pin header, 1x08, 2.54mm pitch, single row
-Through hole pin header THT 1x08 2.54mm single row
-0
-8
-8
-PCM_4ms_Connector
-Pins_2x03_1.27mm_SMD
-surface-mounted straight pin header, 2x03, 1.27mm pitch, double rows
-Surface mounted pin header SMD 2x03 1.27mm double row
-0
-6
-6
-PCM_4ms_Connector
-Pins_2x03_2.54mm_TH
-Through hole straight socket strip, 2x03, 2.54mm pitch, double rows
-Through hole socket strip THT 2x03 2.54mm double row
-0
-6
-6
-PCM_4ms_Connector
-Pins_2x03_2.54mm_TH_ISP
-Through hole straight socket strip, 2x03, 2.54mm pitch, double rows
-Through hole socket strip THT 2x03 2.54mm double row
-0
-6
-6
-PCM_4ms_Connector
-Pins_2x04_2.54mm_TH
-Through hole straight socket strip, 2x04, 2.54mm pitch, double rows
-Through hole socket strip THT 2x04 2.54mm double row
-0
-8
-8
-PCM_4ms_Connector
-Pins_2x05_1.27mm_SMD
-surface-mounted straight pin header, 2x05, 1.27mm pitch, double rows
-Surface mounted pin header SMD 2x05 1.27mm double row
-0
-10
-10
-PCM_4ms_Connector
-Pins_2x05_2.54mm_TH
-
-Through hole pin header THT 2x05 2.54mm Eurorack power europower
-0
-10
-10
-PCM_4ms_Connector
-Pins_2x05_2.54mm_TH_Europower
-
-Through hole pin header THT 2x05 2.54mm Eurorack power europower
-0
-10
-10
-PCM_4ms_Connector
-Pins_2x08_1.27mm_SMD
-surface-mounted straight pin header, 2x08, 1.27mm pitch, double rows
-Surface mounted pin header SMD 2x08 1.27mm double row
-0
-16
-16
-PCM_4ms_Connector
-Pins_2x08_1.27mm_TH
-Through hole straight pin header, 2x08, 1.27mm pitch, double rows
-Through hole pin header THT 2x08 1.27mm double row
-0
-16
-16
-PCM_4ms_Connector
-Pins_2x08_2.54mm_TH
-
-
-0
-16
-16
-PCM_4ms_Connector
-Pins_2x08_2.54mm_TH_EuroPower
-
-
-0
-16
-16
-PCM_4ms_Connector
-Pins_2x08_2.54mm_TH_EuroPower_Shrouded
-
-
-0
-16
-16
-PCM_4ms_Connector
-Pins_2x08_2.54mm_TH_EuroPower_Shrouded_reducedsilk
-
-
-0
-16
-16
-PCM_4ms_Connector
-Pins_2x10_1.27mm_SMT
-
-
-0
-20
-20
-PCM_4ms_Connector
-Pins_2x10_1.27mm_SMT_Trace
-
-
-0
-20
-20
-PCM_4ms_Connector
-Pins_2x10_1.27mm_TH
-Through hole straight pin header, 2x10, 1.27mm pitch, double rows
-Through hole pin header THT 2x10 1.27mm double row
-0
-20
-20
-PCM_4ms_Connector
-Socket_1x02_2.54mm_TH
-Through hole straight socket strip, 1x02, 2.54mm pitch
-Through hole socket strip THT 1x02 2.54mm single row
-0
-2
-2
-PCM_4ms_Connector
-Socket_2x03_2.54mm_TH
-Through hole straight pin header, 2x03, 2.54mm pitch, double rows
-Through hole pin header THT 2x03 2.54mm double row
-0
-6
-6
-PCM_4ms_Connector
-Socket_2x04_2.54mm_TH
-Through hole straight socket strip, 2x04, 2.54mm pitch, double rows
-Through hole socket strip THT 2x04 2.54mm double row
-0
-8
-8
-PCM_4ms_Connector
-Socket_2x08_1.27mm_SMD
-surface-mounted straight pin header, 2x08, 1.27mm pitch, double rows
-Surface mounted pin header SMD 2x08 1.27mm double row
-0
-16
-16
-PCM_4ms_Connector
-Socket_2x08_1.27mm_TH
-Through hole straight pin header, 2x08, 1.27mm pitch, double rows
-Through hole pin header THT 2x08 1.27mm double row
-0
-16
-16
-PCM_4ms_Connector
-Socket_2x08_2.54mm_TH
-Through hole straight socket strip, 2x08, 2.54mm pitch, double rows
-Through hole socket strip THT 2x08 2.54mm double row
-0
-16
-16
-PCM_4ms_Connector
-Socket_2x10_1.27mm_TH
-Through hole straight pin header, 2x10, 1.27mm pitch, double rows
-Through hole pin header THT 2x10 1.27mm double row
-0
-20
-20
-PCM_4ms_Connector
-Socket_2x32_2.54mm_TH
-Through hole straight socket header, 2x32, 2.54mm pitch, double rows
-Through hole socket header THT 2x32 2.54mm double row
-0
-64
-64
-PCM_4ms_Connector
-USB_C_Receptacle_Amphenol_12401610E4-2A
-USB TYPE C, RA RCPT PCB, SMT, https://www.amphenolcanada.com/StockAvailabilityPrice.aspx?From=&PartNum=12401610E4%7e2A
-USB C Type-C Receptacle SMD
-0
-28
-25
-PCM_4ms_Connector
-USB_Micro-B_Molex-105017-0001
-http://www.molex.com/pdm_docs/sd/1050170001_sd.pdf
-Micro-USB SMD Typ-B
-0
-13
-6
-PCM_4ms_Connector
-Wire_12AWG
-
-
-0
-1
-1
-PCM_4ms_Connector_Card
-CardSlot_MicroSD_YamaichiPJS008U-3000
-https://www.yamaichi.de/uploads/media/PJS008U-3000.pdf
-MICROSD SDCARD
-0
-10
-10
-PCM_4ms_Converter_DCDC
-OKI-78SR-Horizontal
-TO-220, Horizontal, DCDC
-TO-220 Horizontal DCDC
-0
-3
-3
-PCM_4ms_Converter_DCDC
-OKI-78SR-Vertical
-TO-220, Vertical, RM 2.54mm
-TO-220 Vertical RM 2.54mm
-0
-3
-3
-PCM_4ms_Converter_DCDC
-QFN_LMZM3360x_2
-
-
-0
-67
-18
-PCM_4ms_Converter_DCDC
-QFN_LMZM3360x_handsolder
-
-
-0
-69
-18
-PCM_4ms_Converter_DCDC
-Recom_78E_DCDC
-RECOM R-78E-0.5 DC/DC converter
-
-0
-3
-3
-PCM_4ms_Converter_DCDC
-VXO78xx
-TO-220, Vertical, RM 2.54mm
-TO-220 Vertical RM 2.54mm
-0
-3
-3
-PCM_4ms_Converter_DCDC
-VXO78xx-1000
-TO-220, Vertical, RM 2.54mm
-TO-220 Vertical RM 2.54mm
-0
-3
-3
-PCM_4ms_Converter_DCDC
-VXO78xx-1000_Horiz
-TO-220, Vertical, RM 2.54mm
-TO-220 Vertical RM 2.54mm
-0
-6
-3
-PCM_4ms_Converter_DCDC
-VXO78xx-1000_Horiz_rev2
-TO-220, Vertical, RM 2.54mm
-TO-220 Vertical RM 2.54mm
-0
-6
-3
-PCM_4ms_Converter_DCDC
-VXO78xx-1000_Horiz_rev3
-TO-220, Vertical, RM 2.54mm
-TO-220 Vertical RM 2.54mm
-0
-3
-3
-PCM_4ms_Crystal
-Crystal_P2.54mm
-
-
-0
-2
-2
-PCM_4ms_Crystal
-FA-238
-
-
-0
-4
-4
-PCM_4ms_Crystal
-HC-49US
-
-
-0
-2
-2
-PCM_4ms_Diode
-D_DO-35_P7.62mm_Horizontal
-D, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf
-D DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm
-0
-2
-2
-PCM_4ms_Diode
-D_DO-41_P7.62mm_Horizontal
-D, DO-41_SOD81 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf
-D DO-41_SOD81 series Axial Horizontal pin pitch 7.62mm  length 5.2mm diameter 2.7mm
-0
-2
-2
-PCM_4ms_Diode
-D_DO-214AC_SMA
-Diode DO-214AC (SMA) Vishay
-Diode SMA
-0
-2
-2
-PCM_4ms_Diode
-D_SMA
-Diode SMA
-Diode SMA
-0
-2
-2
-PCM_4ms_Diode
-D_SOD-123
-SOD-123
-SOD-123
-0
-2
-2
-PCM_4ms_Diode
-D_SOD-123F
-D_SOD-123F
-D_SOD-123F
-0
-2
-2
-PCM_4ms_Diode
-D_SOD-323F
-SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf
-SOD-323F
-0
-2
-2
-PCM_4ms_Diode
-D_SOD-323F_Handsoldering
-SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf
-SOD-323F
-0
-2
-2
-PCM_4ms_Display
-ER-TFT028A3-4-CustomBrkOut
-
-
-0
-14
-7
-PCM_4ms_Display
-ER-TFT028A3-4-CustomBrkOutB
-
-
-0
-14
-7
-PCM_4ms_Display
-ER-TFT028A3-4-CustomBrkOutC
-
-
-0
-14
-7
-PCM_4ms_Display
-ER-TFTM1.54-1_BREAKOUT
-
-
-0
-12
-9
-PCM_4ms_Display
-ER-TFTM028-4_BREAKOUT
-
-
-0
-44
-44
-PCM_4ms_Encoder
-ENC_RGB_SPST_12mm
-
-
-0
-10
-9
-PCM_4ms_Encoder
-ENC_RGB_SPST_12mm_OLD
-
-
-0
-10
-9
-PCM_4ms_Encoder
-ENC_SPST_12mm
-
-
-0
-7
-6
-PCM_4ms_Encoder
-ENC_SPST_12mm_OLD
-
-
-0
-7
-6
-PCM_4ms_Encoder
-RGB_ROTARY_ENCODER
-
-
-0
-10
-9
-PCM_4ms_Encoder
-ROTENC-12MM-BUT
-
-
-0
-7
-6
-PCM_4ms_Experimental_FP
-Button_LED_PB61303_Adjusted
-
-
-0
-8
-8
-PCM_4ms_Experimental_FP
-Button_LED_PB61303_Adjusted+
-
-
-0
-8
-8
-PCM_4ms_Experimental_FP
-FPC_1x06_TEConn_2328702
-
-
-0
-8
-7
-PCM_4ms_Experimental_FP
-QFN-48_EP_7x7_P0.5mm_Pad0.55x0.30
-
-
-0
-52
-49
-PCM_4ms_Experimental_FP
-SW_PUSH_6mm_H13mm
-tactile push button, 6x6mm e.g. PHAP33xx series, height=13mm
-tact sw push 6mm
-0
-4
-2
-PCM_4ms_Experimental_FP
-Speaker_AS04008CO-R
-https://www.mouser.com/datasheet/2/334/AS04008CO-R-32837.pdf
-
-0
-16
-3
-PCM_4ms_Experimental_FP
-Speaker_AS04008CO-R_cutout
-https://www.mouser.com/datasheet/2/334/AS04008CO-R-32837.pdf
-
-0
-6
-3
-PCM_4ms_Experimental_FP
-XLR-NCJ6FA-V-0-TEST
-
-
-0
-0
-0
-PCM_4ms_Experimental_FP
-XLR-TEST
-
-
-0
-8
-4
-PCM_4ms_Faceplate
-Faceplate_Hole_Encoder_290
-
-
-0
-1
-1
-PCM_4ms_Faceplate
-Faceplate_Hole_Encoder_KnurledShaft_Alpha
-
-Rotary Encoder RGB
-0
-1
-1
-PCM_4ms_Faceplate
-Faceplate_Hole_Encoder_RGB_360
-
-Rotary Encoder RGB
-0
-1
-1
-PCM_4ms_Faceplate
-Faceplate_Hole_Encoder_RGB_NoBushing
-
-Rotary Encoder RGB
-0
-1
-1
-PCM_4ms_Faceplate
-Faceplate_Hole_Encoder_RGB_WithKnob
-
-Rotary Encoder RGB
-0
-1
-1
-PCM_4ms_Faceplate
-Faceplate_Hole_FSR_slot
-
-
-0
-0
-0
-PCM_4ms_Faceplate
-Faceplate_Hole_Jack_3.5mm
-
-
-0
-1
-1
-PCM_4ms_Faceplate
-Faceplate_Hole_Jack_3.5mm_Copper8mm
-
-
-0
-1
-1
-PCM_4ms_Faceplate
-Faceplate_Hole_Jack_Barrel_315
-
-
-0
-1
-1
-PCM_4ms_Faceplate
-Faceplate_Hole_Jack_Quarter_Inch
-
-
-0
-1
-1
-PCM_4ms_Faceplate
-Faceplate_Hole_LED_3mm
-
-
-0
-1
-1
-PCM_4ms_Faceplate
-Faceplate_Hole_LED_Button_5.4mm_With_Mask_Opening
-
-
-0
-1
-1
-PCM_4ms_Faceplate
-Faceplate_Hole_LED_Button_7mm
-
-
-0
-1
-1
-PCM_4ms_Faceplate
-Faceplate_Hole_LED_Button_7mm_With_Mask_Opening
-
-
-0
-1
-1
-PCM_4ms_Faceplate
-Faceplate_Hole_Lightpipe_115
-
-
-0
-1
-1
-PCM_4ms_Faceplate
-Faceplate_Hole_Lightpipe_With_Mask_Opening
-
-
-0
-1
-1
-PCM_4ms_Faceplate
-Faceplate_Hole_Pot_9mm
-
-
-0
-1
-1
-PCM_4ms_Faceplate
-Faceplate_Hole_Pot_9mm_Metal_Collar
-
-
-0
-1
-1
-PCM_4ms_Faceplate
-Faceplate_Hole_Pot_16mm
-
-
-0
-1
-1
-PCM_4ms_Faceplate
-Faceplate_Hole_Pot_16mm_Hole8mm
-
-
-0
-1
-1
-PCM_4ms_Faceplate
-Faceplate_Hole_Rail_Hole
-
-
-0
-1
-1
-PCM_4ms_Faceplate
-Faceplate_Hole_Slider_25mm_Slot
-
-
-0
-0
-0
-PCM_4ms_Faceplate
-Faceplate_Hole_Spacer_Mount_256
-
-
-0
-1
-1
-PCM_4ms_Faceplate
-Faceplate_Hole_SubMini_Toggle
-
-
-0
-1
-1
-PCM_4ms_Faceplate
-Faceplate_Hole_SubMini_Toggle_HoleSize5.5mm
-
-
-0
-1
-1
-PCM_4ms_Faceplate
-Faceplate_Hole_Trim_3.175mm_With_Mask_Opening
-
-
-0
-1
-1
-PCM_4ms_Faceplate
-Faceplate_Hole_XLR_Quarter_Inch
-
-
-0
-3
-1
-PCM_4ms_Faceplate
-Faceplate_Rail_Mount_Slot
-
-
-0
-0
-0
-PCM_4ms_Faceplate
-Faceplate_Rail_Mount_Slot-Circular
-
-
-0
-0
-0
-PCM_4ms_Faceplate
-Faceplate_Rail_Mount_Slot_Plated
-
-
-0
-1
-1
-PCM_4ms_Faceplate
-Faceplate_Slide_Switch_MS2201L6_Nexsun
-
-
-0
-0
-0
-PCM_4ms_Faceplate
-Faceplate_Slide_Switch_SS22D06_Runrun
-
-
-0
-0
-0
-PCM_4ms_Faceplate
-Pot_10Turn_3590S-2-202L
-module 1 pin (ou trou mecanique de percage)
-DEV
-0
-2
-2
-PCM_4ms_Faceplate
-Rail_Connection_4HP
-
-
-0
-1
-1
-PCM_4ms_Faceplate
-Rail_Connection_5HP
-
-
-0
-1
-1
-PCM_4ms_Faceplate
-Rail_Connection_6HP
-
-
-0
-1
-1
-PCM_4ms_Faceplate
-Rail_Connection_8HP
-
-
-0
-1
-1
-PCM_4ms_Faceplate
-Rail_Connection_12HP
-
-
-0
-1
-1
-PCM_4ms_Faceplate
-Rail_Connection_16HP
-
-
-0
-1
-1
-PCM_4ms_Faceplate
-Rail_Connection_20HP
-
-
-0
-1
-1
-PCM_4ms_Faceplate
-Rail_Connection_26HP
-
-
-0
-1
-1
-PCM_4ms_Faceplate
-Switch_Toggle_Mini_6.35mm_With_Mask_Opening
-
-
-0
-1
-1
-PCM_4ms_Hardware
-MountingHole_2-56
-Mounting hole, Befestigungsbohrung, 3mm, No Annular, Kein Restring,
-Mounting hole, Befestigungsbohrung, 3mm, No Annular, Kein Restring,
-0
-1
-1
-PCM_4ms_Hardware
-MountingHole_XXXTAB_AdhesiveBase
-Mounting hole, Befestigungsbohrung, 3mm, No Annular, Kein Restring,
-Mounting hole, Befestigungsbohrung, 3mm, No Annular, Kein Restring,
-0
-1
-1
-PCM_4ms_Inductor
-COIL_5030
-
-
-0
-2
-2
-PCM_4ms_Inductor
-COIL_5040
-
-
-0
-2
-2
-PCM_4ms_Inductor
-COIL_5252metric_2020
-
-
-0
-2
-2
-PCM_4ms_Inductor
-COIL_6045
-
-
-0
-2
-2
-PCM_4ms_Inductor
-COIL_SRP1040
-
-
-0
-2
-2
-PCM_4ms_Inductor
-COIL_SRP6540
-
-
-0
-2
-2
-PCM_4ms_Inductor
-COIL_SRU1048
-
-
-0
-2
-2
-PCM_4ms_Inductor
-FB_Axial_8.5x3.5mm
-Resitance 3 pas
-R
-0
-2
-2
-PCM_4ms_Inductor
-L_Bourns-SRU1048
-Bourns SRU1048 series SMD inductor, https://www.mouser.com/datasheet/2/54/RU1048-1391431.pdf
-Bourns SRU1048 SMD inductor
-0
-2
-2
-PCM_4ms_Inductor
-L_Bourns_SRN8040
-https://www.bourns.com/docs/product-datasheets/srn8040ta.pdf
-Inductor
-0
-2
-2
-PCM_4ms_Jack
-BARRELJACK-PJ064
-
-
-0
-3
-3
-PCM_4ms_Jack
-Barrel_RtAngle_PJ066
-
-
-0
-3
-3
-PCM_4ms_Jack
-Barrel_Vert_PJ064
-
-
-0
-3
-3
-PCM_4ms_Jack
-Barrel_Vert_PJ064_slotted
-
-
-0
-3
-3
-PCM_4ms_Jack
-EighthInch_PJ398SM
-
-
-0
-3
-3
-PCM_4ms_Jack
-EighthInch_PJ398SM_Alt-GND
-
-
-0
-3
-3
-PCM_4ms_Jack
-EighthInch_Stereo_PJ366ST
-
-
-0
-3
-3
-PCM_4ms_Jack
-Jack_3.5mm_CUI_SJ-3523-SMT_Horizontal
-3.5 mm, Stereo, Right Angle, Surface Mount (SMT), Audio Jack Connector (https://www.cui.com/product/resource/sj-352x-smt-series.pdf)
-3.5mm audio cui horizontal jack stereo
-0
-3
-3
-PCM_4ms_Jack
-QuarterInch_Mono_RtAngle_2Switches_NRJ4HF
-
-
-0
-6
-6
-PCM_4ms_Jack
-QuarterInch_Stereo_RtAngle_3Switches_NRJ6HF
-
-
-0
-8
-8
-PCM_4ms_Jack
-QuarterInch_Stereo_Vert_2Switches_REAN-NYS232
-Rean 1/4" Enclosed Switched Stereo Jack
-
-0
-5
-5
-PCM_4ms_Jack
-QuarterInch_Stereo_Vert_2Switches_SwitchCraftNYS234
-Switchcraft 1/4" Enclosed Switched Stereo Jack
-
-0
-5
-5
-PCM_4ms_Jack
-QuarterInch_Stereo_Vert_SwitchCraftNYS234-3
-Switchcraft 1/4" Enclosed Switched Stereo Jack
-
-0
-3
-3
-PCM_4ms_Jack
-XLR-NCJ6FA-V-0
-
-
-0
-8
-4
-PCM_4ms_Jack
-XLR-NCJ6FA-V-0-SHORTED
-
-
-0
-8
-4
-PCM_4ms_LED
-LED_3mm_C1A2
-LED 3mm round vertical
-LED  3mm round vertical
-0
-2
-2
-PCM_4ms_LED
-LED_3mm_C1A2_Polarity_Indicator
-LED 3mm round vertical
-LED  3mm round vertical
-0
-2
-2
-PCM_4ms_LED
-LED_3mm_Dual_3pin_MLS
-LED, diameter 3.0mm, 2 pins, diameter 3.0mm, 3 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-3VSURKCGKC(Ver.8A).pdf
-LED diameter 3.0mm 2 pins diameter 3.0mm 3 pins
-0
-3
-3
-PCM_4ms_LED
-LED_5mm_RightAngle
-LED, diameter 5.0mm z-position of LED center 3.0mm, 2 pins, diameter 5.0mm z-position of LED center 3.0mm, 2 pins, diameter 5.0mm z-position of LED center 3.0mm, 2 pins, diameter 5.0mm z-position of LED center 9.0mm, 2 pins
-LED diameter 5.0mm z-position of LED center 3.0mm 2 pins diameter 5.0mm z-position of LED center 3.0mm 2 pins diameter 5.0mm z-position of LED center 3.0mm 2 pins diameter 5.0mm z-position of LED center 9.0mm 2 pins
-0
-2
-2
-PCM_4ms_LED
-LED_0603_1608Metric
-LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-diode
-0
-2
-2
-PCM_4ms_LED
-LED_Kingbright_APA3010_3x1.0mm_Horizontal
-LED RGB, APA3010, https://www.mouser.com/datasheet/2/216/APA3010SURCK-25319.pdf
-LED RGB APA3010 KINGBRIGHT 3x1.0mm
-0
-3
-3
-PCM_4ms_LED
-LED_PLCC-4
-
-
-0
-4
-4
-PCM_4ms_Package_DIP
-DIP-8pin_TH
-8-lead dip package, row spacing 7.62 mm (300 mils)
-DIL DIP PDIP 2.54mm 7.62mm 300mil
-0
-8
-8
-PCM_4ms_Package_DIP
-DIP-14_W7.62mm
-14-lead dip package, row spacing 7.62 mm (300 mils)
-DIL DIP PDIP 2.54mm 7.62mm 300mil
-0
-14
-14
-PCM_4ms_Package_DIP
-DIP-20_W7.62mm
-20-lead dip package, row spacing 7.62 mm (300 mils)
-DIL DIP PDIP 2.54mm 7.62mm 300mil
-0
-20
-20
-PCM_4ms_Package_DIP
-DIP-28_W7.62mm
-28-lead dip package, row spacing 7.62 mm (300 mils)
-DIL DIP PDIP 2.54mm 7.62mm 300mil
-0
-28
-28
-PCM_4ms_Package_DIP
-OSD32MP1-BRK
-Connector for attaching an OSD32MP1-BRK breakout board
-OSD32MP1 STM32MP15x
-0
-120
-120
-PCM_4ms_Package_QFP
-BGA-176+25_10.0x10.0mm
-
-
-0
-201
-201
-PCM_4ms_Package_QFP
-LQFP-32_7x7mm_P0.8mm_ARM
-LQFP32: plastic low profile quad flat package; 32 leads; body 7 x 7 x 1.4 mm (see NXP sot358-1_po.pdf and sot358-1_fr.pdf)
-QFP 0.8
-0
-32
-32
-PCM_4ms_Package_QFP
-LQFP-144_20x20mm_Pitch0.5mm
-144-Lead Plastic Low Profile Quad Flatpack (PL) - 20x20x1.40 mm Body [LQFP], 2.00 mm Footprint (see Microchip Packaging Specification 00000049BS.pdf)
-QFP 0.5
-0
-144
-144
-PCM_4ms_Package_QFP
-LQFP-144_20x20mm_Pitch0.5mm_ARM
-144-Lead Plastic Low Profile Quad Flatpack (PL) - 20x20x1.40 mm Body [LQFP], 2.00 mm Footprint (see Microchip Packaging Specification 00000049BS.pdf)
-QFP 0.5
-0
-144
-144
-PCM_4ms_Package_QFP
-TFBGA-257_10x10mm_perP0.5_cntrP0.65
-
-STM32MP15xxAD
-0
-257
-216
-PCM_4ms_Package_QFP
-TQFP-32_7x7mm_P0.8mm
-32-Lead Plastic Thin Quad Flatpack (PT) - 7x7x1.0 mm Body, 2.00 mm [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
-QFP 0.8
-0
-32
-32
-PCM_4ms_Package_QFP
-Texas-X2QFN-10_1.5x2mm_Pitch0.5mm
-Texas  X2QFN, 10 Pin, 1.5mm x 2mm, Pitch 0.5mm
-Texas X2QFN-10 NoLead
-0
-10
-10
-PCM_4ms_Package_QFP
-Texas-X2QFN-10_1.5x2mm_Pitch0.5mm_Handsoldering
-Texas  X2QFN, 10 Pin, 1.5mm x 2mm, Pitch 0.5mm
-Texas X2QFN-10 NoLead
-0
-10
-10
-PCM_4ms_Package_SOIC
-SM-8
-
-
-0
-8
-8
-PCM_4ms_Package_SOIC
-SOIC-8-1EP_3.9x4.9mm_Pitch1.27mm
-8-Lead Thermally Enhanced Plastic Small Outline (SE) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
-SOIC 1.27
-0
-12
-9
-PCM_4ms_Package_SOIC
-SOIC-8-1EP_3.9x4.9mm_Pitch1.27mm_HandSolder
-8-Lead Thermally Enhanced Plastic Small Outline (SE) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
-SOIC 1.27
-0
-9
-9
-PCM_4ms_Package_SOIC
-SOIC-8_3.9x4.9mm_Pitch1.27mm
-8-Lead Plastic Small Outline (SN) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
-SOIC 1.27
-0
-8
-8
-PCM_4ms_Package_SOIC
-SOIC-8_5.28x4.9mm_Pitch1.27mm
-8-Lead Plastic Small Outline (SN) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
-SOIC 1.27
-0
-8
-8
-PCM_4ms_Package_SOIC
-SOIC-14_3.9x8.65mm_Pitch1.27mm
-16-Lead Plastic Small Outline (SL) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
-SOIC 1.27
-0
-14
-14
-PCM_4ms_Package_SOIC
-SOIC-16_3.9x9.9mm_Pitch1.27mm
-16-Lead Plastic Small Outline (SL) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
-SOIC 1.27
-0
-16
-16
-PCM_4ms_Package_SOT
-SOT-23
-SOT-23, Standard
-SOT-23
-0
-3
-3
-PCM_4ms_Package_SOT
-SOT-23-5
-5-pin SOT23 package
-SOT-23-5
-0
-5
-5
-PCM_4ms_Package_SOT
-SOT-23-THIN-16
-
-
-0
-16
-16
-PCM_4ms_Package_SOT
-SOT-363_SC-70-6
-SOT-363, SC-70-6
-SOT-363 SC-70-6
-0
-6
-6
-PCM_4ms_Package_SOT
-SOT-523
-
-
-0
-3
-3
-PCM_4ms_Package_SOT
-SOT-583
-
-
-0
-8
-8
-PCM_4ms_Package_SOT
-SOT23-3_PO123
-SOT-23, Standard
-SOT-23
-0
-3
-3
-PCM_4ms_Package_SOT
-SOT23-3_PO132
-SOT-23, Standard
-SOT-23
-0
-3
-3
-PCM_4ms_Package_SOT
-SOT23-3_PO213
-SOT-23, Standard
-SOT-23
-0
-3
-3
-PCM_4ms_Package_SOT
-SOT23-8
-8-pin SOT-23 package, http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/sot-23rj/rj_8.pdf
-SOT-23-8
-0
-8
-8
-PCM_4ms_Package_SOT
-SOT89-3
-SOT-89-3
-SOT-89-3
-0
-6
-3
-PCM_4ms_Package_SOT
-SOT223
-SOT-223
-
-0
-4
-4
-PCM_4ms_Package_SOT
-TSOT-23-5
-5-pin TSOT23 package, http://cds.linear.com/docs/en/packaging/SOT_5_05-08-1635.pdf
-TSOT-23-5
-0
-5
-5
-PCM_4ms_Package_SOT
-TSOT-23-6
-6-pin TSOT23 package, http://cds.linear.com/docs/en/packaging/SOT_6_05-08-1636.pdf
-TSOT-23-6 MK06A TSOT-6
-0
-6
-6
-PCM_4ms_Package_SSOP
-HTSSOP-20_4.4x6.5mm_Pitch0.65mm
-20-Lead Plastic Thin Shrink Small Outline (ST)-4.4 mm Body [TSSOP] (see Microchip Packaging Specification 00000049BS.pdf)
-SSOP 0.65
-0
-21
-21
-PCM_4ms_Package_SSOP
-MSOP-10_3x3mm_P0.5mm
-10-Lead Plastic Micro Small Outline Package (MS) [MSOP] (see Microchip Packaging Specification 00000049BS.pdf)
-SSOP 0.5
-0
-10
-10
-PCM_4ms_Package_SSOP
-QSOP-16_3.9x4.9mm_P0.635mm
-16-Lead Plastic Shrink Small Outline Narrow Body (QR)-.150" Body [QSOP] (see Microchip Packaging Specification 00000049BS.pdf)
-SSOP 0.635
-0
-16
-16
-PCM_4ms_Package_SSOP
-SSOP-28_5.3x10.2mm_Pitch0.65mm
-28-Lead Plastic Shrink Small Outline (SS)-5.30 mm Body [SSOP] (see Microchip Packaging Specification 00000049BS.pdf)
-SSOP 0.65
-0
-28
-28
-PCM_4ms_Package_SSOP
-TSOP-54_11.76x22.22mm_Pitch0.8mm
-http://download.micron.com/pdf/datasheets/dram/sdram/256MSDRAM.pdf
-54-Pin TSOP (400 mil)
-0
-54
-54
-PCM_4ms_Package_SSOP
-TSSOP-8_4.4x3mm_Pitch0.65mm
-8-Lead Plastic Thin Shrink Small Outline (ST)-4.4 mm Body [TSSOP] (see Microchip Packaging Specification 00000049BS.pdf)
-SSOP 0.65
-0
-8
-8
-PCM_4ms_Package_SSOP
-TSSOP-14_4.4x5mm_P0.65mm
-14-Lead Plastic Thin Shrink Small Outline (ST)-4.4 mm Body [TSSOP] (see Microchip Packaging Specification 00000049BS.pdf)
-SSOP 0.65
-0
-14
-14
-PCM_4ms_Package_SSOP
-TSSOP-24_4.4x7.8mm_Pitch0.65mm
-TSSOP28: plastic thin shrink small outline package; 24 leads; body width 4.4 mm
-
-0
-24
-24
-PCM_4ms_Package_SSOP
-TSSOP-28_4.4x9.7mm_Pitch0.65mm
-TSSOP28: plastic thin shrink small outline package; 28 leads; body width 4.4 mm; (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot361-1_po.pdf)
-SSOP 0.65
-0
-28
-28
-PCM_4ms_Package_SSOP
-U-MAX8
-
-
-0
-8
-8
-PCM_4ms_Package_SSOP
-U-MAX10-EP
-µMAX 10 with EPAD
-µMAX10 UMAX10 µMAX-10 UMAX-10 EP Extended Pad
-0
-11
-11
-PCM_4ms_Package_TO
-TO-92_OffsetPin2
-TO-92 leads molded, narrow, drill 0.6mm (see NXP sot054_po.pdf)
-to-92 sc-43 sc-43a sot54 PA33 transistor
-0
-3
-3
-PCM_4ms_Package_TO
-TO-220-3_Horizontal
-
-TO-220 Horizontal RM 2.54mm
-0
-3
-3
-PCM_4ms_Package_TO
-TO-220-3_Horizontal_TabPad
-TO-220-3, Horizontal, RM 2.54mm, see https://www.vishay.com/docs/66542/to-220-1.pdf
-TO-220-3 Horizontal RM 2.54mm
-0
-5
-4
-PCM_4ms_Package_TO
-TO-220-3_Horizontal_TabPad_Short
-TO-220-3, Horizontal, RM 2.54mm, see https://www.vishay.com/docs/66542/to-220-1.pdf
-TO-220-3 Horizontal RM 2.54mm
-0
-5
-5
-PCM_4ms_Package_TO
-TO-220-3_Vertical
-TO-220, Vertical, RM 2.54mm
-TO-220 Vertical RM 2.54mm
-0
-3
-3
-PCM_4ms_Package_TO
-TO-252-2
-TO-252 / DPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO252/PG-TO252-3-1/
-DPAK TO-252 DPAK-3 TO-252-3 SOT-428
-0
-7
-3
-PCM_4ms_Potentiometer
-Pot_9mm_DShaft
-
-
-0
-5
-5
-PCM_4ms_Potentiometer
-Pot_9mm_Dshaft_Det
-
-
-0
-5
-5
-PCM_4ms_Potentiometer
-Pot_9mm_Knurl_Det
-
-
-0
-5
-5
-PCM_4ms_Potentiometer
-Pot_9mm_Knurl_NoDet
-
-
-0
-5
-5
-PCM_4ms_Potentiometer
-Pot_10Turn_3590S-2-202L
-module 1 pin (ou trou mecanique de percage)
-DEV
-0
-2
-2
-PCM_4ms_Potentiometer
-Pot_16mm_21Det_RV16AF-4A
-
-POT
-0
-3
-3
-PCM_4ms_Potentiometer
-Pot_16mm_CtrDet_RV16AF-4A
-
-POT POTENTIOMETER
-0
-3
-3
-PCM_4ms_Potentiometer
-Pot_16mm_NoDet_RV16AF-4A
-
-POT POTENTIOMETER
-0
-3
-3
-PCM_4ms_Potentiometer
-Pot_Slider_LED_20mm_RA2045F
-
-
-0
-6
-6
-PCM_4ms_Potentiometer
-Pot_Trim_7x6.6mm_T73YE
-
-
-0
-3
-3
-PCM_4ms_Potentiometer
-Pot_Trim_Round_6mm
-
-
-0
-3
-3
-PCM_4ms_Potentiometer
-Pot_Trim_Round_10mm
-
-
-0
-3
-3
-PCM_4ms_Potentiometer
-Pot_Trim_SMT_PVZ3A
-
-
-0
-3
-3
-PCM_4ms_Potentiometer
-Pot_Trim_SMT_TC33X
-
-
-0
-3
-3
-PCM_4ms_Potentiometer
-Pot_Wheel_Dual_TH_AlpsRK10J1xA
-http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RKJ1/RK14J12A0A0K.html
-Pot wheel Thumb dual
-0
-7
-5
-PCM_4ms_Potentiometer
-Potentiometer_Alpha_RV112_Dual_Vert
-Potentiometer, vertical, Alps RK09L Double, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK09L/RK09L_list.html
-Potentiometer vertical Alps RK09L Double
-0
-8
-8
-PCM_4ms_Potentiometer
-Potentiometer_Alpha_RV112_Dual_Vert_Knurled
-Potentiometer, vertical, Alps RK09L Double, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK09L/RK09L_list.html
-Potentiometer vertical Alps RK09L Double
-0
-8
-8
-PCM_4ms_Potentiometer
-Potentiometer_Alps_RK09L_Double_Vertical
-Potentiometer, vertical, Alps RK09L Double, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK09L/RK09L_list.html
-Potentiometer vertical Alps RK09L Double
-0
-8
-8
-PCM_4ms_Resistor
-R_0402
-Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-resistor
-0
-2
-2
-PCM_4ms_Resistor
-R_0603
-Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)
-resistor 0603
-0
-2
-2
-PCM_4ms_Resistor
-R_0805_2012Metric
-Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
-resistor
-0
-2
-2
-PCM_4ms_Resistor
-R_1206_3216Metric
-Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-resistor
-0
-2
-2
-PCM_4ms_Resistor
-R_Array_BUS_SIP6
-8-pin Resistor SIP pack
-R
-0
-6
-6
-PCM_4ms_Resistor
-R_Array_BUS_SIP8
-8-pin Resistor SIP pack
-R
-0
-8
-8
-PCM_4ms_Resistor
-R_Array_BUS_SIP10
-8-pin Resistor SIP pack
-R
-0
-10
-10
-PCM_4ms_Resistor
-R_Array_ISO_SIP6
-6-pin Resistor SIP pack
-R
-0
-6
-6
-PCM_4ms_Resistor
-R_Array_ISO_SIP8
-8-pin Resistor SIP pack
-R
-0
-8
-8
-PCM_4ms_Resistor
-R_Array_ISO_SIP10
-8-pin Resistor SIP pack
-R
-0
-10
-10
-PCM_4ms_Resistor
-R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
-Resitance 3 pas
-R
-0
-2
-2
-PCM_4ms_Sensor
-LDR_RtAngle_P300mil
-Resistor, LDR 10x8.5mm
-Resistor LDR10.8.5mm
-0
-2
-2
-PCM_4ms_SolderJumper
-JUMPER_SMD_1x2
-SOLDER JUMPER
-SOLDER JUMPER
-0
-2
-2
-PCM_4ms_SolderJumper
-JUMPER_SMD_1x2_tiny
-SOLDER JUMPER
-SOLDER JUMPER
-0
-2
-2
-PCM_4ms_SolderJumper
-JUMPER_SMD_1x2_tiny_shorted
-SOLDER JUMPER
-SOLDER JUMPER
-0
-2
-2
-PCM_4ms_SolderJumper
-JUMPER_SMD_1x3
-SOLDER JUMPER
-SOLDER JUMPER
-0
-3
-3
-PCM_4ms_SolderJumper
-Net_Tie_0.16mm_6mil
-Net Tie, 0.16mm/6mil trace
-net tie 0.16mm/6mil trace
-0
-2
-2
-PCM_4ms_Switch
-Button_LED_PB61303
-
-
-0
-8
-8
-PCM_4ms_Switch
-Button_PB20B
-
-
-0
-4
-4
-PCM_4ms_Switch
-Button_RgbLED_SPST_PB615303HL-7mm
-
-
-0
-8
-8
-PCM_4ms_Switch
-Button_RgbLED_SPST_TC002
-
-
-0
-8
-8
-PCM_4ms_Switch
-Button_RgbLED_SPST_TC002_SMD
-
-
-0
-8
-8
-PCM_4ms_Switch
-Button_Tact_PTS540
-
-
-0
-4
-4
-PCM_4ms_Switch
-Button_Tact_Sqkg
-
-
-0
-4
-4
-PCM_4ms_Switch
-Slide_Switch_DP3T_RtAngle_ESwitch_2308A
-
-
-0
-10
-8
-PCM_4ms_Switch
-Slide_Switch_Runrun_SS22D06
-
-
-0
-12
-8
-PCM_4ms_Switch
-Slide_Switch_SPDT_Nexsun_MS2201L6
-
-
-0
-10
-7
-PCM_4ms_Switch
-Switch_Toggle_DPDT_SubMini
-Through hole straight pin header, 2x03, 2.54mm pitch, double rows
-Through hole pin header THT 2x03 2.54mm double row
-0
-6
-6
-PCM_4ms_Switch
-Switch_Toggle_SPDT_Mini_SolderLug
-
-
-0
-3
-3
-PCM_4ms_Switch
-Switch_Toggle_SPDT_SubMini
-
-
-0
-3
-3
-PCM_4ms_Switch
-Switch_Toggle_SPST_SubMini
-
-
-0
-2
-2
-PCM_4ms_Symbol
-4msLogo_3.8x1.7mm
-
-
-0
-0
-0
-PCM_4ms_Symbol
-4msLogo_15.5x6.6mm
-
-
-0
-0
-0
-PCM_4ms_Symbol
-4msLogo_Inverted_3.9x1.7mm
-
-
-0
-0
-0
-PCM_4ms_Symbol
-4msLogo_Inverted_88x40mm
-
-
-0
-0
-0
-PCM_4ms_TestPoint
-TestPoint_Pad_04
-
-
-0
-1
-1
-PCM_4ms_TestPoint
-TestPoint_Pad_06
-
-
-0
-1
-1
-PCM_4ms_TestPoint
-TestPoint_Pad_10
-
-
-0
-1
-1
-PCM_4ms_TestPoint
-TestPoint_WireHole
-module 1 pin (ou trou mecanique de percage)
-DEV
-0
-1
-1
 PCM_Capacitor_SMD_AKL
 CP_Elec_5x3
 SMD capacitor, aluminum electrolytic, Nichicon, 5.0x3.0mm, Alternate KiCad Library
@@ -159004,6 +157072,272 @@ Kailh KH CPG1425 Keyboard Low Profile Notebook Keyswitch Switch Cutout Keycap IS
 0
 2
 2
+PCM_arduino-library
+Arduino_101_Shield
+https://docs.arduino.cc/retired/boards/arduino-101-619
+
+0
+38
+38
+PCM_arduino-library
+Arduino_Due_Shield
+https://docs.arduino.cc/hardware/due
+
+0
+92
+91
+PCM_arduino-library
+Arduino_Giga_R1_WiFi_Shield
+https://docs.arduino.cc/hardware/giga-r1-wifi
+
+0
+92
+91
+PCM_arduino-library
+Arduino_Leonardo_Shield
+https://docs.arduino.cc/hardware/leonardo
+
+0
+38
+37
+PCM_arduino-library
+Arduino_M0_Pro_Shield
+https://docs.arduino.cc/retired/boards/arduino-m0-pro
+
+0
+38
+37
+PCM_arduino-library
+Arduino_MKR_1000_WiFi_Socket
+https://docs.arduino.cc/hardware/mkr-1000-wifi
+
+0
+28
+28
+PCM_arduino-library
+Arduino_MKR_FOX_1200_Socket
+https://docs.arduino.cc/hardware/mkr-fox-1200
+
+0
+28
+28
+PCM_arduino-library
+Arduino_MKR_Vidor_4000_Socket
+https://docs.arduino.cc/hardware/mkr-vidor-4000
+
+0
+28
+28
+PCM_arduino-library
+Arduino_MKR_WiFi_1010_Socket
+https://docs.arduino.cc/hardware/mkr-wifi-1010
+
+0
+28
+28
+PCM_arduino-library
+Arduino_MKR_Zero_Socket
+https://docs.arduino.cc/hardware/mkr-zero
+
+0
+28
+28
+PCM_arduino-library
+Arduino_Mega2560_R3_Shield
+https://docs.arduino.cc/hardware/mega-2560
+
+0
+92
+91
+PCM_arduino-library
+Arduino_Micro_Socket
+https://docs.arduino.cc/hardware/micro
+
+0
+34
+32
+PCM_arduino-library
+Arduino_Mini_Socket
+https://docs.arduino.cc/retired/boards/arduino-mini-05
+
+0
+35
+35
+PCM_arduino-library
+Arduino_Mini_Socket_NoSPH
+https://docs.arduino.cc/retired/boards/arduino-mini-05
+
+0
+30
+30
+PCM_arduino-library
+Arduino_Nano_33_IoT_Socket
+https://docs.arduino.cc/hardware/nano-33-iot
+
+0
+30
+30
+PCM_arduino-library
+Arduino_Nano_33_IoT_Tile
+https://docs.arduino.cc/hardware/nano-33-iot
+
+0
+30
+30
+PCM_arduino-library
+Arduino_Nano_ESP32_Socket
+https://docs.arduino.cc/hardware/nano-esp32
+
+0
+30
+30
+PCM_arduino-library
+Arduino_Nano_ESP32_Tile
+https://docs.arduino.cc/hardware/nano-esp32
+
+0
+30
+30
+PCM_arduino-library
+Arduino_Nano_Every_Socket
+https://docs.arduino.cc/hardware/nano-every
+
+0
+30
+30
+PCM_arduino-library
+Arduino_Nano_Every_Tile
+https://docs.arduino.cc/hardware/nano-every
+
+0
+30
+30
+PCM_arduino-library
+Arduino_Nano_Socket
+https://docs.arduino.cc/hardware/nano
+
+0
+30
+30
+PCM_arduino-library
+Arduino_Nicla_Vision_Socket
+https://docs.arduino.cc/hardware/nicla-vision
+
+0
+19
+18
+PCM_arduino-library
+Arduino_Nicla_Vision_Tile
+https://docs.arduino.cc/hardware/nicla-vision
+
+0
+19
+18
+PCM_arduino-library
+Arduino_Nicla_Voice_Socket
+https://docs.arduino.cc/hardware/nicla-voice
+
+0
+19
+17
+PCM_arduino-library
+Arduino_Nicla_Voice_Tile
+https://docs.arduino.cc/hardware/nicla-voice
+
+0
+19
+17
+PCM_arduino-library
+Arduino_Pro_Mini_Socket
+https://docs.arduino.cc/retired/boards/arduino-pro-mini
+
+0
+34
+34
+PCM_arduino-library
+Arduino_Pro_Mini_Socket_NoSPH
+https://docs.arduino.cc/retired/boards/arduino-pro-mini
+
+0
+28
+28
+PCM_arduino-library
+Arduino_Uno_R2_Shield
+https://startingelectronics.org/articles/arduino/uno-r3-r2-differences/
+
+0
+34
+34
+PCM_arduino-library
+Arduino_Uno_R3_Shield
+https://docs.arduino.cc/hardware/uno-rev3
+
+0
+38
+37
+PCM_arduino-library
+Arduino_Uno_R4_Minima_Shield
+https://docs.arduino.cc/hardware/uno-r4-minima
+
+0
+38
+38
+PCM_arduino-library
+Arduino_Uno_R4_WiFi_Shield
+https://docs.arduino.cc/hardware/uno-r4-wifi
+
+0
+47
+46
+PCM_arduino-library
+Arduino_Zero_Shield
+https://docs.arduino.cc/hardware/zero
+
+0
+38
+38
+PCM_arduino-library
+Clone_Mega2560_Pro_Socket
+https://docs.arduino.cc/hardware/mega-2560
+
+0
+86
+86
+PCM_arduino-library
+Clone_Pro_Mini_Socket
+https://www.addicore.com/Pro-Mini-p/ad249.htm
+
+0
+35
+35
+PCM_arduino-library
+Clone_Pro_Mini_Socket_NoSPH
+https://www.addicore.com/Pro-Mini-p/ad249.htm
+
+0
+29
+29
+PCM_openinput
+PXI-DIP-16
+Optical Gaming Navigation Chip
+Optical Sensor Gaming Navigation Chip Tracking
+0
+16
+16
+PCM_openinput
+RotaryEncoder_Horizontal
+Rotary Encoder
+Rotary Encoder Gaming Mouse
+0
+5
+4
+PCM_openinput
+SW_Micro_Switch
+Micro Switch
+Ultra Subminiature Basic Micro Switch D2F
+0
+3
+3
 PH60
 ANT-2.4G-1.6MM-MINI
 
@@ -160791,7 +159125,7 @@ CSP 80 0.4 80-ball WLCSP
 80
 Package_CSP
 LFCSP-6-1EP_2x2mm_P0.65mm_EP1x1.6mm
-LFCSP, 6 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp_6_3.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+LFCSP, 6 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp-6/cp_6_3.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
 LFCSP NoLead
 0
 11
@@ -162029,6 +160363,27 @@ ArtInChip QFN NoLead
 127
 101
 Package_DFN_QFN
+CDFN-4_2.5x3.2mm_P2.1mm
+CDFN, 4 Pin (https://ww1.microchip.com/downloads/aemDocuments/documents/TCG/ProductDocuments/DataSheets/DSC1001-3-4-1.8V-3.3V-Low-Power-Precision-CMOS-Oscillators-DS20005529.pdf#page=16), generated with kicad-footprint-generator ipc_noLead_generator.py
+CDFN NoLead Microchip-DFN3225-4LD-PL-1
+0
+4
+4
+Package_DFN_QFN
+CDFN-4_2x2.5mm_P1.65mm
+CDFN, 4 Pin (https://ww1.microchip.com/downloads/aemDocuments/documents/TCG/ProductDocuments/DataSheets/DSC1001-3-4-1.8V-3.3V-Low-Power-Precision-CMOS-Oscillators-DS20005529.pdf#page=17), generated with kicad-footprint-generator ipc_noLead_generator.py
+CDFN NoLead Microchip-DFN2520-4LD-PL-1
+0
+4
+4
+Package_DFN_QFN
+CDFN-4_3.2x5mm_P2.54mm
+CDFN, 4 Pin (https://ww1.microchip.com/downloads/aemDocuments/documents/TCG/ProductDocuments/DataSheets/DSC1001-3-4-1.8V-3.3V-Low-Power-Precision-CMOS-Oscillators-DS20005529.pdf#page=15), generated with kicad-footprint-generator ipc_noLead_generator.py
+CDFN NoLead Microchip-DFN5032-4LD-PL-1
+0
+4
+4
+Package_DFN_QFN
 Cypress_QFN-56-1EP_8x8mm_P0.5mm_EP6.22x6.22mm_ThermalVias
 56-Lead Plastic Quad Flat, No Lead Package (ML) - 8x8x0.9 mm Body [QFN] (see datasheet at http://www.cypress.com/file/138911/download and app note at http://www.cypress.com/file/140006/download)
 QFN 0.5
@@ -162412,6 +160767,20 @@ DFN-10-1EP_3x3mm_P0.5mm_EP1.75x2.7mm
 DFN 0.5
 0
 15
+11
+Package_DFN_QFN
+DFN-10-1EP_3x3mm_P0.5mm_EP1.646x3.1mm
+DFN, 10 Pin (https://www.st.com/resource/en/datasheet/str485.pdf#page=18), generated with kicad-footprint-generator ipc_noLead_generator.py
+DFN NoLead VSON-10-1EP_3x3mm_P0.5mm_EP1.646x3.1mm
+0
+13
+11
+Package_DFN_QFN
+DFN-10-1EP_3x3mm_P0.5mm_EP1.646x3.1mm_ThermalVias
+DFN, 10 Pin (https://www.st.com/resource/en/datasheet/str485.pdf#page=18), generated with kicad-footprint-generator ipc_noLead_generator.py
+DFN NoLead VSON-10-1EP_3x3mm_P0.5mm_EP1.646x3.1mm
+0
+20
 11
 Package_DFN_QFN
 DFN-10_2x2mm_P0.4mm
@@ -162911,6 +161280,13 @@ Maxim TDFN NoLead
 11
 7
 Package_DFN_QFN
+Maxim_TDFN-10-1EP_3x3mm_P0.5mm_EP1.58x2.35mm
+Maxim  TDFN, 10 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/tqfn/21-0137.pdf and https://www.analog.com/media/en/package-pcb-resources/land-pattern/tdfn-ep/90-0003.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+Maxim TDFN NoLead T1033-2 MO229/WEED-3
+0
+15
+11
+Package_DFN_QFN
 Maxim_TDFN-12-1EP_3x3mm_P0.5mm_EP1.7x2.5mm
 Maxim TDFN, 12 Pin (https://www.analog.com/media/en/package-pcb-resources/land-pattern/tdfn/90-0397.pdf)
 DFN NoLead
@@ -162924,6 +161300,13 @@ DFN NoLead
 0
 23
 13
+Package_DFN_QFN
+Maxim_WSON-8-1EP_3x2mm_P0.5mm_EP1.75x1.63mm
+Maxim  WSON, 8 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/tdfn-ep/21-0174.pdf, https://www.analog.com/media/en/package-pcb-resources/land-pattern/tdfn-ep/90-0091.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+Maxim WSON NoLead WDFN-8-1EP_3x2mm_P0.5mm_EP1.75x1.63mm Maxim_TDFN-8-1EP_3x2mm_P0.5mm_EP1.75x1.63mm Maxim_T823+1 JEDEC_WCED-2 JEDEC_W2030D-2
+0
+10
+9
 Package_DFN_QFN
 Micrel_MLF-8-1EP_2x2mm_P0.5mm_EP0.6x1.2mm
 Micrel  MLF, 8 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/mic23050.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
@@ -163016,6 +161399,13 @@ NXP LQFN NoLead
 75
 49
 Package_DFN_QFN
+NXP_VQFN-16-1EP_4x4mm_P0.65mm_EP2.1x2.1mm
+NXP  VQFN, 16 Pin (https://www.nxp.com/docs/en/package-information/SOT629-1.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+NXP VQFN NoLead NXP_SOT629-1 NXP_HVQFN16 JEDEC_MO-220-VGGC
+0
+21
+17
+Package_DFN_QFN
 Nordic_AQFN-73-1EP_7x7mm_P0.5mm
 http://infocenter.nordicsemi.com/index.jsp?topic=%2Fcom.nordic.infocenter.nrf52%2Fdita%2Fnrf52%2Fchips%2Fnrf52840.html
 AQFN 7mm 
@@ -163105,6 +161495,13 @@ Panasonic HSON-8, 8x8x1.25mm (https://industrial.panasonic.com/content/data/SC/d
 panasonic hson
 0
 27
+9
+Package_DFN_QFN
+QFN-8-1EP_6x5mm_P1.27mm_EP3.4x4.2mm
+QFN, 8 Pin (https://help.1nce.com/dev-hub/docs/sim-chips-iot-industrial), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+13
 9
 Package_DFN_QFN
 QFN-12-1EP_3x3mm_P0.5mm_EP1.6x1.6mm
@@ -164920,6 +163317,13 @@ QFN 0.5
 31
 21
 Package_DFN_QFN
+TDFN-6-1EP_1.2x1.2mm_P0.4mm_EP0.3x0.94mm
+TDFN, 6 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/MIC5528.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+TDFN NoLead
+0
+8
+7
+Package_DFN_QFN
 TDFN-6-1EP_2.5x2.5mm_P0.65mm_EP1.3x2mm
 TDFN, 6 Pin (http://www.nve.com/Downloads/ab3.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
 TDFN NoLead
@@ -165886,6 +164290,20 @@ Texas WQFN NoLead
 31
 17
 Package_DFN_QFN
+Texas_RUM0016E_WQFN-16-1EP_4x4mm_P0.65mm_EP2.5x2.5mm
+Texas RUM0016E WQFN, 16 Pin (https://www.ti.com/lit/ml/qfnd679/qfnd679.pdf?ts=1756465079919), generated with kicad-footprint-generator ipc_noLead_generator.py
+Texas WQFN NoLead
+0
+21
+17
+Package_DFN_QFN
+Texas_RUM0016E_WQFN-16-1EP_4x4mm_P0.65mm_EP2.5x2.5mm_ThermalVias
+Texas RUM0016E WQFN, 16 Pin (https://www.ti.com/lit/ml/qfnd679/qfnd679.pdf?ts=1756465079919), generated with kicad-footprint-generator ipc_noLead_generator.py
+Texas WQFN NoLead
+0
+31
+17
+Package_DFN_QFN
 Texas_RUN0010A_WQFN-10_2x2mm_P0.5mm
 Texas RUN0010A WQFN, 10 Pin (https://www.ti.com/lit/ds/symlink/tmp461.pdf#page=35), generated with kicad-footprint-generator ipc_noLead_generator.py
 Texas WQFN NoLead
@@ -165997,6 +164415,13 @@ Texas X2QFN NoLead Texas_X2QFN-14_2x2mm_P0.4mm
 0
 14
 14
+Package_DFN_QFN
+Texas_UQFN-8_1.5x1.5mm_P0.5mm
+Texas  UQFN, 8 Pin (https://www.ti.com/lit/ml/mpqf207e/mpqf207e.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+Texas UQFN NoLead
+0
+8
+8
 Package_DFN_QFN
 Texas_UQFN-10_1.5x2mm_P0.5mm
 Texas RSE0010A UQFN, 10 Pin (https://www.ti.com/lit/ml/mpqf186d/mpqf186d.pdf)
@@ -166137,6 +164562,13 @@ UQFN NoLead
 0
 10
 10
+Package_DFN_QFN
+UQFN-12-1EP_2x2mm_P0.4mm_EP1.1x1.1mm
+UQFN, 12 Pin (https://www.wch-ic.com/download/file?id=396, https://www.wch-ic.com/downloads/CH32V006DS0_PDF.html, https://www.wch-ic.com/downloads/PACKAGE_PDF.html), generated with kicad-footprint-generator ipc_noLead_generator.py
+UQFN NoLead WCH_QFN12
+0
+14
+13
 Package_DFN_QFN
 UQFN-16-1EP_3x3mm_P0.5mm_EP1.75x1.75mm
 16-Lead Ultra Thin Quad Flat, No Lead Package (UC) - 3x3x0.5 mm Body [UQFN]; (see Microchip Packaging Specification 00000049BS.pdf)
@@ -166656,6 +165088,20 @@ VQFN NoLead
 75
 49
 Package_DFN_QFN
+VQFN-48-1EP_7x7mm_P0.5mm_EP4.2x4.2mm
+VQFN, 48 Pin (Based on JEDEC MO-220 variation VKKD-2 (using Figure 1), custom Exposed Pad from NXP, https://www.jedec.org/document_search?search_api_views_fulltext=MO-220, https://www.nxp.com/docs/en/package-information/SOT619-28.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+VQFN NoLead NXP_SOT619-28
+0
+53
+49
+Package_DFN_QFN
+VQFN-48-1EP_7x7mm_P0.5mm_EP4.2x4.2mm_ThermalVias
+VQFN, 48 Pin (Based on JEDEC MO-220 variation VKKD-2 (using Figure 1), custom Exposed Pad from NXP, https://www.jedec.org/document_search?search_api_views_fulltext=MO-220, https://www.nxp.com/docs/en/package-information/SOT619-28.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+VQFN NoLead NXP_SOT619-28
+0
+70
+49
+Package_DFN_QFN
 VQFN-48-1EP_7x7mm_P0.5mm_EP5.15x5.15mm
 VQFN, 48 Pin (http://www.ti.com/lit/ds/symlink/cc1312r.pdf#page=48), generated with kicad-footprint-generator ipc_noLead_generator.py
 VQFN NoLead
@@ -166669,6 +165115,34 @@ VQFN NoLead
 0
 79
 49
+Package_DFN_QFN
+VQFN-56-1EP_8x8mm_P0.5mm_EP5.1x4.96mm
+VQFN, 56 Pin (https://www.nxp.com/docs/en/package-information/SOT684-21.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+VQFN NoLead NXP_SOT684-21 NXP_HVQFN-56-1EP_8x8mm_P0.5mm_EP5.1x4.96mm NXP_98ASA01332D
+0
+66
+57
+Package_DFN_QFN
+VQFN-56-1EP_8x8mm_P0.5mm_EP5.1x4.96mm_ThermalVias
+VQFN, 56 Pin (https://www.nxp.com/docs/en/package-information/SOT684-21.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+VQFN NoLead NXP_SOT684-21 NXP_HVQFN-56-1EP_8x8mm_P0.5mm_EP5.1x4.96mm NXP_98ASA01332D
+0
+92
+57
+Package_DFN_QFN
+VQFN-56-1EP_8x8mm_P0.5mm_EP5.5x5.06mm
+VQFN, 56 Pin (https://www.nxp.com/docs/en/package-information/SOT684-21_DD_SC.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+VQFN NoLead NXP_SOT684-21(DD/SC) NXP_HVQFN-56-1EP_8x8mm_P0.5mm_EP5.5x5.06mm NXP_98ASA01086D
+0
+66
+57
+Package_DFN_QFN
+VQFN-56-1EP_8x8mm_P0.5mm_EP5.5x5.06mm_ThermalVias
+VQFN, 56 Pin (https://www.nxp.com/docs/en/package-information/SOT684-21_DD_SC.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+VQFN NoLead NXP_SOT684-21(DD/SC) NXP_HVQFN-56-1EP_8x8mm_P0.5mm_EP5.5x5.06mm NXP_98ASA01086D
+0
+92
+57
 Package_DFN_QFN
 VQFN-64-1EP_9x9mm_P0.5mm_EP5.4x5.4mm
 VQFN, 64 Pin (https://ww1.microchip.com/downloads/en/DeviceDoc/PIC16LF19195-6-7-Data-Sheet-40001873D.pdf#page=718), generated with kicad-footprint-generator ipc_noLead_generator.py
@@ -169456,6 +167930,13 @@ lga land grid array
 14
 14
 Package_LGA
+Bosch_LGA-16_4.5x3mm_P0.5mm_LayoutBorder7x1y_ClockwisePinNumbering
+Bosch  LGA, 16 Pin (https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bmi088-ds001.pdf#page=55), generated with kicad-footprint-generator ipc_noLead_generator.py
+Bosch LGA NoLead
+0
+16
+16
+Package_LGA
 Infineon_PG-TSNP-6-10_0.7x1.1mm_0.7x1.1mm_P0.4mm
 6 lead, 1.1x0.7mm body, 0.37mm height, TSNP (https://www.infineon.com/cms/en/product/packages/PG-TSNP/PG-TSNP-6-10/)
 PG-TSNP-6-10 TSNP
@@ -169464,7 +167945,7 @@ PG-TSNP-6-10 TSNP
 6
 Package_LGA
 Kionix_LGA-12_2x2mm_P0.5mm_LayoutBorder2x4y
-Kionix  LGA, 12 Pin (http://kionixfs.kionix.com/en/document/TN008-PCB-Design-Guidelines-for-2x2-LGA-Sensors.pdf#page=4), generated with kicad-footprint-generator ipc_noLead_generator.py
+Kionix  LGA, 12 Pin (https://www.digikey.com/Site/Global/Layouts/DownloadPdf.ashx?pdfUrl=3557DE8B1578472CBA17FB72BE0052DC#page=4), generated with kicad-footprint-generator ipc_noLead_generator.py
 Kionix LGA NoLead
 0
 12
@@ -169842,14 +168323,14 @@ LQFP QFP
 65
 Package_QFP
 LQFP-64-1EP_10x10mm_P0.5mm_EP6.5x6.5mm
-LQFP, 64 Pin (https://www.nxp.com/files-static/shared/doc/package_info/98ARH98426A.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP, 64 Pin (https://www.nxp.com/docs/en/package-information/98ARH98426A.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
 LQFP QFP
 0
 90
 65
 Package_QFP
 LQFP-64-1EP_10x10mm_P0.5mm_EP6.5x6.5mm_ThermalVias
-LQFP, 64 Pin (https://www.nxp.com/files-static/shared/doc/package_info/98ARH98426A.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP, 64 Pin (https://www.nxp.com/docs/en/package-information/98ARH98426A.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
 LQFP QFP
 0
 116
@@ -170968,16 +169449,16 @@ HVSSOP SO
 18
 9
 Package_SO
-HVSSOP-10-1EP_3x3mm_P0.5mm_EP1.57x1.88mm
+HVSSOP-10-1EP_3x3mm_P0.5mm_EP1.83x1.89mm
 HVSSOP, 10 Pin (https://www.ti.com/lit/ds/symlink/bq24090.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
-HVSSOP SO
+HVSSOP SO JEDEC-MO-187_BA-T Texas_DGQ0010D
 0
 15
 11
 Package_SO
-HVSSOP-10-1EP_3x3mm_P0.5mm_EP1.57x1.88mm_ThermalVias
+HVSSOP-10-1EP_3x3mm_P0.5mm_EP1.83x1.89mm_ThermalVias
 HVSSOP, 10 Pin (https://www.ti.com/lit/ds/symlink/bq24090.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
-HVSSOP SO
+HVSSOP SO JEDEC-MO-187_BA-T Texas_DGQ0010D
 0
 20
 11
@@ -171823,7 +170304,7 @@ SOIC SO
 28
 Package_SO
 SOIC-28W_7.5x18.7mm_P1.27mm
-SOIC, 28 Pin (https://www.akm.com/akm/en/file/datasheet/AK5394AVS.pdf#page=23), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC, 28 Pin (https://www.es.co.th/Schemetic/PDF/AK5394A.PDF#page=23), generated with kicad-footprint-generator ipc_gullwing_generator.py
 SOIC SO
 0
 28
@@ -172138,8 +170619,8 @@ SSOP 3.9 4.9 1.00
 10
 Package_SO
 SSOP-14_5.3x6.2mm_P0.65mm
-SSOP14: plastic shrink small outline package; 14 leads; body width 5.3 mm; (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot337-1_po.pdf)
-SSOP 0.65
+SSOP, 14 Pin (JEDEC MO-150 variation AB, 1.75mm body thickness, https://www.jedec.org/document_search?search_api_views_fulltext=MO-150), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SSOP SO
 0
 14
 14
@@ -172187,7 +170668,7 @@ SSOP SO JEDEC-MO-152-AC SOT266-1 Nisshinbo-PI-SSOP20-E-A Rohm-SSOP-B20
 20
 Package_SO
 SSOP-20_5.3x7.2mm_P0.65mm
-SSOP, 20 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/40001800C.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SSOP, 20 Pin (JEDEC MO-150 variation AE, 1.75mm body thickness, https://www.jedec.org/document_search?search_api_views_fulltext=MO-150, https://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf#page=396), generated with kicad-footprint-generator ipc_gullwing_generator.py
 SSOP SO
 0
 20
@@ -172215,8 +170696,8 @@ SSOP 0.635
 28
 Package_SO
 SSOP-28_5.3x10.2mm_P0.65mm
-28-Lead Plastic Shrink Small Outline (SS)-5.30 mm Body [SSOP] (see Microchip Packaging Specification 00000049BS.pdf)
-SSOP 0.65
+SSOP, 28 Pin (JEDEC MO-150 variation AH, 1.75mm body thickness, https://www.jedec.org/document_search?search_api_views_fulltext=MO-150, https://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf#page=400), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SSOP SO
 0
 28
 28
@@ -183596,34 +182077,6 @@ Logo WEEE
 0
 0
 TerminalBlock
-TerminalBlock_Altech_AK300-2_P5.00mm
-Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf
-Altech AK300 terminal block pitch 5.0mm
-0
-2
-2
-TerminalBlock
-TerminalBlock_Altech_AK300-3_P5.00mm
-Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf
-Altech AK300 terminal block pitch 5.0mm
-0
-3
-3
-TerminalBlock
-TerminalBlock_Altech_AK300-4_P5.00mm
-Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf
-Altech AK300 terminal block pitch 5.0mm
-0
-4
-4
-TerminalBlock
-TerminalBlock_Degson_DG246-3.81-03P
-DEGSON ELECTRONICS DG246 terminal block, https://www.degson.com/index.php?a=downloadFile&id=1090277
-connector terminal block
-0
-6
-3
-TerminalBlock
 TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm
 terminal block MaiXu MX126-5.0-02P, 2 pins, pitch 5mm, size 10.5x7.8mm, drill diameter 1.3mm, pad diameter 2.8mm, https://www.lcsc.com/datasheet/lcsc_datasheet_2309150913_MAX-MX126-5-0-03P-GN01-Cu-S-A_C5188435.pdf, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_MaiXu
 THT terminal block MaiXu MX126-5.0-02P pitch 5mm size 10.5x7.8mm drill 1.3mm pad 2.8mm
@@ -183785,13 +182238,6 @@ THT terminal block MaiXu MX126-5.0-24P pitch 5mm size 120x7.8mm drill 1.3mm pad 
 24
 24
 TerminalBlock
-TerminalBlock_Wuerth_691311400102_P7.62mm
-https://katalog.we-online.de/em/datasheet/6913114001xx.pdf
-Wuerth WR-TBL Series 3114 terminal block pitch 7.62mm
-0
-2
-2
-TerminalBlock
 TerminalBlock_Xinya_XY308-2.54-2P_1x02_P2.54mm_Horizontal
 Terminal Block Xinya XY308-2.54-2P, 2 pins, pitch 2.54mm, size 5.58x6.5mm, drill diameter 1.2mm, pad diameter 2mm, http://www.xinyaelectronic.com/product/xy308-254, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_Xinya
 THT Terminal Block Xinya XY308-2.54-2P pitch 2.54mm size 5.58x6.5mm drill 1.2mm pad 2mm
@@ -183945,48 +182391,6 @@ THT Terminal Block Xinya XY308-2.54-23P pitch 2.54mm size 58.9x6.5mm drill 1.2mm
 0
 23
 23
-TerminalBlock
-TerminalBlock_bornier-2_P5.08mm
-simple 2-pin terminal block, pitch 5.08mm, revamped version of bornier2
-terminal block bornier2
-0
-2
-2
-TerminalBlock
-TerminalBlock_bornier-3_P5.08mm
-simple 3-pin terminal block, pitch 5.08mm, revamped version of bornier3
-terminal block bornier3
-0
-3
-3
-TerminalBlock
-TerminalBlock_bornier-4_P5.08mm
-simple 4-pin terminal block, pitch 5.08mm, revamped version of bornier4
-terminal block bornier4
-0
-4
-4
-TerminalBlock
-TerminalBlock_bornier-5_P5.08mm
-simple 5-pin terminal block, pitch 5.08mm, revamped version of bornier5
-terminal block bornier5
-0
-5
-5
-TerminalBlock
-TerminalBlock_bornier-6_P5.08mm
-simple 6pin terminal block, pitch 5.08mm, revamped version of bornier6
-terminal block bornier6
-0
-6
-6
-TerminalBlock
-TerminalBlock_bornier-8_P5.08mm
-simple 8pin terminal block, pitch 5.08mm, revamped version of bornier8
-terminal block bornier8
-0
-8
-8
 TerminalBlock_4Ucon
 TerminalBlock_4Ucon_1x02_P3.50mm_Horizontal
 Terminal Block 4Ucon ItemNo. 19963, 2 pins, pitch 3.5mm, size 7.7x7mm, drill diameter 1.2mm, pad diameter 2.4mm, http://www.4uconnector.com/online/object/4udrawing/19963.pdf, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_4Ucon
@@ -184666,6 +183070,13 @@ THT Terminal Block CUI TB007-508-24 pitch 5.08mm size 123x10.2mm drill 1.6mm pad
 0
 24
 24
+TerminalBlock_Degson
+Degson_DG246-3.81-03P
+DEGSON ELECTRONICS DG246 terminal block 2x3, https://www.degson.com/index.php?a=downloadFile&id=1090277
+connector terminal block
+0
+6
+3
 TerminalBlock_Degson
 TerminalBlock_Degson_DG250-3.5-01P_1x01_P3.50mm_45Degree
 Terminal Block Degson DG250-3.5-01P, 45Degree (cable under 45degree), 1 pins, pitch 3.5mm, size 5x12mm, drill diameter 1.2mm, pad diameter 3mm, https://www.degson.com/content/details_552_879717.html?lang=en, generated with kicad-footprint-generator TerminalBlock_Degson
@@ -188530,6 +186941,13 @@ THT Terminal Block WAGO 2601-3124 pitch 3.5mm size 85.5x12.8mm drill 1.2mm pad 2
 0
 48
 24
+TerminalBlock_Wuerth
+Wuerth_691311400102_P7.62mm
+1x2 Close Vertical PCB Header WR-TBL Series 3114 https://www.we-online.com/components/products/datasheet/691311400102.pdf
+Wuerth WR-TBL Series 3114 terminal block pitch 7.62mm
+0
+2
+2
 TerminalBlock_Wuerth
 Wuerth_REDCUBE-THR_WP-THRBU_74650073_THR
 REDCUBE THR with internal through-hole thread WP-THRBU (https://www.we-online.de/katalog/datasheet/74650073.pdf)
