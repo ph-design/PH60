@@ -553,7 +553,7 @@
       "version": 4
     },
     "net_colors": {
-      "+3V3": "rgb(255, 13, 18)",
+      "+3V3": "rgb(11, 255, 78)",
       "VBUS": "rgb(74, 255, 13)"
     },
     "netclass_assignments": null,

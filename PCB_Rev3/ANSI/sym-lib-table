@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "WCH")(type "Altium")(uri "${KIPRJMOD}/WCH-lib/CHXXX.schlib")(options "")(descr ""))
   (lib (name "ETA6093")(type "KiCad")(uri "${KIPRJMOD}/symbol/eta6093.kicad_sym")(options "")(descr ""))
+  (lib (name "nmos_Library")(type "KiCad")(uri "${KIPRJMOD}/nmos_Library.kicad_sym")(options "")(descr ""))
 )

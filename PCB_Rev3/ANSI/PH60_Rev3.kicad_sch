@@ -3328,6 +3328,256 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "PCM_Diode_TVS_AKL:PTVS5V0P1UP"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "PTVS5V0P1UP"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "PCM_Diode_SMD_AKL:D_SOD-128"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.tme.eu/Document/475226a1f5f23e88222b181b564f5c39/PTVSXP1UP_SER.pdf"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "SOD-128 Unidirectional TVS diode, 5V, 600W, Alternate KiCAD Library"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "diode unidirectional TVS PTVS-P1UP"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "TO-???* *_Diode_* *SingleDiode* D_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "PTVS5V0P1UP_0_1"
+				(polyline
+					(pts
+						(xy -1.27 1.27) (xy -1.27 -1.27) (xy 1.27 0) (xy -1.27 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 0) (xy 1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 1.27) (xy 0.762 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -1.27) (xy 1.27 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "PTVS5V0P1UP_0_2"
+				(polyline
+					(pts
+						(xy -2.54 -2.54) (xy 2.54 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.889 -0.889) (xy -1.778 0) (xy 0.889 0.889) (xy 0 -1.778) (xy -0.889 -0.889)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 1.778) (xy -0.381 1.397)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 1.778) (xy 1.778 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "PTVS5V0P1UP_1_1"
+				(pin passive line
+					(at -3.81 0 0)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 3.81 0 180)
+					(length 2.54)
+					(name "K"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "PTVS5V0P1UP_1_2"
+				(pin passive line
+					(at -2.54 -2.54 0)
+					(length 0)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 2.54 180)
+					(length 0)
+					(name "K"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Power_Protection:PRTR5V0U2X"
 			(pin_names
 				(offset 0)
@@ -3862,6 +4112,322 @@
 						)
 					)
 					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Simulation_SPICE:NMOS"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "Q"
+				(at 5.08 1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "NMOS"
+				(at 5.08 -1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" ""
+				(at 5.08 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_MOSFETs"
+				(at 0 -12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "N-MOSFET transistor, drain/source/gate"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sim.Device" "NMOS"
+				(at 0 -17.145 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sim.Type" "VDMOS"
+				(at 0 -19.05 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sim.Pins" "1=D 2=G 3=S"
+				(at 0 -15.24 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "transistor NMOS N-MOS N-MOSFET simulation"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "NMOS_0_1"
+				(polyline
+					(pts
+						(xy 0.254 1.905) (xy 0.254 -1.905)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.254 0) (xy -2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 2.286) (xy 0.762 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 0.508) (xy 0.762 -0.508)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 -1.27) (xy 0.762 -2.286)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 -1.778) (xy 3.302 -1.778) (xy 3.302 1.778) (xy 0.762 1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.016 0) (xy 2.032 0.381) (xy 2.032 -0.381) (xy 1.016 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center 1.651 0)
+					(radius 2.794)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 2.54) (xy 2.54 1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 2.54 1.778)
+					(radius 0.254)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center 2.54 -1.778)
+					(radius 0.254)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 -2.54) (xy 2.54 0) (xy 0.762 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.794 0.508) (xy 2.921 0.381) (xy 3.683 0.381) (xy 3.81 0.254)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.302 0.381) (xy 2.921 -0.254) (xy 3.683 -0.254) (xy 3.302 0.381)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "NMOS_1_1"
+				(pin input line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "G"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 5.08 270)
+					(length 2.54)
+					(name "D"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 -5.08 90)
+					(length 2.54)
+					(name "S"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -5367,7 +5933,7 @@
 		(uuid "4284be2b-b282-4994-9310-955532b699c5")
 	)
 	(junction
-		(at 53.34 154.94)
+		(at 67.31 160.02)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "455f359f-cde6-4be3-bd75-f7c81f0e39cc")
@@ -5481,6 +6047,12 @@
 		(uuid "97c66ad1-a66a-4681-b62f-83493f572ac3")
 	)
 	(junction
+		(at 39.37 160.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9b56f80e-9964-4243-a1fe-52aba0795a31")
+	)
+	(junction
 		(at 130.81 53.34)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5533,12 +6105,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bc01fba5-3192-4daf-a612-21e68e6f5933")
-	)
-	(junction
-		(at 25.4 118.11)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "bd7b6460-3d90-4ee3-b7c5-13490ccf579a")
 	)
 	(junction
 		(at 162.56 49.53)
@@ -5732,16 +6298,6 @@
 	)
 	(wire
 		(pts
-			(xy 38.1 149.86) (xy 38.1 154.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0e779191-00f6-412e-a80b-79c4a271606c")
-	)
-	(wire
-		(pts
 			(xy 203.2 142.24) (xy 215.9 142.24)
 		)
 		(stroke
@@ -5802,7 +6358,7 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 154.94) (xy 53.34 154.94)
+			(xy 62.23 160.02) (xy 67.31 160.02)
 		)
 		(stroke
 			(width 0)
@@ -5859,16 +6415,6 @@
 			(type default)
 		)
 		(uuid "241627cd-49aa-4afc-bbc9-6d4dcfda298e")
-	)
-	(wire
-		(pts
-			(xy 38.1 154.94) (xy 43.18 154.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "248fe5dd-ce4f-4d71-b306-cfae0b90d5da")
 	)
 	(wire
 		(pts
@@ -5972,6 +6518,16 @@
 	)
 	(wire
 		(pts
+			(xy 27.94 182.88) (xy 34.29 182.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2e1d9af3-71b9-426e-86e4-f7954f308218")
+	)
+	(wire
+		(pts
 			(xy 196.85 36.83) (xy 208.28 36.83)
 		)
 		(stroke
@@ -5989,6 +6545,16 @@
 			(type default)
 		)
 		(uuid "2fef2d3d-75a1-4a9d-818e-89b3b5a2855a")
+	)
+	(wire
+		(pts
+			(xy 39.37 160.02) (xy 44.45 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3002549c-bc46-4a55-9118-8fecd643443b")
 	)
 	(wire
 		(pts
@@ -6089,6 +6655,16 @@
 			(type default)
 		)
 		(uuid "3afb1f21-9eee-423d-b84a-3588287a5a98")
+	)
+	(wire
+		(pts
+			(xy 52.07 160.02) (xy 57.15 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3c920e11-0951-4196-b93c-44de65137df2")
 	)
 	(wire
 		(pts
@@ -6272,7 +6848,7 @@
 	)
 	(wire
 		(pts
-			(xy 25.4 118.11) (xy 25.4 116.84)
+			(xy 25.4 116.84) (xy 25.4 123.19)
 		)
 		(stroke
 			(width 0)
@@ -6319,6 +6895,16 @@
 			(type default)
 		)
 		(uuid "57098113-e423-4358-8974-ace9a3938a7f")
+	)
+	(wire
+		(pts
+			(xy 39.37 160.02) (xy 39.37 175.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5a2a5e51-9a45-4228-b1e0-a2250f21dc47")
 	)
 	(wire
 		(pts
@@ -6372,16 +6958,6 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 113.03) (xy 30.48 118.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "61a4d297-720e-431a-8124-9019423191bc")
-	)
-	(wire
-		(pts
 			(xy 67.31 123.19) (xy 67.31 121.92)
 		)
 		(stroke
@@ -6389,6 +6965,16 @@
 			(type default)
 		)
 		(uuid "62e5ae52-d4fb-46f7-9e81-128e038794ae")
+	)
+	(wire
+		(pts
+			(xy 44.45 182.88) (xy 50.8 182.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "63c8bc64-18bc-44b1-a9e3-69ce41c56d06")
 	)
 	(wire
 		(pts
@@ -6532,7 +7118,7 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 154.94) (xy 53.34 156.21)
+			(xy 67.31 160.02) (xy 67.31 161.29)
 		)
 		(stroke
 			(width 0)
@@ -6629,6 +7215,16 @@
 			(type default)
 		)
 		(uuid "82d1480b-e927-442b-8694-aba44988c6cf")
+	)
+	(wire
+		(pts
+			(xy 21.59 151.13) (xy 21.59 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "82eb8d62-9294-49b8-80ce-ba3722f44dc4")
 	)
 	(wire
 		(pts
@@ -6809,16 +7405,6 @@
 			(type default)
 		)
 		(uuid "a60a237c-10b9-4b6c-8450-2f4c167b7e87")
-	)
-	(wire
-		(pts
-			(xy 30.48 118.11) (xy 25.4 118.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a613c195-c1df-406e-93b5-f2e4dd23a0f9")
 	)
 	(wire
 		(pts
@@ -7202,16 +7788,6 @@
 	)
 	(wire
 		(pts
-			(xy 25.4 123.19) (xy 25.4 118.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d1b68dee-643f-4d2a-9d0b-952bb69936ee")
-	)
-	(wire
-		(pts
 			(xy 97.79 138.43) (xy 110.49 138.43)
 		)
 		(stroke
@@ -7222,7 +7798,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 149.86) (xy 66.04 154.94)
+			(xy 80.01 154.94) (xy 80.01 160.02)
 		)
 		(stroke
 			(width 0)
@@ -7252,7 +7828,17 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 181.61) (xy 53.34 184.15)
+			(xy 21.59 160.02) (xy 39.37 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d85201d3-ecc7-4bd1-884d-eac4e894f3d5")
+	)
+	(wire
+		(pts
+			(xy 67.31 186.69) (xy 67.31 189.23)
 		)
 		(stroke
 			(width 0)
@@ -7512,6 +8098,16 @@
 	)
 	(wire
 		(pts
+			(xy 39.37 158.75) (xy 39.37 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f766881b-c903-4496-af97-90b07d07161c")
+	)
+	(wire
+		(pts
 			(xy 85.09 118.11) (xy 85.09 123.19)
 		)
 		(stroke
@@ -7522,7 +8118,7 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 154.94) (xy 66.04 154.94)
+			(xy 67.31 160.02) (xy 80.01 160.02)
 		)
 		(stroke
 			(width 0)
@@ -7816,7 +8412,7 @@
 	)
 	(global_label "USB_D-"
 		(shape input)
-		(at 66.04 168.91 0)
+		(at 80.01 173.99 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7826,7 +8422,7 @@
 		)
 		(uuid "172cf5dc-a8bd-49a7-8200-87119d377aef")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 76.6452 168.91 0)
+			(at 90.6152 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8300,7 +8896,7 @@
 	)
 	(global_label "USB_D+"
 		(shape input)
-		(at 40.64 168.91 180)
+		(at 54.61 173.99 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8310,7 +8906,7 @@
 		)
 		(uuid "c2f27d05-e892-4f83-a0c4-6dab25d08187")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 30.0348 168.91 0)
+			(at 44.0048 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9205,72 +9801,6 @@
 	)
 	(symbol
 		(lib_id "power:VBUS")
-		(at 38.1 149.86 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1f35cdf2-809a-430e-9c7d-79bbe7007976")
-		(property "Reference" "#PWR019"
-			(at 38.1 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "VBUS_UP"
-			(at 38.1 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 38.1 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 38.1 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"VBUS\""
-			(at 38.1 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "96d1b8b4-4892-4595-93c1-45e3cbbb124b")
-		)
-		(instances
-			(project "PH60_Rev3"
-				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7"
-					(reference "#PWR019")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:VBUS")
 		(at 280.67 189.23 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9536,7 +10066,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 53.34 184.15 0)
+		(at 67.31 189.23 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9545,7 +10075,7 @@
 		(fields_autoplaced yes)
 		(uuid "2779400a-d8b3-40c1-95d7-e0574f974db2")
 		(property "Reference" "#PWR023"
-			(at 53.34 190.5 0)
+			(at 67.31 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9554,7 +10084,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 53.34 189.23 0)
+			(at 67.31 194.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9562,7 +10092,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 53.34 184.15 0)
+			(at 67.31 189.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9571,7 +10101,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 53.34 184.15 0)
+			(at 67.31 189.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9580,7 +10110,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 53.34 184.15 0)
+			(at 67.31 189.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9685,7 +10215,7 @@
 	)
 	(symbol
 		(lib_id "Power_Protection:PRTR5V0U2X")
-		(at 53.34 168.91 0)
+		(at 67.31 173.99 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9694,7 +10224,7 @@
 		(fields_autoplaced yes)
 		(uuid "2cc9eee2-ca93-4e8c-94b6-0c84574baaa4")
 		(property "Reference" "D1"
-			(at 68.58 162.4898 0)
+			(at 82.55 167.5698 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9702,7 +10232,7 @@
 			)
 		)
 		(property "Value" "PRTR5V0U2X"
-			(at 68.58 165.0298 0)
+			(at 82.55 170.1098 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9710,7 +10240,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-143"
-			(at 54.864 168.91 0)
+			(at 68.834 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9719,7 +10249,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/PRTR5V0U2X.pdf"
-			(at 54.864 168.91 0)
+			(at 68.834 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9728,7 +10258,7 @@
 			)
 		)
 		(property "Description" "Ultra low capacitance double rail-to-rail ESD protection diode, SOT-143"
-			(at 53.34 168.91 0)
+			(at 67.31 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10512,6 +11042,71 @@
 		)
 	)
 	(symbol
+		(lib_id "power:VBUS")
+		(at 21.59 151.13 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "500955df-2913-4cb7-b9fa-a449836e17c1")
+		(property "Reference" "#PWR042"
+			(at 21.59 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VBUS_UP"
+			(at 21.59 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 21.59 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 21.59 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VBUS\""
+			(at 21.59 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b6d4a18f-2c1e-4453-a63d-c9508b0722dd")
+		)
+		(instances
+			(project "PH60_Rev3"
+				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7"
+					(reference "#PWR042")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 185.42 43.18 0)
 		(unit 1)
@@ -10642,6 +11237,72 @@
 			(project "PH60_Rev3"
 				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7"
 					(reference "#PWR027")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:VBUS")
+		(at 27.94 182.88 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "54d5dda1-685f-4b76-8ccd-b074a0d9f478")
+		(property "Reference" "#PWR051"
+			(at 27.94 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VBUS_SW"
+			(at 31.496 178.816 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 27.94 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 27.94 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VBUS\""
+			(at 27.94 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2f05ea41-e7cc-47b7-9d5a-452c258d45be")
+		)
+		(instances
+			(project "PH60_Rev3"
+				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7"
+					(reference "#PWR051")
 					(unit 1)
 				)
 			)
@@ -11553,6 +12214,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:VBUS")
+		(at 50.8 182.88 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7fc3016f-f735-410e-8753-826d5583d700")
+		(property "Reference" "#PWR043"
+			(at 50.8 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VBUS"
+			(at 50.8 178.435 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 50.8 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 50.8 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VBUS\""
+			(at 50.8 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "98f852dd-ec40-4bb2-97c6-c6e702aaec3e")
+		)
+		(instances
+			(project "PH60_Rev3"
+				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7"
+					(reference "#PWR043")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:Conn_01x02_Pin")
 		(at 210.82 177.8 180)
 		(unit 1)
@@ -12223,6 +12950,104 @@
 			(project "PH60_Rev3"
 				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7"
 					(reference "#PWR029")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Simulation_SPICE:NMOS")
+		(at 39.37 180.34 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9a735028-7e93-475b-a2a7-540daa50faec")
+		(property "Reference" "Q1"
+			(at 39.37 186.69 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "NMOS"
+			(at 39.37 189.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-3"
+			(at 41.91 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_MOSFETs"
+			(at 26.67 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "N-MOSFET transistor, drain/source/gate"
+			(at 39.37 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "NMOS"
+			(at 22.225 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" "VDMOS"
+			(at 20.32 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=D 2=G 3=S"
+			(at 24.13 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "db7482f9-2138-43f9-9cf1-23a787422dd1")
+		)
+		(pin "1"
+			(uuid "89b67520-12bd-4cd8-99cb-18235d6f9d7c")
+		)
+		(pin "3"
+			(uuid "521ac13d-0777-4872-9537-bcfcfde0140e")
+		)
+		(instances
+			(project ""
+				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7"
+					(reference "Q1")
 					(unit 1)
 				)
 			)
@@ -12949,7 +13774,7 @@
 	)
 	(symbol
 		(lib_id "power:VBUS")
-		(at 66.04 149.86 0)
+		(at 80.01 154.94 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12958,7 +13783,7 @@
 		(fields_autoplaced yes)
 		(uuid "b90e394e-f0e3-41fb-81cc-519f45550eb1")
 		(property "Reference" "#PWR020"
-			(at 66.04 153.67 0)
+			(at 80.01 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12967,7 +13792,7 @@
 			)
 		)
 		(property "Value" "VBUS"
-			(at 66.04 144.78 0)
+			(at 80.01 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12975,7 +13800,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 66.04 149.86 0)
+			(at 80.01 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12984,7 +13809,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 66.04 149.86 0)
+			(at 80.01 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12993,7 +13818,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VBUS\""
-			(at 66.04 149.86 0)
+			(at 80.01 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13313,6 +14138,73 @@
 			(project ""
 				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7"
 					(reference "U2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PCM_Diode_TVS_AKL:PTVS5V0P1UP")
+		(at 48.26 160.02 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c00decc5-d008-4036-af74-c7c690acc647")
+		(property "Reference" "D63"
+			(at 48.26 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "PTVS5V0P1UP"
+			(at 48.26 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "PCM_Diode_SMD_AKL:D_0603_1608Metric_TVS"
+			(at 48.26 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.tme.eu/Document/475226a1f5f23e88222b181b564f5c39/PTVSXP1UP_SER.pdf"
+			(at 48.26 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "SOD-128 Unidirectional TVS diode, 5V, 600W, Alternate KiCAD Library"
+			(at 48.26 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "c090d88a-6219-4c7f-9ecf-d6d192ea1d6d")
+		)
+		(pin "1"
+			(uuid "e5e73448-92d7-41d3-ab5c-64f36b2a0542")
+		)
+		(instances
+			(project "PH60_Rev3"
+				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7"
+					(reference "D63")
 					(unit 1)
 				)
 			)
@@ -14164,7 +15056,7 @@
 	)
 	(symbol
 		(lib_id "Device:Polyfuse_Small")
-		(at 45.72 154.94 90)
+		(at 59.69 160.02 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14172,7 +15064,7 @@
 		(dnp no)
 		(uuid "dc4d0974-5b7f-4741-88d6-97717027420c")
 		(property "Reference" "F1"
-			(at 45.72 149.352 90)
+			(at 59.69 154.432 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14180,7 +15072,7 @@
 			)
 		)
 		(property "Value" "1000ma"
-			(at 45.72 152.146 90)
+			(at 59.69 157.226 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14188,7 +15080,7 @@
 			)
 		)
 		(property "Footprint" "Fuse:Fuse_0805_2012Metric"
-			(at 50.8 153.67 0)
+			(at 64.77 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14198,7 +15090,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 45.72 154.94 0)
+			(at 59.69 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14207,7 +15099,7 @@
 			)
 		)
 		(property "Description" "Resettable fuse, polymeric positive temperature coefficient, small symbol"
-			(at 45.72 154.94 0)
+			(at 59.69 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
