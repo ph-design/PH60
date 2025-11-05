@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "PH60")(type "KiCad")(uri "${KIPRJMOD}/PH60.pretty")(options "")(descr ""))
+  (lib (name "PH60-hole")(type "KiCad")(uri "${KIPRJMOD}/hole.pretty")(options "")(descr ""))
+)
