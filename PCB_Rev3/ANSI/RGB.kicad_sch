@@ -4600,7 +4600,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1dc4de1c-116b-468b-a623-8b7b0d956033")
-		(property "Reference" "C26"
+		(property "Reference" "C24"
 			(at 237.49 116.8399 0)
 			(effects
 				(font
@@ -4654,7 +4654,7 @@
 		(instances
 			(project "PH60_Rev3"
 				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7/c0337f82-e68f-485d-b406-18ae8e593971"
-					(reference "C26")
+					(reference "C24")
 					(unit 1)
 				)
 			)
@@ -5050,7 +5050,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2d518d6a-7aa0-4981-9a9c-703455409ef2")
-		(property "Reference" "C25"
+		(property "Reference" "C23"
 			(at 223.52 116.8399 0)
 			(effects
 				(font
@@ -5104,7 +5104,7 @@
 		(instances
 			(project "PH60_Rev3"
 				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7/c0337f82-e68f-485d-b406-18ae8e593971"
-					(reference "C25")
+					(reference "C23")
 					(unit 1)
 				)
 			)
@@ -5120,7 +5120,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2ee3e08a-9c90-49b1-b950-0efc534595c5")
-		(property "Reference" "C24"
+		(property "Reference" "C22"
 			(at 208.28 116.8399 0)
 			(effects
 				(font
@@ -5174,7 +5174,7 @@
 		(instances
 			(project ""
 				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7/c0337f82-e68f-485d-b406-18ae8e593971"
-					(reference "C24")
+					(reference "C22")
 					(unit 1)
 				)
 			)
