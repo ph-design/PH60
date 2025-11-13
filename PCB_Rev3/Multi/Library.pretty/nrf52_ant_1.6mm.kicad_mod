@@ -1,0 +1,136 @@
+(footprint "nrf52_ant_1.6mm"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "AE1"
+		(at -0.015 3.925 0)
+		(unlocked yes)
+		(layer "Eco2.User")
+		(uuid "15145545-3a3b-4559-86f3-61f61d94cb92")
+		(effects
+			(font
+				(size 0.3 0.3)
+				(thickness 0.05)
+			)
+		)
+	)
+	(property "Value" "Antenna"
+		(at 0 -2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9d3a990a-a5c4-4256-97b6-609dae9223dc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "41c726dd-872d-4772-9c0a-8474d8fa10b2")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Antenna"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3304e017-ed0e-4ff5-b07b-2e4f840119c0")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "exclude_from_bom" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7b726f21-7753-49e7-b5da-93e248ec16d5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr exclude_from_bom)
+	(pad "1" smd custom
+		(at 0 0 180)
+		(size 0.254 0.254)
+		(layers "F.Cu" "F.Mask")
+		(options
+			(clearance outline)
+			(anchor circle)
+		)
+		(primitives
+			(gr_line
+				(start 0 0)
+				(end 0 5.727207)
+				(width 0.254)
+			)
+			(gr_line
+				(start 0 5.727207)
+				(end 2.217801 5.727207)
+				(width 0.254)
+			)
+			(gr_line
+				(start 2.217801 5.727207)
+				(end 2.217801 2.783601)
+				(width 0.254)
+			)
+			(gr_line
+				(start 2.217801 2.783601)
+				(end 4.275201 2.783601)
+				(width 0.254)
+			)
+			(gr_line
+				(start 4.275201 5.727207)
+				(end 4.275201 2.783601)
+				(width 0.254)
+			)
+			(gr_line
+				(start 4.275201 5.727207)
+				(end 6.256401 5.727207)
+				(width 0.254)
+			)
+			(gr_line
+				(start 6.256401 5.727207)
+				(end 6.256401 2.758201)
+				(width 0.254)
+			)
+			(gr_line
+				(start 6.256401 2.758201)
+				(end 8.212201 2.758201)
+				(width 0.254)
+			)
+			(gr_line
+				(start 8.212201 5.727207)
+				(end 8.212201 2.758201)
+				(width 0.254)
+			)
+			(gr_line
+				(start 8.212201 5.727207)
+				(end 10.091801 5.727207)
+				(width 0.254)
+			)
+			(gr_line
+				(start 10.091801 5.727207)
+				(end 10.091801 2.763004)
+				(width 0.254)
+			)
+		)
+		(uuid "3e9e42bd-13a7-416e-8099-f51504d139cd")
+	)
+	(embedded_fonts no)
+)

@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "nRF52810_Module")(type "KiCad")(uri "${KIPRJMOD}/nRF52810_Module.kicad_sym")(options "")(descr ""))
+)
