@@ -466,7 +466,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "PH60_Rev2.kicad_pro",
+    "filename": "PH60_Rev3.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -610,6 +610,12 @@
           "label": "描述",
           "name": "Description",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "exclude_from_bom",
+          "name": "exclude_from_bom",
+          "show": false
         }
       ],
       "filter_string": "",
@@ -675,6 +681,10 @@
     [
       "dc5cd3b2-ef82-41de-b720-71645d542746",
       "matrix"
+    ],
+    [
+      "66b8979d-49bb-4217-b15b-642eccd5319a",
+      "RGB underglow"
     ]
   ],
   "text_variables": {}
