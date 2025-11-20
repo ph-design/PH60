@@ -4496,256 +4496,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "PCM_Diode_TVS_AKL:PTVS5V0P1UP"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 1.016)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "D"
-				(at 0 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "PTVS5V0P1UP"
-				(at 0 2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "PCM_Diode_SMD_AKL:D_SOD-128"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://www.tme.eu/Document/475226a1f5f23e88222b181b564f5c39/PTVSXP1UP_SER.pdf"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "SOD-128 Unidirectional TVS diode, 5V, 600W, Alternate KiCAD Library"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "diode unidirectional TVS PTVS-P1UP"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "TO-???* *_Diode_* *SingleDiode* D_*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "PTVS5V0P1UP_0_1"
-				(polyline
-					(pts
-						(xy -1.27 1.27) (xy -1.27 -1.27) (xy 1.27 0) (xy -1.27 1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.27 0) (xy 1.27 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 1.27) (xy 0.762 1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 -1.27) (xy 1.27 1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "PTVS5V0P1UP_0_2"
-				(polyline
-					(pts
-						(xy -2.54 -2.54) (xy 2.54 2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -0.889 -0.889) (xy -1.778 0) (xy 0.889 0.889) (xy 0 -1.778) (xy -0.889 -0.889)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 1.778) (xy -0.381 1.397)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 1.778) (xy 1.778 0)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "PTVS5V0P1UP_1_1"
-				(pin passive line
-					(at -3.81 0 0)
-					(length 2.54)
-					(name "A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 3.81 0 180)
-					(length 2.54)
-					(name "K"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(symbol "PTVS5V0P1UP_1_2"
-				(pin passive line
-					(at -2.54 -2.54 0)
-					(length 0)
-					(name "A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 2.54 2.54 180)
-					(length 0)
-					(name "K"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Power_Protection:PRTR5V0U2X"
 			(pin_names
 				(offset 0)
@@ -5104,182 +4854,6 @@
 						)
 					)
 					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "Switch:SW_SPDT_321"
-			(pin_names
-				(offset 1)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "SW"
-				(at 0 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "SW_SPDT_321"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 -10.16 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Switch, single pole double throw"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "switch single-pole double-throw spdt ON-ON"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "SW_SPDT_321_0_1"
-				(circle
-					(center -2.032 0)
-					(radius 0.4572)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.651 0.254) (xy 1.651 2.286)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 2.032 2.54)
-					(radius 0.4572)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 2.032 -2.54)
-					(radius 0.4572)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "SW_SPDT_321_1_1"
-				(rectangle
-					(start -3.175 3.81)
-					(end 3.175 -3.81)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin passive line
-					(at -5.08 0 0)
-					(length 2.54)
-					(name "B"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 2.54 180)
-					(length 2.54)
-					(name "A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 -2.54 180)
-					(length 2.54)
-					(name "C"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -5741,12 +5315,6 @@
 		(uuid "3e154ef7-6f9b-428c-af28-994c835f4c48")
 	)
 	(junction
-		(at 96.9132 40.5342)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3e43b219-bc0e-46c1-8d94-763b088d6358")
-	)
-	(junction
 		(at 266.7 67.31)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5897,10 +5465,10 @@
 		(uuid "c6663ca8-1123-4501-9619-8710f02a638d")
 	)
 	(junction
-		(at 96.9132 37.9942)
+		(at 66.4332 29.21)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "dcac5a09-fa2b-4930-aaed-3c423f3e728d")
+		(uuid "c80c276d-1e4b-4f41-b302-fe9a63eebdd6")
 	)
 	(junction
 		(at 163.83 134.62)
@@ -6053,16 +5621,6 @@
 	(no_connect
 		(at 63.5 236.22)
 		(uuid "eddbfca9-d7a9-4e80-b197-b7a4a27f0c5e")
-	)
-	(wire
-		(pts
-			(xy 84.2132 40.5342) (xy 96.9132 40.5342)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "002d1317-897d-4072-bc1b-0238f90dbd2c")
 	)
 	(wire
 		(pts
@@ -6366,16 +5924,6 @@
 	)
 	(wire
 		(pts
-			(xy 96.9132 36.7242) (xy 96.9132 37.9942)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "29024f6b-b7e3-4fe7-b96b-96c33ca8882a")
-	)
-	(wire
-		(pts
 			(xy 66.04 218.44) (xy 66.04 220.98)
 		)
 		(stroke
@@ -6393,6 +5941,16 @@
 			(type default)
 		)
 		(uuid "2ad8c43e-689d-45f9-9103-9012d993c7a9")
+	)
+	(wire
+		(pts
+			(xy 66.4332 29.21) (xy 66.4332 40.5342)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2bb5da3b-38c9-43b7-b4ec-f15d37be3969")
 	)
 	(wire
 		(pts
@@ -6453,16 +6011,6 @@
 			(type default)
 		)
 		(uuid "31efca40-f450-4e62-81ca-9371599210ea")
-	)
-	(wire
-		(pts
-			(xy 96.9132 37.9942) (xy 96.9132 40.5342)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3233a0a9-ec8c-43fe-8e4b-3928284df358")
 	)
 	(wire
 		(pts
@@ -6553,16 +6101,6 @@
 			(type default)
 		)
 		(uuid "3c1ae6c2-c414-4f03-ba2f-32a2fff7818c")
-	)
-	(wire
-		(pts
-			(xy 76.5932 40.5342) (xy 66.4332 40.5342)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3d1967b6-9ad8-46cd-afc8-66a7e4d3037c")
 	)
 	(wire
 		(pts
@@ -6903,16 +6441,6 @@
 			(type default)
 		)
 		(uuid "75a2c624-7532-465c-976f-dba196ea20dc")
-	)
-	(wire
-		(pts
-			(xy 96.9132 40.5342) (xy 96.9132 43.0742)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "75f98dc6-09d3-4c27-b422-35049ea9593f")
 	)
 	(wire
 		(pts
@@ -7666,7 +7194,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.4332 29.1042) (xy 66.4332 40.5342)
+			(xy 66.4332 29.1042) (xy 66.4332 29.21)
 		)
 		(stroke
 			(width 0)
@@ -8309,6 +7837,28 @@
 		(uuid "212b3ca1-e1d8-444e-ac27-287b26324966")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 259.5251 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "col_14"
+		(shape input)
+		(at 278.13 146.05 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "231800fb-c664-471d-9aed-ad9f72a5695c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 287.4046 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9309,73 +8859,6 @@
 			(project "PH60_Rev2"
 				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7"
 					(reference "#PWR014")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:VBUS")
-		(at 66.4332 29.1042 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "29120a0e-2207-4980-a24e-9be03ea7d6a9")
-		(property "Reference" "#PWR032"
-			(at 66.4332 32.9142 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "VBUS_in"
-			(at 68.9732 27.8341 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 66.4332 29.1042 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 66.4332 29.1042 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"VBUS\""
-			(at 66.4332 29.1042 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "29ad47a2-a132-4175-96cb-fbf20fc08dac")
-		)
-		(instances
-			(project "PH60_Rev3"
-				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7"
-					(reference "#PWR032")
 					(unit 1)
 				)
 			)
@@ -10940,80 +10423,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_SPDT_321")
-		(at 101.9932 45.6142 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "65a8f80c-8188-488a-b48a-d73dd985c53f")
-		(property "Reference" "SW1"
-			(at 111.3912 42.5662 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Value" "SW_SPDT_321"
-			(at 108.0892 22.7542 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Button_Switch_SMD:SW_SPDT_PCM12"
-			(at 101.9932 35.4542 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 101.9932 37.9942 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Switch, single pole double throw"
-			(at 101.9932 45.6142 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "8bdaf8f9-a33b-497e-ac73-770be70404c6")
-		)
-		(pin "1"
-			(uuid "76e1eee3-913d-4432-9965-58c7ccf89f5d")
-		)
-		(pin "3"
-			(uuid "baa22bac-a094-4446-81d3-ba9b1673b090")
-		)
-		(instances
-			(project "PH60_Rev3"
-				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7"
-					(reference "SW1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 153.67 143.51 0)
 		(unit 1)
@@ -11160,6 +10569,73 @@
 			(project "PH60_Rev3"
 				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7"
 					(reference "R12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:VBUS")
+		(at 66.4332 29.21 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "69cc3916-b2f1-4de3-bf6f-289aebb4a319")
+		(property "Reference" "#PWR02"
+			(at 66.4332 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VBUS_USB"
+			(at 68.9732 27.9399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 66.4332 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 66.4332 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VBUS\""
+			(at 66.4332 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "620465a8-642d-4853-bbb9-cb576d281f55")
+		)
+		(instances
+			(project "PH60_Rev3"
+				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7"
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -12359,74 +11835,6 @@
 		)
 	)
 	(symbol
-		(lib_id "PCM_Diode_TVS_AKL:PTVS5V0P1UP")
-		(at 80.4032 40.5342 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "938df797-da8b-48e3-a942-3ef7e292f719")
-		(property "Reference" "D68"
-			(at 80.4032 34.1842 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "PTVS5V0P1UP"
-			(at 80.4032 36.7242 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "PCM_Diode_SMD_AKL:D_SOD-882_DFN1006-2"
-			(at 80.4032 40.5342 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.tme.eu/Document/475226a1f5f23e88222b181b564f5c39/PTVSXP1UP_SER.pdf"
-			(at 80.4032 40.5342 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "SOD-128 Unidirectional TVS diode, 5V, 600W, Alternate KiCAD Library"
-			(at 80.4032 40.5342 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "3a4b9fe3-cde3-4e4c-96ed-4173dcc06e05")
-		)
-		(pin "1"
-			(uuid "b725c54a-3657-4c06-beb6-2254e5b9898d")
-		)
-		(instances
-			(project "PH60_Rev3"
-				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7"
-					(reference "D68")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C_Small")
 		(at 129.54 234.95 0)
 		(unit 1)
@@ -12834,72 +12242,6 @@
 			(project "PH60_Rev3"
 				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7"
 					(reference "C4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:VBUS")
-		(at 96.9132 36.7242 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "aefe2620-32c8-4b81-8a6f-820f152a2e7d")
-		(property "Reference" "#PWR037"
-			(at 96.9132 40.5342 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "VBUS"
-			(at 96.9132 31.6442 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 96.9132 36.7242 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 96.9132 36.7242 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"VBUS\""
-			(at 96.9132 36.7242 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "2fc5d463-c0a7-4878-aafe-0e5deca4a517")
-		)
-		(instances
-			(project "PH60_Rev3"
-				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7"
-					(reference "#PWR037")
 					(unit 1)
 				)
 			)
@@ -13452,72 +12794,6 @@
 			(project "PH60_Rev3"
 				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7"
 					(reference "#PWR051")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:VBUS")
-		(at 96.9132 37.9942 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "d377289a-4b10-4d70-a4ae-18fd7125ba31")
-		(property "Reference" "#PWR039"
-			(at 93.1032 37.9942 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "VBUS_SW"
-			(at 106.5652 36.4702 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 96.9132 37.9942 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 96.9132 37.9942 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"VBUS\""
-			(at 96.9132 37.9942 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "8ccad93a-84a1-4ea1-b617-44e8d2dbf6e6")
-		)
-		(instances
-			(project "PH60_Rev3"
-				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7"
-					(reference "#PWR039")
 					(unit 1)
 				)
 			)
