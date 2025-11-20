@@ -511,7 +511,10 @@
     "meta": {
       "version": 4
     },
-    "net_colors": null,
+    "net_colors": {
+      "Net-(U2-ANT)": "rgb(255, 0, 196)",
+      "Net-(U2-D-)": "rgb(255, 11, 171)"
+    },
     "netclass_assignments": null,
     "netclass_patterns": [
       {
