@@ -596,7 +596,7 @@
 	)
 	(text "2.25u/ISO/BA\nENTER\n"
 		(exclude_from_sim no)
-		(at 339.598 103.886 0)
+		(at 339.09 104.14 0)
 		(effects
 			(font
 				(face "Oxanium ExtraLight")
@@ -609,7 +609,7 @@
 	)
 	(text "6u/6.25u/7u ? 2.25u/1.25u/2.75u\nSPCACE\n"
 		(exclude_from_sim no)
-		(at 198.628 163.322 0)
+		(at 198.12 163.83 0)
 		(effects
 			(font
 				(face "Oxanium ExtraLight")
@@ -635,7 +635,7 @@
 	)
 	(text "2u/1u\nBKSP\n"
 		(exclude_from_sim no)
-		(at 399.288 63.5 0)
+		(at 398.78 63.5 0)
 		(effects
 			(font
 				(face "Oxanium ExtraLight")
@@ -648,7 +648,7 @@
 	)
 	(text "1.75u/2.75u\nRSFT"
 		(exclude_from_sim no)
-		(at 365.252 124.714 0)
+		(at 365.76 124.46 0)
 		(effects
 			(font
 				(face "Oxanium ExtraLight")
@@ -15143,7 +15143,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 97.6921 146.05 0)
+		(at 97.79 146.05 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -15152,7 +15152,7 @@
 		(dnp no)
 		(uuid "cc893ec1-1c97-4d45-8bfd-6f13d0994162")
 		(property "Reference" "S59-1"
-			(at 93.726 141.986 0)
+			(at 93.8239 141.986 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -15160,7 +15160,7 @@
 			)
 		)
 		(property "Value" "MX1A"
-			(at 94.488 143.764 0)
+			(at 94.5859 143.764 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -15168,7 +15168,7 @@
 			)
 		)
 		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.50u"
-			(at 97.6921 140.97 0)
+			(at 97.79 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15177,7 +15177,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 97.6921 140.97 0)
+			(at 97.79 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15186,7 +15186,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 97.6921 146.05 0)
+			(at 97.79 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)

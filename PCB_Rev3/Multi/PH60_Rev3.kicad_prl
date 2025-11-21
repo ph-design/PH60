@@ -7,7 +7,7 @@
     "hidden_nets": [
       "VBUS_USB"
     ],
-    "high_contrast_mode": 1,
+    "high_contrast_mode": 0,
     "net_color_mode": 2,
     "opacity": {
       "images": 0.6,
@@ -90,16 +90,16 @@
       9
     ],
     "col_widths": [
-      306,
-      291,
-      184,
-      111,
-      184,
-      184,
-      184,
-      111,
-      184,
-      184
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
     ],
     "custom_group_rules": [],
     "expanded_rows": [],
