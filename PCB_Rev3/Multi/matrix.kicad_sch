@@ -878,10 +878,22 @@
 		(uuid "4cc8cda0-1240-4ff4-908a-bbcbdd6d6f31")
 	)
 	(junction
+		(at 256.54 146.05)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4ee19659-8e97-4007-b004-0ad9098f1ca7")
+	)
+	(junction
 		(at 281.94 82.55)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5194ce79-9686-40fe-829d-4b26f0302069")
+	)
+	(junction
+		(at 246.38 148.59)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "53c1f350-0aa4-4fd9-ad39-fdb979676a9f")
 	)
 	(junction
 		(at 78.74 82.55)
@@ -1226,6 +1238,12 @@
 		(uuid "b32d1dee-2c35-45ce-a0ca-ff81212f9213")
 	)
 	(junction
+		(at 144.78 147.32)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b5398012-960d-470e-ab50-e2aba6fb0548")
+	)
+	(junction
 		(at 129.54 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1314,6 +1332,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "cf1e4e19-ddd0-4271-b70d-41ec7690f13e")
+	)
+	(junction
+		(at 154.94 146.05)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cfd2afba-192a-4999-b5f7-6e3bf4514a67")
 	)
 	(junction
 		(at 358.14 104.14)
@@ -2359,7 +2383,7 @@
 	)
 	(wire
 		(pts
-			(xy 256.54 125.73) (xy 256.54 147.32)
+			(xy 256.54 125.73) (xy 256.54 146.05)
 		)
 		(stroke
 			(width 0)
@@ -2636,6 +2660,26 @@
 			(type default)
 		)
 		(uuid "550406eb-889d-4eab-947b-a28ea42aa6b3")
+	)
+	(wire
+		(pts
+			(xy 143.51 147.32) (xy 144.78 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "550eaec9-7669-466b-94bc-906e3f9f8a72")
+	)
+	(wire
+		(pts
+			(xy 153.67 146.05) (xy 154.94 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "55334ba4-05c0-46ec-bf17-08a2a0020bd3")
 	)
 	(wire
 		(pts
@@ -3009,7 +3053,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 125.73) (xy 154.94 147.32)
+			(xy 154.94 125.73) (xy 154.94 146.05)
 		)
 		(stroke
 			(width 0)
@@ -3066,6 +3110,16 @@
 			(type default)
 		)
 		(uuid "7554c34e-3015-4878-8be1-ae19a29a8283")
+	)
+	(wire
+		(pts
+			(xy 143.51 146.05) (xy 143.51 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7572a9a3-0f95-454d-b1a9-48747a6c6a7a")
 	)
 	(wire
 		(pts
@@ -3259,6 +3313,16 @@
 	)
 	(wire
 		(pts
+			(xy 256.54 146.05) (xy 256.54 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8765a0c0-9c1b-4dd2-a6d3-cea6ce9291af")
+	)
+	(wire
+		(pts
 			(xy 383.54 102.87) (xy 383.54 125.73)
 		)
 		(stroke
@@ -3416,6 +3480,16 @@
 			(type default)
 		)
 		(uuid "934850f3-0b6f-48c9-b90b-d4cc10cac308")
+	)
+	(wire
+		(pts
+			(xy 154.94 146.05) (xy 154.94 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "936c8ef1-2177-4f81-b9b0-f9aa65c8198d")
 	)
 	(wire
 		(pts
@@ -3746,6 +3820,16 @@
 			(type default)
 		)
 		(uuid "afecc0b2-4a18-454c-b9d9-f35950efff1d")
+	)
+	(wire
+		(pts
+			(xy 245.11 146.05) (xy 245.11 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b03f0afe-6cde-4e4c-b257-1e2f596f7c67")
 	)
 	(wire
 		(pts
@@ -4309,6 +4393,16 @@
 	)
 	(wire
 		(pts
+			(xy 245.11 148.59) (xy 246.38 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e045f85c-1c12-4fd0-a804-350e8f9d92ac")
+	)
+	(wire
+		(pts
 			(xy 383.54 125.73) (xy 383.54 146.05)
 		)
 		(stroke
@@ -4726,6 +4820,16 @@
 			(type default)
 		)
 		(uuid "fdc252cf-08a8-4cdb-86ef-7647d291148d")
+	)
+	(wire
+		(pts
+			(xy 255.27 146.05) (xy 256.54 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fdc78bf8-9947-41e2-8124-cbfe3364f489")
 	)
 	(wire
 		(pts
@@ -9052,6 +9156,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 250.19 146.05 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "45dcea27-96da-45a0-bba2-4e50449aa74d")
+		(property "Reference" "S60-1-b2"
+			(at 251.206 151.13 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "MX1A"
+			(at 250.19 148.59 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_3.00u"
+			(at 250.19 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 250.19 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 250.19 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "9e19f8cf-4a66-4f42-b55c-89f728e41cb3")
+		)
+		(pin "1"
+			(uuid "c1c7b706-4704-48ec-8ebc-ff51e086ec16")
+		)
+		(instances
+			(project "PH60_Rev3"
+				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7/dc5cd3b2-ef82-41de-b720-71645d542746"
+					(reference "S60-1-b2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_stab")
 		(at 161.29 149.86 0)
 		(unit 1)
@@ -9179,6 +9351,70 @@
 			(project ""
 				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7/dc5cd3b2-ef82-41de-b720-71645d542746"
 					(reference "S40")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PCM_marbastlib-mx:MX_stab")
+		(at 161.29 156.21 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "485fe921-1d9d-49e1-b9aa-1d2ad487b357")
+		(property "Reference" "S60-x5"
+			(at 167.64 154.8129 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MX_stab"
+			(at 167.64 157.3529 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_Mounting_Keyboard_Stabilizer:Stabilizer_Cherry_MX_2.00u"
+			(at 161.29 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 161.29 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Cherry MX-style stabilizer"
+			(at 161.29 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "PH60_Rev3"
+				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7/dc5cd3b2-ef82-41de-b720-71645d542746"
+					(reference "S60-x5")
 					(unit 1)
 				)
 			)
@@ -9921,6 +10157,70 @@
 		)
 	)
 	(symbol
+		(lib_id "PCM_marbastlib-mx:MX_stab")
+		(at 261.62 156.21 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5b42a7e7-fb25-42f5-af50-f903f1223364")
+		(property "Reference" "S60-x6"
+			(at 267.97 154.8129 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MX_stab"
+			(at 267.97 157.3529 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_Mounting_Keyboard_Stabilizer:Stabilizer_Cherry_MX_2.00u"
+			(at 261.62 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 261.62 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Cherry MX-style stabilizer"
+			(at 261.62 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "PH60_Rev3"
+				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7/dc5cd3b2-ef82-41de-b720-71645d542746"
+					(reference "S60-x6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:D")
 		(at 297.18 130.81 90)
 		(unit 1)
@@ -10248,6 +10548,74 @@
 			(project ""
 				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7/dc5cd3b2-ef82-41de-b720-71645d542746"
 					(reference "S51")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 148.59 146.05 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "65f614fe-f3d3-44c3-9a6c-5c82ee6587ae")
+		(property "Reference" "S60-1-a2"
+			(at 139.446 144.78 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "MX1A"
+			(at 148.59 148.59 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_3.00u"
+			(at 148.59 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 148.59 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 148.59 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "a5a3526d-263c-45be-86a4-6a0a49d6e72c")
+		)
+		(pin "1"
+			(uuid "25f3e5c8-d119-419b-9206-0af923d1d9b5")
+		)
+		(instances
+			(project "PH60_Rev3"
+				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7/dc5cd3b2-ef82-41de-b720-71645d542746"
+					(reference "S60-1-a2")
 					(unit 1)
 				)
 			)
@@ -14149,7 +14517,7 @@
 		(dnp no)
 		(uuid "c059a5bf-87ce-4c0d-9b48-686a675d2d68")
 		(property "Reference" "S60-1-a1"
-			(at 148.844 142.24 0)
+			(at 138.938 147.066 0)
 			(effects
 				(font
 					(size 1.524 1.524)
