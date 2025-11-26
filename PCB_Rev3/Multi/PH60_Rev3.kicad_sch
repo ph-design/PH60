@@ -5267,6 +5267,12 @@
 		(uuid "acfd0248-edc5-48c3-a3e9-e63a520037e9")
 	)
 	(junction
+		(at 281.94 111.76)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ad8720f5-b778-45f3-8faf-54632e3bae8d")
+	)
+	(junction
 		(at 48.26 245.11)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6324,6 +6330,26 @@
 	)
 	(wire
 		(pts
+			(xy 281.94 109.22) (xy 281.94 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "826034be-8854-4904-8ee2-1e068e7b7a10")
+	)
+	(wire
+		(pts
+			(xy 281.94 97.79) (xy 281.94 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "839a62e7-8766-423f-85e6-b4d44c94a902")
+	)
+	(wire
+		(pts
 			(xy 170.18 179.07) (xy 161.29 179.07)
 		)
 		(stroke
@@ -6734,6 +6760,16 @@
 	)
 	(wire
 		(pts
+			(xy 281.94 111.76) (xy 281.94 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c01f292a-a8ca-45be-a6e9-21b9fea4155d")
+	)
+	(wire
+		(pts
 			(xy 210.82 59.69) (xy 210.82 64.77)
 		)
 		(stroke
@@ -6771,6 +6807,16 @@
 			(type default)
 		)
 		(uuid "c46c82f1-7180-4b5c-bc42-6a40672be86e")
+	)
+	(wire
+		(pts
+			(xy 281.94 121.92) (xy 281.94 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c48ad533-b060-4037-9c69-6d9f95e18805")
 	)
 	(wire
 		(pts
@@ -7254,6 +7300,16 @@
 	)
 	(wire
 		(pts
+			(xy 281.94 111.76) (xy 299.72 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f63b9c80-0749-4c73-a061-5f0f0700d3d7")
+	)
+	(wire
+		(pts
 			(xy 153.67 134.62) (xy 153.67 140.97)
 		)
 		(stroke
@@ -7630,6 +7686,28 @@
 			)
 		)
 	)
+	(global_label "batt_level"
+		(shape input)
+		(at 251.46 80.01 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3d33b6f0-c934-4f48-902e-a5026103b726")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 262.9832 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "col_7"
 		(shape input)
 		(at 251.46 110.49 0)
@@ -7960,6 +8038,28 @@
 			)
 		)
 	)
+	(global_label "batt_level"
+		(shape input)
+		(at 299.72 111.76 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d97fd164-24a3-4192-bbe1-ee852488e730")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 311.2432 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "col_6"
 		(shape input)
 		(at 251.46 105.41 0)
@@ -8110,6 +8210,89 @@
 			(project "PH60_Rev3"
 				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7"
 					(reference "C10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 281.94 118.11 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "07ba85e9-f9da-44e0-ad10-cdbb621130c2")
+		(property "Reference" "R11"
+			(at 279.146 118.11 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100k"
+			(at 276.86 118.11 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "PCM_Resistor_SMD_AKL:R_0402_1005Metric"
+			(at 280.162 118.11 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 281.94 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 281.94 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 281.94 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 281.94 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "084d2c2d-2f1e-4d06-8a19-c5d9a40b2c95")
+		)
+		(pin "2"
+			(uuid "32d5490f-3b60-424e-8a13-8c8c5bd28b79")
+		)
+		(instances
+			(project "PH60_Rev3"
+				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7"
+					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -8583,6 +8766,89 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 281.94 105.41 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "29f69937-ac93-4dd9-91d7-1c694ff5220f")
+		(property "Reference" "R9"
+			(at 278.892 105.41 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "33k"
+			(at 276.606 105.41 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "PCM_Resistor_SMD_AKL:R_0402_1005Metric"
+			(at 283.718 105.41 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 281.94 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 281.94 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 281.94 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 281.94 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "294ca3b3-d48e-47ee-93aa-aa7fea3266a9")
+		)
+		(pin "2"
+			(uuid "15e16722-2829-4a6b-887e-e3b5ef604412")
+		)
+		(instances
+			(project "PH60_Rev3"
+				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7"
+					(reference "R9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "PCM_Crystal_AKL:Crystal_Generic_GND24")
 		(at 176.53 135.89 270)
 		(unit 1)
@@ -8788,6 +9054,72 @@
 			(project "PH60_Rev3"
 				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7"
 					(reference "C15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 281.94 127 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "39254c1e-b0a7-4752-a547-e23996542441")
+		(property "Reference" "#PWR043"
+			(at 281.94 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 281.94 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 281.94 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 281.94 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 281.94 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e9139295-5b7d-4bc5-976a-437413c42145")
+		)
+		(instances
+			(project "PH60_Rev3"
+				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7"
+					(reference "#PWR043")
 					(unit 1)
 				)
 			)
@@ -11655,6 +11987,72 @@
 			(project "PH60_Rev3"
 				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7"
 					(reference "U4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+BATT")
+		(at 281.94 97.79 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "98b06aea-1a8a-47fe-a685-ad7cfd031594")
+		(property "Reference" "#PWR034"
+			(at 281.94 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+BATT"
+			(at 281.94 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 281.94 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 281.94 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+BATT\""
+			(at 281.94 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8860ed1a-6410-425f-8d38-430da1409d24")
+		)
+		(instances
+			(project "PH60_Rev3"
+				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7"
+					(reference "#PWR034")
 					(unit 1)
 				)
 			)
