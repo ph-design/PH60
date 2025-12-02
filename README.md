@@ -52,7 +52,7 @@ Before printing, ensure the build plate is leveled and clean. Use adhesive aids 
 | 2.4 GHz wireless receiver (optional) | 1 | --- |
 | LiPo battery pack (optional) | 1 | Recommended: 100 × 50 × 5 mm, Molex 1.25 mm connector |
 | Magnets | 8 | Recommended: 10 × 5 × 3 mm, N52 |
-| Silicone O-rings | 8 | Inner dia. 9 mm, cord dia. 1.5 mm |
+| Silicone O-rings | 8 | Outer dia. 9 mm, cord dia. 1.5 mm |
 | Silicone anti-slip pads | 4 | Recommended: 20 × 10 × 2 mm |
 
 Refer to the assembly video tutorials for step-by-step guidance.
