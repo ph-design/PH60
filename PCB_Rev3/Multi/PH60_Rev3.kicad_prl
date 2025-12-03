@@ -1,11 +1,10 @@
 {
   "board": {
-    "active_layer": 2,
+    "active_layer": 0,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
     "hidden_nets": [
-      "GND",
       "+BATT",
       "VBUS_USB"
     ],
@@ -47,6 +46,7 @@
       "drawing_sheet",
       "bitmaps",
       "pads",
+      "zones",
       "drc_warnings",
       "drc_exclusions",
       "locked_item_shadows",
@@ -91,16 +91,16 @@
       9
     ],
     "col_widths": [
-      13,
-      13,
-      13,
-      13,
-      13,
-      13,
-      13,
-      13,
-      13,
-      100
+      16,
+      16,
+      16,
+      16,
+      16,
+      16,
+      16,
+      16,
+      16,
+      125
     ],
     "custom_group_rules": [],
     "expanded_rows": [],

@@ -145,11 +145,11 @@
       },
       "teardrop_options": [
         {
-          "td_onpthpad": false,
+          "td_onpthpad": true,
           "td_onroundshapesonly": false,
-          "td_onsmdpad": false,
+          "td_onsmdpad": true,
           "td_ontrackend": true,
-          "td_onvia": false
+          "td_onvia": true
         }
       ],
       "teardrop_parameters": [
