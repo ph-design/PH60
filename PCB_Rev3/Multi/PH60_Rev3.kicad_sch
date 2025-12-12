@@ -5417,6 +5417,12 @@
 		(uuid "54d00611-2d85-4656-82a8-b13f728551dd")
 	)
 	(junction
+		(at 359.41 240.03)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "560e30b3-01e2-4ed6-9d40-f3927ed6becd")
+	)
+	(junction
 		(at 227.33 214.63)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5505,6 +5511,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9cf18e7b-4cc4-4be7-bcfc-985d88756c11")
+	)
+	(junction
+		(at 254 33.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9d7f5bff-bf1b-47c7-aaf1-83d085e83b16")
 	)
 	(junction
 		(at 241.3 17.78)
@@ -5702,16 +5714,6 @@
 	)
 	(wire
 		(pts
-			(xy 294.64 170.18) (xy 284.48 170.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "06f876d3-d0f6-4571-85df-418f04be937a")
-	)
-	(wire
-		(pts
 			(xy 246.38 17.78) (xy 246.38 25.4)
 		)
 		(stroke
@@ -5859,16 +5861,6 @@
 			(type default)
 		)
 		(uuid "1da387b8-dd8c-4e9a-ac46-3896e3ff5b51")
-	)
-	(wire
-		(pts
-			(xy 254 24.13) (xy 254 43.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1da5206c-0040-4532-a79a-284477ff3d61")
 	)
 	(wire
 		(pts
@@ -6142,6 +6134,16 @@
 	)
 	(wire
 		(pts
+			(xy 254 33.02) (xy 254 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3e702a21-1607-4e2a-8c43-5946cc29fcf4")
+	)
+	(wire
+		(pts
 			(xy 66.04 196.85) (xy 66.04 198.12)
 		)
 		(stroke
@@ -6219,6 +6221,16 @@
 			(type default)
 		)
 		(uuid "4991a2d9-1ebf-4027-a8e6-70e267831ec7")
+	)
+	(wire
+		(pts
+			(xy 250.19 33.02) (xy 254 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4a1dc86b-a16b-4b14-b4d6-cafe2f6f2109")
 	)
 	(wire
 		(pts
@@ -6449,6 +6461,16 @@
 			(type default)
 		)
 		(uuid "6458a787-b802-4f16-aa68-2eebc18c7aa0")
+	)
+	(wire
+		(pts
+			(xy 365.76 240.03) (xy 359.41 240.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "64b3948e-3043-487a-9364-bff9ddd24122")
 	)
 	(wire
 		(pts
@@ -7392,16 +7414,6 @@
 	)
 	(wire
 		(pts
-			(xy 294.64 165.1) (xy 284.48 165.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e6007a50-f74f-4176-b88a-27e2bf468b51")
-	)
-	(wire
-		(pts
 			(xy 251.46 185.42) (xy 251.46 190.5)
 		)
 		(stroke
@@ -7492,6 +7504,16 @@
 	)
 	(wire
 		(pts
+			(xy 99.06 252.73) (xy 99.06 254)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ef87709f-8052-47cf-9437-09f3676c238b")
+	)
+	(wire
+		(pts
 			(xy 246.38 30.48) (xy 246.38 43.18)
 		)
 		(stroke
@@ -7502,7 +7524,7 @@
 	)
 	(wire
 		(pts
-			(xy 251.46 34.29) (xy 251.46 43.18)
+			(xy 251.46 35.56) (xy 251.46 43.18)
 		)
 		(stroke
 			(width 0)
@@ -7539,6 +7561,16 @@
 			(type default)
 		)
 		(uuid "f42fae67-4648-4647-8b3b-fce0cb22aac1")
+	)
+	(wire
+		(pts
+			(xy 254 24.13) (xy 254 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f88f2d34-f09f-406b-8ca2-8c7b339dc9b4")
 	)
 	(wire
 		(pts
@@ -7651,7 +7683,7 @@
 		(uuid "5ec5a2dd-f3ca-4736-87f2-ace7ef3061da")
 	)
 	(label "VDDH"
-		(at 254 41.91 90)
+		(at 254 39.37 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7669,6 +7701,16 @@
 			(justify right bottom)
 		)
 		(uuid "7109d126-0c3b-4e8b-8f36-8b5cb923058b")
+	)
+	(label "VBUS"
+		(at 365.76 240.03 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "74b3df40-6056-42d9-98ec-3039897337d2")
 	)
 	(label "DEC6"
 		(at 243.84 38.1 270)
@@ -7691,7 +7733,7 @@
 		(uuid "7f83e47a-88d5-4e2f-b31d-d18a0b03d7ad")
 	)
 	(label "VDD_NRF"
-		(at 251.46 34.29 270)
+		(at 251.46 35.56 270)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7918,6 +7960,28 @@
 	)
 	(global_label "BATT_STAT"
 		(shape input)
+		(at 284.48 170.18 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1e564e16-800c-4089-b40a-0a689b29203b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 296.9599 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "BATT_STAT"
+		(shape input)
 		(at 80.01 191.77 0)
 		(fields_autoplaced yes)
 		(effects
@@ -7951,28 +8015,6 @@
 		(uuid "3154d643-6209-4925-bed6-3036d2e14158")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 292.908 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "batt_level"
-		(shape input)
-		(at 284.48 58.42 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "3d33b6f0-c934-4f48-902e-a5026103b726")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 296.0032 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8334,28 +8376,6 @@
 			)
 		)
 	)
-	(global_label "CHRG"
-		(shape input)
-		(at 294.64 170.18 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "e409fff3-23bd-49d6-92ed-575ee179773a")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 302.1115 170.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(symbol
 		(lib_id "Device:C_Small")
 		(at 306.07 53.34 270)
@@ -8425,7 +8445,7 @@
 	)
 	(symbol
 		(lib_id "power:+BATT")
-		(at 99.06 254 0)
+		(at 99.06 252.73 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8434,7 +8454,7 @@
 		(fields_autoplaced yes)
 		(uuid "043f92c8-a24f-4212-adae-138da071f542")
 		(property "Reference" "#PWR026"
-			(at 99.06 257.81 0)
+			(at 99.06 256.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8443,7 +8463,7 @@
 			)
 		)
 		(property "Value" "+BATT"
-			(at 99.06 248.92 0)
+			(at 99.06 247.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8451,7 +8471,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 99.06 254 0)
+			(at 99.06 252.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8460,7 +8480,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 99.06 254 0)
+			(at 99.06 252.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8469,7 +8489,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+BATT\""
-			(at 99.06 254 0)
+			(at 99.06 252.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8653,7 +8673,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 76.962 265.43 90)
 			(effects
 				(font
@@ -8780,7 +8800,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "VBUS_USB"
+		(property "Value" "VBUS"
 			(at 96.52 102.8699 0)
 			(effects
 				(font
@@ -9203,7 +9223,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "VBUS_USB"
+		(property "Value" "VBUS"
 			(at 25.4 114.2999 0)
 			(effects
 				(font
@@ -9834,7 +9854,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "VBUS_USB"
+		(property "Value" "VBUS"
 			(at 41.91 248.9199 0)
 			(effects
 				(font
@@ -9862,6 +9882,15 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VBUS\""
+			(at 39.37 250.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 39.37 250.19 0)
 			(effects
 				(font
@@ -10855,7 +10884,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_USB:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal"
+		(property "Footprint" "Library:USB-C_16P_HandSolder"
 			(at 40.64 52.07 0)
 			(effects
 				(font
@@ -10937,72 +10966,6 @@
 			(project ""
 				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7"
 					(reference "J3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+BATT")
-		(at 347.98 240.03 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "6c20cdd5-55b5-4872-add9-6bcb44d3dcfa")
-		(property "Reference" "#PWR010"
-			(at 347.98 243.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+BATT"
-			(at 347.98 234.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 347.98 240.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 347.98 240.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+BATT\""
-			(at 347.98 240.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d8d95cbd-6693-4e88-88b1-135c06943f58")
-		)
-		(instances
-			(project "PH60_Rev3"
-				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7"
-					(reference "#PWR010")
 					(unit 1)
 				)
 			)
@@ -11321,7 +11284,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 40.132 177.8 90)
 			(effects
 				(font
@@ -12018,7 +11981,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "VBUS_USB"
+		(property "Value" "VBUS"
 			(at 36.83 168.9099 0)
 			(effects
 				(font
@@ -12094,7 +12057,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 40.132 187.96 90)
 			(effects
 				(font
@@ -12131,72 +12094,6 @@
 			(project "PH60_Rev3"
 				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7"
 					(reference "R2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:PWR_FLAG")
-		(at 347.98 240.03 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a26a42bd-7b10-4056-a32a-c45346788c88")
-		(property "Reference" "#FLG04"
-			(at 347.98 241.935 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "PWR_FLAG"
-			(at 347.98 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 347.98 240.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 347.98 240.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 347.98 240.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "be578ccb-fac1-4a01-b8d5-18fb84f08863")
-		)
-		(instances
-			(project "PH60_Rev3"
-				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7"
-					(reference "#FLG04")
 					(unit 1)
 				)
 			)
@@ -12557,10 +12454,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "b366d13e-1f21-4849-8f7b-f1c0a37f7cf7")
 		(property "Reference" "R5"
-			(at 288.29 168.91 90)
+			(at 288.29 171.45 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12568,7 +12464,7 @@
 			)
 		)
 		(property "Value" "1R"
-			(at 288.29 171.45 90)
+			(at 288.036 173.228 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12837,7 +12733,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "VBUS_USB"
+		(property "Value" "VBUS"
 			(at 354.33 234.9499 0)
 			(effects
 				(font
@@ -13036,7 +12932,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "VBUS_USB"
+		(property "Value" "VBUS"
 			(at 77.47 24.1299 0)
 			(effects
 				(font
@@ -13145,6 +13041,72 @@
 			(project ""
 				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7"
 					(reference "#PWR02")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+BATT")
+		(at 250.19 33.02 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cba59736-ee5d-4b29-9d25-bcf0207c4c92")
+		(property "Reference" "#PWR010"
+			(at 250.19 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+BATT"
+			(at 250.19 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 250.19 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 250.19 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+BATT\""
+			(at 250.19 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "828f3621-a6af-4491-9c11-47f1a907d1ad")
+		)
+		(instances
+			(project "PH60_Rev3"
+				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7"
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
@@ -13584,7 +13546,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 40.3352 261.62 0)
 			(effects
 				(font
@@ -13654,7 +13616,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 93.6752 189.23 0)
 			(effects
 				(font

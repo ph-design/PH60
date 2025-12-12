@@ -240,7 +240,12 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      [
+        "power_pin_not_driven|2514600|431800|d461254a-8567-48a1-a567-2ca5d5683455|00000000-0000-0000-0000-000000000000|/dca0f898-8fdb-4522-a51d-f4f4238906e7|/dca0f898-8fdb-4522-a51d-f4f4238906e7|",
+        "VDD is in HV mode"
+      ]
+    ],
     "meta": {
       "version": 0
     },
