@@ -496,7 +496,8 @@
     "net_colors": {
       "Net-(U2-ANT)": "rgb(255, 0, 196)",
       "Net-(U2-D-)": "rgb(255, 11, 171)",
-      "VBUS": "rgb(255, 9, 66)"
+      "VBUS": "rgb(255, 9, 66)",
+      "unconnected-(U1-STDBY-Pad5)": "rgb(255, 9, 66)"
     },
     "netclass_assignments": null,
     "netclass_patterns": [

@@ -6922,6 +6922,16 @@
 	)
 	(wire
 		(pts
+			(xy 80.01 191.77) (xy 76.2 191.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b45bb15f-0170-4559-9771-ae4b8b5aa6d7")
+	)
+	(wire
+		(pts
 			(xy 204.47 68.58) (xy 218.44 68.58)
 		)
 		(stroke
@@ -7908,7 +7918,7 @@
 	)
 	(global_label "BATT_STAT"
 		(shape input)
-		(at 77.47 191.77 0)
+		(at 80.01 191.77 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7918,7 +7928,7 @@
 		)
 		(uuid "1e6ed12c-6ff8-4801-b34d-61cb21b13409")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 89.9499 191.77 0)
+			(at 92.4899 191.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
