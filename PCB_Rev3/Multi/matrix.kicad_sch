@@ -1232,12 +1232,6 @@
 		(uuid "b31ac191-b5d2-4edc-95f9-0ad9072a8b33")
 	)
 	(junction
-		(at 297.18 147.32)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b32d1dee-2c35-45ce-a0ca-ff81212f9213")
-	)
-	(junction
 		(at 144.78 147.32)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1290,12 +1284,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c7da28e3-0109-450a-bea9-416c8da91524")
-	)
-	(junction
-		(at 307.34 146.05)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c8e6f27a-488f-4e3e-a0ee-d39b2859c38c")
 	)
 	(junction
 		(at 78.74 147.32)
@@ -1640,16 +1628,6 @@
 			(type default)
 		)
 		(uuid "0622ac04-b55e-4706-8558-008122f74d88")
-	)
-	(wire
-		(pts
-			(xy 295.91 146.05) (xy 295.91 147.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "068cff57-7800-437d-8aef-f05e0476d9d8")
 	)
 	(wire
 		(pts
@@ -2593,16 +2571,6 @@
 	)
 	(wire
 		(pts
-			(xy 307.34 125.73) (xy 307.34 146.05)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5094ef78-b3d3-42c6-ac25-1af758346aaf")
-	)
-	(wire
-		(pts
 			(xy 144.78 147.32) (xy 144.78 148.59)
 		)
 		(stroke
@@ -2873,7 +2841,7 @@
 	)
 	(wire
 		(pts
-			(xy 307.34 146.05) (xy 307.34 147.32)
+			(xy 307.34 125.73) (xy 307.34 147.32)
 		)
 		(stroke
 			(width 0)
@@ -3460,16 +3428,6 @@
 			(type default)
 		)
 		(uuid "928676e5-c6b3-4a23-8d4c-7ac6b124fce2")
-	)
-	(wire
-		(pts
-			(xy 295.91 147.32) (xy 297.18 147.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "930b0176-fcb4-4a3d-b50c-574cae0ea791")
 	)
 	(wire
 		(pts
@@ -4260,16 +4218,6 @@
 			(type default)
 		)
 		(uuid "d4b157ed-bd23-4e29-a31a-825fa521fe29")
-	)
-	(wire
-		(pts
-			(xy 306.07 146.05) (xy 307.34 146.05)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d4daee1e-1d94-48af-8953-303f39af6feb")
 	)
 	(wire
 		(pts
@@ -8324,6 +8272,70 @@
 			(project ""
 				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7/dc5cd3b2-ef82-41de-b720-71645d542746"
 					(reference "D5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PCM_marbastlib-mx:MX_stab")
+		(at 363.22 128.27 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3386ae99-c69a-4a61-9271-d1231622aa0c")
+		(property "Reference" "S55-x1"
+			(at 369.57 126.8729 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MX_stab"
+			(at 369.57 129.4129 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_Mounting_Keyboard_Stabilizer:Stabilizer_Cherry_MX_2.00u"
+			(at 363.22 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 363.22 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Cherry MX-style stabilizer"
+			(at 363.22 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "PH60_Rev3"
+				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7/dc5cd3b2-ef82-41de-b720-71645d542746"
+					(reference "S55-x1")
 					(unit 1)
 				)
 			)
@@ -16432,74 +16444,6 @@
 			(project ""
 				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7/dc5cd3b2-ef82-41de-b720-71645d542746"
 					(reference "D39")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 300.99 146.05 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "e923e37f-4043-4410-8ea1-b7d49612b1fc")
-		(property "Reference" "S61-1"
-			(at 297.434 141.732 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Value" "MX1A"
-			(at 297.688 143.764 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.50u"
-			(at 300.99 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 300.99 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, generic, two pins"
-			(at 300.99 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "11e86dfc-d2a4-4be0-bfd2-a52a83ee2fa5")
-		)
-		(pin "1"
-			(uuid "ef571557-c22c-421a-8369-1360bc161f10")
-		)
-		(instances
-			(project "PH60_Rev3"
-				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7/dc5cd3b2-ef82-41de-b720-71645d542746"
-					(reference "S61-1")
 					(unit 1)
 				)
 			)
