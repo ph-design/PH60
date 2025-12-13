@@ -515,7 +515,7 @@
       "plot": "../../Production/PH60-Rev2-Multi/",
       "pos_files": "../../Production/PH60-Rev2-Multi/",
       "specctra_dsn": "",
-      "step": "../../PCB_Model_Rev2/PH60_Rev2.step",
+      "step": "../../../../../../Desktop/PH60_Rev3_12.13.step",
       "svg": "",
       "vrml": ""
     },
