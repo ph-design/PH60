@@ -5292,7 +5292,7 @@
 		)
 		(uuid "31522a26-cd3c-43c8-bdae-07a6271a6897")
 	)
-	(text "Daughterboard connector"
+	(text "Daughterboard connector\n(DNP)"
 		(exclude_from_sim no)
 		(at 39.37 143.51 0)
 		(effects
@@ -9308,7 +9308,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "30dfc753-dd61-4edd-b3d8-13bf0704b7d9")
@@ -9645,7 +9645,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "45f06d18-859b-44d0-bb87-8e833206417e")
@@ -12885,7 +12885,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bfd37d99-c20c-45f1-bebc-63fd4569a41c")
@@ -13787,7 +13787,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 88.5952 265.43 0)
 			(effects
 				(font
