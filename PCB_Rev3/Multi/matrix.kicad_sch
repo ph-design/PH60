@@ -607,7 +607,7 @@
 		)
 		(uuid "05e61a2e-d7b3-4a90-83ab-8bff6acc11a2")
 	)
-	(text "6u/6.25u/7u ? 2.25u/1.25u/2.75u\nSPCACE\n"
+	(text "6.25u/7u ? 2.25u/1.25u/2.75u\nSPCACE\n"
 		(exclude_from_sim no)
 		(at 198.12 163.83 0)
 		(effects
@@ -990,12 +990,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6ea66332-fb17-46e1-8441-805ea42daf01")
-	)
-	(junction
-		(at 198.12 147.32)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6fc4b576-0578-43c7-b723-695609db3624")
 	)
 	(junction
 		(at 332.74 82.55)
@@ -1496,12 +1490,6 @@
 		(uuid "ef86eea1-ad2a-4a96-8fae-dccafa110f58")
 	)
 	(junction
-		(at 200.66 137.16)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f12a4c27-6312-48e6-9ccb-a96486f83cca")
-	)
-	(junction
 		(at 78.74 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1891,7 +1879,7 @@
 	)
 	(wire
 		(pts
-			(xy 200.66 137.16) (xy 205.74 137.16)
+			(xy 198.12 137.16) (xy 205.74 137.16)
 		)
 		(stroke
 			(width 0)
@@ -1908,16 +1896,6 @@
 			(type default)
 		)
 		(uuid "17d1ffcc-02a0-47f9-8282-23535818fa74")
-	)
-	(wire
-		(pts
-			(xy 198.12 137.16) (xy 200.66 137.16)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1c6dca0d-87c6-4ebd-b26b-2c329f2894c5")
 	)
 	(wire
 		(pts
@@ -2078,16 +2056,6 @@
 			(type default)
 		)
 		(uuid "2cf2be86-d1b0-44dc-a60b-e3c945a17873")
-	)
-	(wire
-		(pts
-			(xy 198.12 147.32) (xy 200.66 147.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2cfad57f-f244-4944-9938-285b411d19e7")
 	)
 	(wire
 		(pts
@@ -8924,74 +8892,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 200.66 142.24 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "3ea413b2-596e-4575-81c6-53dfd0e9e4c7")
-		(property "Reference" "S58"
-			(at 195.326 139.954 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Value" "MX1A"
-			(at 197.104 140.462 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_6.00u"
-			(at 205.74 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 205.74 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, generic, two pins"
-			(at 200.66 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "5ce2f09f-5ca6-413d-93ca-5d8ec9c4cb42")
-		)
-		(pin "1"
-			(uuid "4cc4b352-e6af-4fc7-8265-380972a73121")
-		)
-		(instances
-			(project "PH60_Rev3"
-				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7/dc5cd3b2-ef82-41de-b720-71645d542746"
-					(reference "S58")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:D")
 		(at 373.38 109.22 90)
 		(unit 1)
@@ -9240,7 +9140,7 @@
 		(at 161.29 149.86 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -9373,7 +9273,7 @@
 		(at 161.29 156.21 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)

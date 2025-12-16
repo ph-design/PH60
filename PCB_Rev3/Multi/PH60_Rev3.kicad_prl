@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 2,
+    "active_layer": 3,
     "active_layer_preset": "",
     "auto_track_width": false,
     "hidden_netclasses": [],
@@ -8,7 +8,7 @@
       "GND",
       "+BATT"
     ],
-    "high_contrast_mode": 1,
+    "high_contrast_mode": 0,
     "net_color_mode": 2,
     "opacity": {
       "images": 0.6,
@@ -100,7 +100,7 @@
       16,
       16,
       16,
-      26
+      128
     ],
     "custom_group_rules": [],
     "expanded_rows": [],
