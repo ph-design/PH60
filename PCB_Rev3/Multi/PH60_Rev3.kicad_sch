@@ -5292,7 +5292,7 @@
 		)
 		(uuid "31522a26-cd3c-43c8-bdae-07a6271a6897")
 	)
-	(text "Daughterboard connector"
+	(text "Daughterboard connector\n(DNP)"
 		(exclude_from_sim no)
 		(at 39.37 143.51 0)
 		(effects
@@ -5613,12 +5613,20 @@
 		(uuid "105566c5-9024-464d-b2b7-df794766cb93")
 	)
 	(no_connect
+		(at 284.48 144.78)
+		(uuid "1dd290e7-1f72-4f77-9907-6fb0910c6a28")
+	)
+	(no_connect
 		(at 284.48 167.64)
 		(uuid "2cba5208-13dc-4d8d-a36d-1542a45d793c")
 	)
 	(no_connect
 		(at 284.48 124.46)
 		(uuid "3774aa1b-ec35-4ede-89c0-5b1047f6f134")
+	)
+	(no_connect
+		(at 284.48 111.76)
+		(uuid "3b9d21db-19ad-4053-a3ab-ec07ec279ec3")
 	)
 	(no_connect
 		(at 284.48 68.58)
@@ -5649,6 +5657,10 @@
 		(uuid "75b11f5a-e9e3-4ab9-947b-ea5c5365b3ab")
 	)
 	(no_connect
+		(at 284.48 127)
+		(uuid "7c7a5d9f-b37a-457b-b567-e4a67c14e65f")
+	)
+	(no_connect
 		(at 233.68 43.18)
 		(uuid "85c2eae2-8caa-4c60-a379-9902383226c2")
 	)
@@ -5667,6 +5679,18 @@
 	(no_connect
 		(at 284.48 152.4)
 		(uuid "a62b5842-3f23-4ea8-9b2c-0ad040c3b897")
+	)
+	(no_connect
+		(at 284.48 139.7)
+		(uuid "a68e4a80-fef0-4a40-8b09-ee9e655c88f7")
+	)
+	(no_connect
+		(at 284.48 132.08)
+		(uuid "b4245004-c90b-4fd9-8c98-b1d5ef2c7ac8")
+	)
+	(no_connect
+		(at 284.48 58.42)
+		(uuid "b731939d-abbd-4e9e-ad1f-4e177169137d")
 	)
 	(no_connect
 		(at 284.48 91.44)
@@ -5689,8 +5713,16 @@
 		(uuid "ea8fdb45-b73a-4946-b654-2dd0bdcfe030")
 	)
 	(no_connect
+		(at 284.48 134.62)
+		(uuid "ec1e31fd-580f-4efe-a7e0-5653be4b63d7")
+	)
+	(no_connect
 		(at 52.07 67.31)
 		(uuid "eddbfca9-d7a9-4e80-b197-b7a4a27f0c5e")
+	)
+	(no_connect
+		(at 284.48 149.86)
+		(uuid "fba0b322-5a71-48ed-b355-2e02ff78de8b")
 	)
 	(wire
 		(pts
@@ -9276,7 +9308,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "30dfc753-dd61-4edd-b3d8-13bf0704b7d9")
@@ -9613,7 +9645,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "45f06d18-859b-44d0-bb87-8e833206417e")
@@ -12853,7 +12885,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bfd37d99-c20c-45f1-bebc-63fd4569a41c")
@@ -13755,7 +13787,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 88.5952 265.43 0)
 			(effects
 				(font
