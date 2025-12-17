@@ -938,6 +938,12 @@
 		(uuid "603019e2-28ad-4383-9eae-b84707991538")
 	)
 	(junction
+		(at 198.12 147.32)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "61616e66-effe-40fa-aab6-c6cef3ab0c66")
+	)
+	(junction
 		(at 53.34 102.87)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1242,6 +1248,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bc2e8e55-7f4b-4fbc-a44e-7186d2ec9b28")
+	)
+	(junction
+		(at 201.93 137.16)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bd555dca-3741-4b87-87d5-e817fa0f697d")
 	)
 	(junction
 		(at 358.14 82.55)
@@ -1779,6 +1791,16 @@
 	)
 	(wire
 		(pts
+			(xy 201.93 137.16) (xy 205.74 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "12bccf66-9574-4181-a6eb-a9c92dcfa0f9")
+	)
+	(wire
+		(pts
 			(xy 170.18 113.03) (xy 170.18 114.3)
 		)
 		(stroke
@@ -1879,7 +1901,7 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 137.16) (xy 205.74 137.16)
+			(xy 198.12 137.16) (xy 201.93 137.16)
 		)
 		(stroke
 			(width 0)
@@ -3226,6 +3248,16 @@
 			(type default)
 		)
 		(uuid "847435ba-28ff-4f41-bdd1-6bd7c6371e94")
+	)
+	(wire
+		(pts
+			(xy 198.12 147.32) (xy 201.93 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "85b405a4-db32-48e9-bc8d-8295ded51f1b")
 	)
 	(wire
 		(pts
@@ -9843,6 +9875,74 @@
 			(project ""
 				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7/dc5cd3b2-ef82-41de-b720-71645d542746"
 					(reference "S1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 201.93 142.24 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "50fba210-0543-45b9-a66a-98dac67b73a3")
+		(property "Reference" "S60-2"
+			(at 197.104 147.32 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "MX1A"
+			(at 211.582 143.51 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_6.25u"
+			(at 196.85 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 196.85 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 201.93 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "e25f5167-2424-4c3e-80b0-f67acc721fcd")
+		)
+		(pin "1"
+			(uuid "8188dc85-fda5-48a2-9aa3-69b7b7a665c3")
+		)
+		(instances
+			(project "PH60_Rev3"
+				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7/dc5cd3b2-ef82-41de-b720-71645d542746"
+					(reference "S60-2")
 					(unit 1)
 				)
 			)
