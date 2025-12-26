@@ -6,6 +6,10 @@
 
 ---
 
+**More at [GitHub Repo](https://github.com/ph-design/PH60) | [Discord](https://discord.gg/8UfQXcefPH) | [Taobao Store](https://shop268559013.taobao.com) | [QQ Group]([https://your-qq-group-link](https://qm.qq.com/q/oTGGu0rjs6)) | [Customization Tool](https://custom.phdesign.cc)**
+
+---
+
 # Introduction
 
 **PH60 Revision 3** is a 60% mechanical keyboard kit that includes a set of FDM 3D-printable case parts and the **PH60W** tri-mode PCB. In this revision we reworked many key designs from the previous version with wireless and universality as goals; added support for multiple battery and magnet sizes; reduced the number of non-printed parts; and significantly optimized material usage and print time for FDM 3D printing.
@@ -14,7 +18,7 @@
 
 ## Features
 
-+ 🎯 Case designed for FDM 3D printing — printable on any 3D printer with a bed larger than 300 mm × 300 mm, no supports required.
++ 🎯 Case designed for FDM 3D printing — printable on any 3D printer with a bed larger than 256 mm × 256 mm, no supports required.
 + 🏠 Family-style magnetic quick-release latch system for easy disassembly and maintenance of any keyboard component.
 + ✊ Unique O-ring gasket plate design providing a firm, crisp typing feel without any infill.
 + 📦 Modular installation design supporting up to 100 × 50 × 5 mm LiPo battery packs and 10 × 5 × 5 mm magnets.
@@ -23,6 +27,18 @@
 + 💻 Powered by the [Raspberry Pi RP2040](https://www.raspberrypi.com/products/rp2040/) microcontroller.
 + 💖 Supports open-source [QMK firmware](https://qmk.fm/) and [VIA configuration](https://www.caniusevia.com/) (via JSON).
 + ♻️ Ongoing updates to plate designs for popular layouts such as ANSI, ISO, and HHKB.
+
+## Customization
+
+Use our [web-base tool](https://custom.phdesign.cc) to customize your own PH60R3 experience with live 3D preview.
+
+![PHD Customizer](Assets/customizer.png)
+
+## PH60 Multi V2 PCB
+
+In our [official Taobao store](https://shop268559013.taobao.com) purchase the PH60 Multi V2 PCB for a perfect compatibility experience with the PH60 Rev3 case.
+
+![PH60 Multi V2 PCB](Assets/ph60_multi_v2.jpg)
 
 ## Printing Guide
 
@@ -63,7 +79,7 @@ Refer to the assembly video tutorials for step-by-step guidance.
 The Rev3 case models are in the dev branch under the [Case_Model_Rev3](Case_Model_Rev3/) directory. Plate files are inside the `/Plate` folder within that directory. Download and print the models as needed.
 
 ### 2. Which 3D printers can print the Rev3 case?
-PH60 Rev3 case is designed for most FDM 3D printers. If your printer bed is larger than 300 × 300 mm and can print PLA or PETG, you should be able to print the case.
+PH60 Rev3 case is designed for most FDM 3D printers. If your printer bed is larger than 256 × 256 mm and can print PLA or PETG, you should be able to print the case.
 
 ### 3. Which layouts does the Rev3 case support?
 PH60 Rev3 supports multiple 60% layouts including ANSI, ISO, and HHKB, as well as an ANSI-capable plate designed for EC60 PCB with NIZ housings for electrostatic capacitive switches. Plate designs will be continuously updated to support more popular layouts.
@@ -73,6 +89,3 @@ The Rev3 case is primarily designed for compatibility with the PH60W tri-mode PC
 
 ### 5. What battery and magnet sizes are supported?
 The Rev3 case supports up to a 100 × 50 × 5 mm LiPo battery pack. You can modify the battery tray and magnet drawers to fit other sizes; the provided dimensions are recommended and easy to source.
-
-## How can I join Rev3 testing?
-We need testers for compatibility with other tri-mode PCBs and printing results on different printer models. If you are located in Mainland China and have a large-format 3D printer (300 × 300 mm or larger) or other tri-mode PCBs, we can provide accessory kits (magnets and O‑rings) or assembled kits for testing. If interested, join our QQ group: **512933670**.
