@@ -5447,12 +5447,6 @@
 		(uuid "64b097f3-5553-43b4-b685-536331967d65")
 	)
 	(junction
-		(at 167.64 209.55)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6873d857-b928-4da6-ba6a-ca4cbed5d693")
-	)
-	(junction
 		(at 99.06 254)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5583,6 +5577,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "edd5f3d3-be53-410c-9382-22c2dc74336d")
+	)
+	(junction
+		(at 163.83 209.55)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ef70387a-486a-4106-a3f2-a2dc99117d2f")
 	)
 	(junction
 		(at 243.84 222.25)
@@ -5888,6 +5888,16 @@
 	)
 	(wire
 		(pts
+			(xy 163.83 195.58) (xy 157.48 195.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1b7d4205-7c43-4938-afe4-32afb75a7786")
+	)
+	(wire
+		(pts
 			(xy 39.37 250.19) (xy 39.37 254)
 		)
 		(stroke
@@ -5905,16 +5915,6 @@
 			(type default)
 		)
 		(uuid "1da387b8-dd8c-4e9a-ac46-3896e3ff5b51")
-	)
-	(wire
-		(pts
-			(xy 167.64 195.58) (xy 157.48 195.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1ec3fea3-b950-469f-a651-11f86f363f29")
 	)
 	(wire
 		(pts
@@ -5995,6 +5995,16 @@
 			(type default)
 		)
 		(uuid "241627cd-49aa-4afc-bbc9-6d4dcfda298e")
+	)
+	(wire
+		(pts
+			(xy 163.83 195.58) (xy 163.83 199.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "245e0809-a762-43c1-8aae-a549fc9ff777")
 	)
 	(wire
 		(pts
@@ -6135,16 +6145,6 @@
 			(type default)
 		)
 		(uuid "3afefeff-dc52-4ff1-aa96-01ad6fd7dc8d")
-	)
-	(wire
-		(pts
-			(xy 167.64 198.12) (xy 167.64 195.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3b3d5e55-f3bb-4df4-b5f0-65ce2b325fad")
 	)
 	(wire
 		(pts
@@ -6358,7 +6358,7 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 209.55) (xy 172.72 209.55)
+			(xy 163.83 209.55) (xy 172.72 209.55)
 		)
 		(stroke
 			(width 0)
@@ -6938,7 +6938,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 209.55) (xy 167.64 209.55)
+			(xy 162.56 209.55) (xy 163.83 209.55)
 		)
 		(stroke
 			(width 0)
@@ -7355,16 +7355,6 @@
 			(type default)
 		)
 		(uuid "d883c1ba-befa-4db6-bdde-0971f438456b")
-	)
-	(wire
-		(pts
-			(xy 167.64 208.28) (xy 167.64 209.55)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "daec9ba4-2766-411f-a89d-b794d4a1cf37")
 	)
 	(wire
 		(pts
@@ -8710,76 +8700,6 @@
 			(project "PH60_Rev3"
 				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7"
 					(reference "#PWR010")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:L_Small")
-		(at 167.64 200.66 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1260e044-bf31-47e4-be79-34b1bd43d092")
-		(property "Reference" "L4"
-			(at 168.91 199.3899 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "LQG15HS15NJ02D"
-			(at 168.91 201.9299 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Inductor_SMD:L_0402_1005Metric"
-			(at 167.64 200.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 167.64 200.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Inductor, small symbol"
-			(at 167.64 200.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "a7fa6df2-7a34-4adf-9fdf-cb091df41fbf")
-		)
-		(pin "1"
-			(uuid "0002b48b-694c-467b-9d68-f75b9423fd90")
-		)
-		(instances
-			(project "PH60_Rev3"
-				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7"
-					(reference "L4")
 					(unit 1)
 				)
 			)
@@ -10520,6 +10440,76 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:L_Small")
+		(at 163.83 207.01 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5993f74d-0154-415c-b8a4-e87a6af89c9d")
+		(property "Reference" "L6"
+			(at 165.1 205.7399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "LQG15HS15NJ02D"
+			(at 165.1 208.2799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Inductor_SMD:L_0402_1005Metric"
+			(at 163.83 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 163.83 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Inductor, small symbol"
+			(at 163.83 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "014052e9-bc5e-4dd5-8dd9-2a3db92ad524")
+		)
+		(pin "1"
+			(uuid "44eabbb9-642b-4a68-8df8-7315f4459100")
+		)
+		(instances
+			(project "PH60_Rev3"
+				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7"
+					(reference "L6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 184.15 68.58 90)
 		(unit 1)
@@ -11537,6 +11527,76 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:L_Small")
+		(at 163.83 201.93 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "74385fc1-9aa9-4182-943a-ae530d66ee31")
+		(property "Reference" "L2"
+			(at 165.1 200.6599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MCL1608S100MT"
+			(at 165.1 203.1999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Inductor_SMD:L_0603_1608Metric"
+			(at 163.83 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 163.83 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Inductor, small symbol"
+			(at 163.83 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "45ee19c0-51ce-48cd-9d7c-4a8557155870")
+		)
+		(pin "1"
+			(uuid "a9e08f8a-de92-4485-845a-c228d2eb0e0e")
+		)
+		(instances
+			(project "PH60_Rev3"
+				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7"
+					(reference "L2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 246.38 27.94 0)
 		(unit 1)
@@ -11806,76 +11866,6 @@
 			(project "PH60_Rev3"
 				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7"
 					(reference "L3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:L_Small")
-		(at 167.64 205.74 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "89081912-00b1-4115-b20b-c7b121785524")
-		(property "Reference" "L5"
-			(at 168.91 204.4699 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MCL1608S100MT"
-			(at 168.91 207.0099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Inductor_SMD:L_0603_1608Metric"
-			(at 167.64 205.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 167.64 205.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Inductor, small symbol"
-			(at 167.64 205.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "afa77f13-2bc4-4b17-aa4c-86510d529326")
-		)
-		(pin "1"
-			(uuid "32481a1c-cbae-47a0-ab9c-451583652945")
-		)
-		(instances
-			(project "PH60_Rev3"
-				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7"
-					(reference "L5")
 					(unit 1)
 				)
 			)
